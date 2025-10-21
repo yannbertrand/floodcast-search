@@ -1,0 +1,30 @@
+{
+	"private": true,
+	"name": "floodcast-search",
+	"version": "0.1.0",
+	"type": "module",
+	"homepage": "https://github.com/yannbertrand/floodcast-search#readme",
+	"description": "Generate FloodCast Search website",
+	"scripts": {
+		"build": "astro build",
+		"dev": "astro dev",
+		"preview": "astro preview",
+		"typecheck": "astro check",
+		"astro": "astro",
+		"data:download-audio": "./scripts/download.sh",
+		"data:write-episodes": "node ./scripts/write-episodes.ts --force",
+		"lint": "biome check",
+		"format": "biome check --write",
+		"test": "vitest"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@biomejs/biome": "2.2.6",
+		"vitest": "3.2.4"
+	},
+	"dependencies": {
+		"@astrojs/check": "0.9.5",
+		"astro": "5.14.6",
+		"typescript": "5.9.3"
+	}
+}

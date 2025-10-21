@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+
+const _episodes = await getCollection('episodes');
+---
+<html lang="fr">
+  <head>
+    <title>FloodCast Search</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Il s'agissait du FloodCast</h1>
+    {
+        _episodes.map(episode => (
+            <article>
+                <h2>{episode.data.metadata.code} - {episode.data.metadata.title}</h2>
+            </article>
+        ))
+    }
+  </body>
+</html>
