@@ -19,13 +19,16 @@ export type EpisodeMetadata = {
 
 export type EpisodeForAlgolia = {
 	id: string;
-	title: string;
-	seasonNumber: number;
-	episodeNumber: number;
-	description: string;
-	durationString: string;
-	uploadDate: string[10];
-	lines: EpisodeLineForAlgolia[];
+	start: number;
+	content: string;
+	episode: {
+		title: string;
+		seasonNumber: number;
+		episodeNumber: number;
+		description: string;
+		durationString: string;
+		uploadDate: string[10];
+	};
 };
 
 export type EpisodeLine = {
@@ -33,11 +36,6 @@ export type EpisodeLine = {
 	startString: string[12];
 	end: number;
 	endString: string[12];
-	content: string;
-};
-
-export type EpisodeLineForAlgolia = {
-	start: number;
 	content: string;
 };
 

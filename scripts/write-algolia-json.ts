@@ -27,8 +27,9 @@ async function writeAlgoliaJson(forceRewrite = false) {
 			)
 		).default;
 
-		const episode = removeEpisodeUnusedAttributes(episodeFileContent);
-		algoliaFileContent.push(episode);
+		algoliaFileContent.push(
+			...removeEpisodeUnusedAttributes(episodeFileContent),
+		);
 	}
 
 	await writeFile(
@@ -43,18 +44,18 @@ await writeAlgoliaJson(process.argv.includes('--force'));
 
 export function removeEpisodeUnusedAttributes(
 	episode: Episode,
-): EpisodeForAlgolia {
-	return {
-		id: episode.id,
-		title: episode.metadata.title,
-		seasonNumber: episode.metadata.seasonNumber,
-		episodeNumber: episode.metadata.episodeNumber,
-		description: episode.metadata.description.replace(/<[^>]*>?/gm, ''),
-		durationString: episode.metadata.durationString,
-		uploadDate: episode.metadata.uploadDate,
-		lines: episode.lines.map((line) => ({
-			start: line.start,
-			content: line.content,
-		})),
-	};
+): EpisodeForAlgolia[] {
+	return episode.lines.map((line, index) => ({
+		id: `${episode.id}_${index}`,
+		start: line.start,
+		content: line.content,
+		episode: {
+			title: episode.metadata.title,
+			seasonNumber: episode.metadata.seasonNumber,
+			episodeNumber: episode.metadata.episodeNumber,
+			description: episode.metadata.description.replace(/<[^>]*>?/gm, ''),
+			durationString: episode.metadata.durationString,
+			uploadDate: episode.metadata.uploadDate,
+		},
+	}));
 }

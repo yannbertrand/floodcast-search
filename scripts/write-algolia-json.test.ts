@@ -31,8 +31,8 @@ describe('removeEpisodeUnusedAttributes', () => {
 			],
 		};
 
-		expectTypeOf(
-			removeEpisodeUnusedAttributes(sampleEpisode),
-		).toEqualTypeOf<EpisodeForAlgolia>();
+		expectTypeOf(removeEpisodeUnusedAttributes(sampleEpisode)).toEqualTypeOf<
+			EpisodeForAlgolia[]
+		>();
 	});
 });
