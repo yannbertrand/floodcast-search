@@ -45,6 +45,7 @@ export function removeEpisodeUnusedAttributes(
 	episode: Episode,
 ): EpisodeForAlgolia {
 	return {
+		id: episode.id,
 		title: episode.metadata.title,
 		seasonNumber: episode.metadata.seasonNumber,
 		episodeNumber: episode.metadata.episodeNumber,

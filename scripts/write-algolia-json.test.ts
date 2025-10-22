@@ -5,6 +5,7 @@ import { removeEpisodeUnusedAttributes } from './write-algolia-json.ts';
 describe('removeEpisodeUnusedAttributes', () => {
 	it('should remove unused attributes', () => {
 		const sampleEpisode = {
+			id: 'S10E05_-_Folkloriste_Professionnel',
 			metadata: {
 				title: 'S10E05 - Folkloriste Professionnel',
 				seasonNumber: 10,

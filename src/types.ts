@@ -1,4 +1,5 @@
 export type Episode = {
+	id: string;
 	metadata: EpisodeMetadata;
 	lines: EpisodeLine[];
 };
@@ -17,6 +18,7 @@ export type EpisodeMetadata = {
 };
 
 export type EpisodeForAlgolia = {
+	id: string;
 	title: string;
 	seasonNumber: number;
 	episodeNumber: number;

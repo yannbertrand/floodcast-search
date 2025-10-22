@@ -74,6 +74,7 @@ export async function writeEpisodeFiles(
 		);
 
 		const episodeFileContent = {
+			id: baseFileName,
 			metadata: getEpisodeMetadataFromYtDlpEpisodeInfo(episodeInfoFileContent),
 			lines: getEpisodeLinesFromVtt(episodeSubtitlesFileContent),
 		};
