@@ -1,5 +1,7 @@
 ---
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
+import _netlifyLogo from '../../assets/netlify.svg';
 
 const _episodes = await getCollection('episodes');
 ---
@@ -17,5 +19,9 @@ const _episodes = await getCollection('episodes');
             </article>
         ))
     }
+
+    <a href="https://www.netlify.com">
+        <Image src={_netlifyLogo} alt="Deployé par Netlify" width="114" height="51">
+    </a>
   </body>
 </html>
