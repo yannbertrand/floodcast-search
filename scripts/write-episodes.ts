@@ -14,8 +14,9 @@ import type {
 const EPISODES_INFO_FILE_PATHS = 'data/yt-dlp/info/';
 const EPISODES_SUBTITLES_FILE_PATHS = 'data/subtitles/';
 const EPISODES_DESTINATION_FILE_PATHS = 'data/episodes/';
+
 export async function writeEpisodes(forceRewrite = false) {
-	const episodesYtDlpFileNames = await readdir(`${EPISODES_INFO_FILE_PATHS}`);
+	const episodesYtDlpFileNames = await getEpisodesYtDlpFileNames();
 	await writeEpisodeFiles(episodesYtDlpFileNames, forceRewrite);
 }
 
@@ -31,11 +32,12 @@ export async function writeEpisodeFiles(
 		}
 
 		const baseFileName = episodeYtDlpFileName.slice(0, -10);
-		const episodeFilePath = `${EPISODES_DESTINATION_FILE_PATHS}${baseFileName}.json`;
+		const episodeDestinationFilePath =
+			getEpisodeDestinationFilePath(baseFileName);
 		console.debug(`${baseFileName} - Analyse en cours...`);
 		if (!forceRewrite) {
 			try {
-				await access(episodeFilePath, constants.R_OK);
+				await access(episodeDestinationFilePath, constants.R_OK);
 				console.debug(
 					`${baseFileName} - Fichier destination déjà généré, passage à l'épisode suivant.\n`,
 				);
@@ -43,8 +45,7 @@ export async function writeEpisodeFiles(
 			} catch {}
 		}
 
-		const episodeSubtitleFilePath = `${EPISODES_SUBTITLES_FILE_PATHS}${baseFileName}.vtt`;
-
+		const episodeSubtitleFilePath = getEpisodeSubtitleFilePath(baseFileName);
 		try {
 			await access(episodeSubtitleFilePath, constants.R_OK);
 		} catch {
@@ -58,8 +59,9 @@ export async function writeEpisodeFiles(
 			`${baseFileName} - Sous-titres disponibles, génération en cours...`,
 		);
 
+		const episodeInfoFilePath = getEpisodeInfoFilePath(baseFileName);
 		const episodeInfoFileContent = (
-			await import(`../${EPISODES_INFO_FILE_PATHS}${episodeYtDlpFileName}`, {
+			await import(`../${episodeInfoFilePath}`, {
 				with: { type: 'json' },
 			})
 		).default;
@@ -80,7 +82,7 @@ export async function writeEpisodeFiles(
 			`${baseFileName} - Génération terminée, enregistement en cours...`,
 		);
 		await writeFile(
-			episodeFilePath,
+			episodeDestinationFilePath,
 			JSON.stringify(episodeFileContent, null, '\t'),
 		);
 
@@ -88,6 +90,26 @@ export async function writeEpisodeFiles(
 			`${baseFileName} - Enregistrement terminé, passage à l'épisode suivant.\n`,
 		);
 	}
+}
+
+export async function getEpisodesYtDlpFileNames() {
+	return readdir(`${EPISODES_INFO_FILE_PATHS}`);
+}
+
+export function getEpisodeInfoFilePath(episodeFileName: string): string {
+	return `${EPISODES_INFO_FILE_PATHS}${episodeFileName}.info.json`;
+}
+
+export function getEpisodeSubtitleFilePath(episodeFileName: string): string {
+	return `${EPISODES_SUBTITLES_FILE_PATHS}${episodeFileName}.vtt`;
+}
+
+export async function getEpisodesFileNames() {
+	return readdir(`${EPISODES_DESTINATION_FILE_PATHS}`);
+}
+
+export function getEpisodeDestinationFilePath(episodeFileName: string): string {
+	return `${EPISODES_DESTINATION_FILE_PATHS}${episodeFileName}.json`;
 }
 
 export function getEpisodeMetadataFromYtDlpEpisodeInfo(
