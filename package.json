@@ -13,6 +13,7 @@
 		"astro": "astro",
 		"data:download-audio": "./scripts/download.sh",
 		"data:write-episodes": "node ./scripts/write-episodes.ts --force",
+		"data:write-algolia-json": "node ./scripts/write-algolia-json.ts --force",
 		"lint": "biome check",
 		"format": "biome check --write",
 		"test": "vitest"

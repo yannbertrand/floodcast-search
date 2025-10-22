@@ -2,6 +2,8 @@ data/yt-dlp/audio/*
 !data/yt-dlp/audio/.gitkeep
 data/yt-dlp/info/*
 !data/yt-dlp/info/.gitkeep
+data/algolia/*
+!data/algolia/.gitkeep
 
 # build output
 dist/
