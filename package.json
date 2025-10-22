@@ -6,7 +6,7 @@
 	"homepage": "https://github.com/yannbertrand/floodcast-search#readme",
 	"description": "Generate FloodCast Search website",
 	"scripts": {
-		"build": "astro build",
+		"build": "npm run data:write-algolia-json; astro build",
 		"dev": "astro dev",
 		"preview": "astro preview",
 		"typecheck": "astro check",
