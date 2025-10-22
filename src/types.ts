@@ -10,9 +10,9 @@ export type EpisodeMetadata = {
 	code: string[6];
 	acastUrl: string;
 	description: string;
-	duration: string;
+	duration: number;
 	durationString: string;
-	uploadTimestamp: string[10];
+	uploadTimestamp: number;
 	uploadDate: string[10];
 };
 
@@ -30,8 +30,8 @@ export type YtDlpEpisodeInfo = {
 	episode_number?: number;
 	webpage_url: string;
 	description: string;
-	duration: string;
+	duration: number;
 	duration_string: string;
-	timestamp: string[10];
+	timestamp: number;
 	upload_date: string[8];
 };
