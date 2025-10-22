@@ -1,7 +1,9 @@
 ---
+import '@picocss/pico';
 import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import _netlifyLogo from '../../assets/netlify.svg';
+import EpisodeCard from '../components/EpisodeCard.astro';
 
 const _episodes = await getCollection('episodes');
 ---
@@ -11,17 +13,30 @@ const _episodes = await getCollection('episodes');
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>Il s'agissait du FloodCast</h1>
-    {
-        _episodes.map(episode => (
-            <article>
-                <h2>{episode.data.metadata.code} - {episode.data.metadata.title}</h2>
-            </article>
-        ))
-    }
+    <main class="container">
+        <h1>Il s'agissait du FloodCast</h1>
 
-    <a href="https://www.netlify.com">
-        <Image src={_netlifyLogo} alt="Deployé par Netlify" width="114" height="51">
-    </a>
+        <ol class="list-episodes">
+        {
+            _episodes.map(episode => (
+                <li><EpisodeCard episode={episode.data} /></li>
+            ))
+        }
+        <ol>
+
+        <a href="https://www.netlify.com">
+            <Image src={_netlifyLogo} alt="Deployé par Netlify" width="114" height="51">
+        </a>
+    </main>
   </body>
 </html>
+
+<style>
+.list-episodes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--pico-spacing);
+    list-style: none;
+    padding: 0;
+}
+</style>

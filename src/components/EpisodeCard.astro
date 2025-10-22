@@ -1,0 +1,21 @@
+---
+import type { Episode } from '../types.ts';
+
+interface Props {
+	episode: Episode;
+}
+
+const { episode } = Astro.props;
+---
+<article>
+    <h2 class="title">{episode.metadata.code} - {episode.metadata.title}</h2>
+</article>
+
+<style>
+.title {
+    width: 100%;
+    --pico-font-size: 1.125rem;
+    --pico-line-height: 1.225;
+    --pico-typography-spacing-top: 1.6875rem;
+}
+</style>
