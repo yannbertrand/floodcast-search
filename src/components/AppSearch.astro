@@ -1,4 +1,9 @@
-<form id="searchbox" role="search" action="" novalidate></form>
+---
+import SearchBox from '@components/SearchBox.astro';
+---
+<form id="searchbox" role="search" action="" novalidate>
+    <SearchBox />
+</form>
 <div id="hits" class="hits"></div>
 
 <script>
@@ -18,25 +23,9 @@ function renderSearchBox  (
     const isSearchStalled = instantSearchInstance.status === 'stalled';
 
     if (isFirstRender) {
-        const input = document.createElement('input');
-        input.setAttribute('type', 'search');
-        input.setAttribute('placeholdertype', '');
-        input.setAttribute('autocompletetype', 'off');
-        input.setAttribute('autocorrect', 'off');
-        input.setAttribute('autocapitalizetype', 'none');
-        input.setAttribute('spellchecktype', 'false');
-        input.setAttribute('maxLengthtype', '512');
-        input.setAttribute('aria-label', 'Rechercher');
-
-        const loadingIndicator = document.createElement('h2');
-        loadingIndicator.textContent = 'Chargement…';
-
-        input.addEventListener('input', (event) => {
+        (container.querySelector('input') as HTMLInputElement).addEventListener('input', (event) => {
             refine((event.currentTarget as HTMLInputElement).value);
         });
-
-        container.appendChild(input);
-        container.appendChild(loadingIndicator);
     }
 
     (container.querySelector('input') as HTMLInputElement).value = query;
