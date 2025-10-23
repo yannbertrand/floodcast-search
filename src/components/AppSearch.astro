@@ -1,0 +1,58 @@
+<div id="searchbox"></div>
+<div id="hits" class="hits"></div>
+
+<script>
+import algolia from '@services/algolia.service.ts';
+import { infiniteHits, searchBox } from 'instantsearch.js/es/widgets';
+
+algolia.addWidgets([
+    searchBox({
+        container: "#searchbox",
+        cssClasses: {
+            form: 'form'
+        }
+    }),
+
+    infiniteHits({
+        container: "#hits",
+        cssClasses: {
+            list: 'list-episodes'
+        },
+        templates: {
+            showMoreText: () => 'Voir plus',
+            showPreviousText: () => 'Voir moins',
+            empty: () => '<h2>Pas de résultats</h2>',
+            item(hit, { html, components }) {
+                return html`<article>
+                    <h2 class="title">...${components.Highlight({ hit, attribute: 'content' })}...</h2>
+                    <p>${components.Highlight({ hit, attribute: 'episode.title' })}</p>
+                </article>`;
+            },
+        },
+    }),
+]);
+
+algolia.start();
+</script>
+
+<style is:global>
+.form :nth-last-child(1 of :not([hidden])) {
+    border-radius: 0 var(--pico-border-radius) var(--pico-border-radius) 0;
+}
+.hits {
+    margin-bottom: var(--pico-spacing);
+}
+.list-episodes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--pico-spacing);
+    list-style: none;
+    padding: 0;
+
+    & .title {
+        --pico-font-size: 1.125rem;
+        --pico-line-height: 1.225;
+        --pico-typography-spacing-top: 1.6875rem;
+    }
+}
+</style>
