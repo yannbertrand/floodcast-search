@@ -52,6 +52,7 @@ algolia.addWidgets([
                 return html`<article>
                     <h2 class="title">...${components.Highlight({ hit, attribute: 'content' })}...</h2>
                     <p>${components.Highlight({ hit, attribute: 'episode.title' })}</p>
+                    <p>S${`${hit.episode.seasonNumber}`.padStart(2, '0')}E${`${hit.episode.episodeNumber}`.padStart(2, '0')}</p>
                 </article>`;
             },
         },
