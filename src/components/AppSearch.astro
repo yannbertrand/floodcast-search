@@ -77,10 +77,10 @@ algolia.addWidgets([
             showPreviousText: () => 'Voir moins',
             empty: () => '<h2>Pas de résultats</h2>',
             item(hit, { html, components }) {
+                const code = html`S${`${hit.episode.seasonNumber}`.padStart(2, '0')}E${`${hit.episode.episodeNumber}`.padStart(2, '0')}`
                 return html`<article>
-                    <h2 class="title">...${components.Highlight({ hit, attribute: 'content' })}...</h2>
-                    <p>${components.Highlight({ hit, attribute: 'episode.title' })}</p>
-                    <p>S${`${hit.episode.seasonNumber}`.padStart(2, '0')}E${`${hit.episode.episodeNumber}`.padStart(2, '0')}</p>
+                    <h2 class="title">${components.Highlight({ hit, attribute: 'episode.title' })} <small>${code}</small></h2>
+                    <p>...${components.Highlight({ hit, attribute: 'content' })}...</p>
                 </article>`;
             },
         },
@@ -118,9 +118,15 @@ algolia.start();
     padding: 0;
 
     & .title {
-        --pico-font-size: 1.125rem;
-        --pico-line-height: 1.225;
-        --pico-typography-spacing-top: 1.6875rem;
+        --pico-font-size: 1rem;
+        --pico-line-height: 1.25;
+        --pico-typography-spacing-top: 1.5rem;
+        color: var(--pico-muted-color);
+
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: calc(var(--pico-spacing) / 2);
     }
 }
 </style>
