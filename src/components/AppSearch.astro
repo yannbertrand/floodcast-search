@@ -4,7 +4,15 @@ import SearchBox from '@components/SearchBox.astro';
 <form id="searchbox" role="search" action="" novalidate>
     <SearchBox />
 </form>
-<div id="hits" class="hits"></div>
+
+<div class="content">
+    <div class="facets">
+        <h2>Saison</h2>
+        <div id="season"></div>
+    </div>
+
+    <div id="hits" class="hits"></div>
+</div>
 
 <script>
 import algolia from '@services/algolia.service.ts';
@@ -13,6 +21,7 @@ import connectSearchBox, { type SearchBoxRenderState } from 'instantsearch.js/es
 import { getContainerNode } from 'instantsearch.js/es/lib/utils/getContainerNode';
 import { infiniteHits } from 'instantsearch.js/es/widgets';
 import type { SearchBoxWidgetParams } from 'instantsearch.js/es/widgets/search-box/search-box';
+import { refinementList } from "instantsearch.js/es/widgets";
 
 function renderSearchBox  (
     renderOptions: SearchBoxRenderState & { instantSearchInstance: { status: InstantSearchStatus }} & { widgetParams: SearchBoxWidgetParams },
@@ -39,6 +48,25 @@ algolia.addWidgets([
         container: '#searchbox'
     }),
 
+    refinementList({
+        container: "#season",
+        attribute: 'episode.seasonNumber',
+        cssClasses: {
+            list: 'list-seasons'
+        },
+        templates: {
+            item(item, { html }) {
+                const { label, count, isRefined } = item;
+
+                return html`
+                    <input type="checkbox" class="ais-RefinementList-checkbox" checked="${isRefined}" />
+                    <span class="ais-RefinementList-labelText">Saison ${label}</span>
+                    <span class="ais-RefinementList-count"> (${count})</span>
+                `
+            }
+        }
+    }),
+
     infiniteHits({
         container: '#hits',
         cssClasses: {
@@ -63,8 +91,24 @@ algolia.start();
 </script>
 
 <style is:global>
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--pico-spacing);
+}
+.facets {
+    flex-shrink: 0;
+    flex-basis: 200px;
+}
+.list-seasons {
+    padding: 0;
+}
+.list-seasons li::marker {
+    content: '';
+}
 .hits {
     margin-bottom: var(--pico-spacing);
+    flex: 1;
 }
 .list-episodes {
     display: grid;
