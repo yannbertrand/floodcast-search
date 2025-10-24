@@ -1,10 +1,17 @@
-<input
-    type="search"
-    aria-label="Rechercher"
-    autocomplete="off"
-    autocorrect="off"
-    autocapitalize="none"
-    spellcheck="false"
-    maxlength="80"
-/>
-<h2>Chargement…</h2>
+<form role="search" action="" novalidate>
+    <input
+        type="search"
+        aria-label="Rechercher"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="none"
+        spellcheck="false"
+        maxlength="80"
+    />
+</form>
+
+<style>
+input[type="search"].loading {
+    background-image: var(--pico-icon-loading);
+}
+</style>

@@ -1,9 +1,9 @@
 ---
 import SearchBox from '@components/SearchBox.astro';
 ---
-<form id="searchbox" role="search" action="" novalidate>
+<div id="searchbox">
     <SearchBox />
-</form>
+</div>
 
 <div class="content">
     <div class="facets">
@@ -30,15 +30,20 @@ function renderSearchBox  (
     const { query, refine, instantSearchInstance, widgetParams } = renderOptions;
     const container = getContainerNode(widgetParams.container);
     const isSearchStalled = instantSearchInstance.status === 'stalled';
+    const input = container.querySelector('input') as HTMLInputElement;
 
     if (isFirstRender) {
-        (container.querySelector('input') as HTMLInputElement).addEventListener('input', (event) => {
+        input.addEventListener('input', (event) => {
             refine((event.currentTarget as HTMLInputElement).value);
         });
     }
 
-    (container.querySelector('input') as HTMLInputElement).value = query;
-    (container.querySelector('h2') as HTMLSpanElement).hidden = !isSearchStalled;
+    input.value = query;
+    if (isSearchStalled) {
+        input.classList.add('loading');
+    } else {
+        input.classList.remove('loading');
+    }
 };
 
 const customSearchBox = connectSearchBox(renderSearchBox);
