@@ -189,8 +189,9 @@ export function getEpisodeLinesFromVtt(vttContent: string): EpisodeLine[] {
 		}
 
 		const lineInfo = vttLine.match(
-			/^(?<start>\d{2}:\d{2}:\d{2}\.\d{3}) --> (?<end>\d{2}:\d{2}:\d{2}\.\d{3})$/,
+			/^(?<start>(\d{2}:)?\d{2}:\d{2}\.\d{3}) --> (?<end>(\d{2}:)?\d{2}:\d{2}\.\d{3})$/,
 		);
+
 		if (
 			lineInfo === null ||
 			lineInfo.groups === undefined ||
@@ -218,14 +219,16 @@ export function getEpisodeLinesFromVtt(vttContent: string): EpisodeLine[] {
 
 function convertVttTimecodeToNumber(vttTimecode: string): number {
 	const timecodeInfo = vttTimecode.match(
-		/^(?<hours>\d{2}):(?<minutes>\d{2}):(?<seconds>\d{2})\.(?<milliseconds>\d{3})$/,
+		/^((?<hours>\d{2}):)?(?<minutes>\d{2}):(?<seconds>\d{2})\.(?<milliseconds>\d{3})$/,
 	);
 	if (timecodeInfo === null || timecodeInfo.groups === undefined) {
 		throw new Error("Un timecode VTT n'a pas pu être décodé");
 	}
 
 	return (
-		Number.parseInt(timecodeInfo.groups.hours, 10) * 3_600 +
+		(timecodeInfo.groups.hours
+			? Number.parseInt(timecodeInfo.groups.hours, 10) * 3_600
+			: 0) +
 		Number.parseInt(timecodeInfo.groups.minutes, 10) * 60 +
 		Number.parseInt(timecodeInfo.groups.seconds, 10) +
 		Number.parseInt(timecodeInfo.groups.milliseconds, 10) / 1_000
