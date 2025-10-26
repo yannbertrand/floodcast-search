@@ -1,0 +1,6765 @@
+{
+	"id": "S05E21_-_Gratin_Confine",
+	"metadata": {
+		"title": "Gratin Confiné",
+		"seasonNumber": 5,
+		"episodeNumber": 21,
+		"code": "S05E21",
+		"acastUrl": "https://sphinx.acast.com/p/open/s/5ffe3facad3e633276e9ea57/e/tag%3Asoundcloud%2C2010%3Atracks%2F781857169/media.mp3#__youtubedl_smuggle=%7B%22force_videoid%22%3A+%22tag%3Asoundcloud%2C2010%3Atracks%2F781857169%22%7D",
+		"description": "Avec Natoo, Léopold Lemarchand, McFly, Pierre Lapin, Julien Paniac, Maxence Lapérouse, Dan Gagnon, Clara Lesage et ma mère.On en parle de choses : un spécialiste du Covid, ma mère peu amusée, un pardon fraternel, des applaudissements aux fenêtres...Comme d'hab, n'hésitez pas à lâcher 5 étoiles sur Apple Podcasts, ça permet de soutenir le podcast en le mettant dans le Top Itunes et ça permet de le faire découvrir à un maximum de gens.Bises,Flo.",
+		"duration": 4126,
+		"durationString": "1:08:46",
+		"uploadTimestamp": 1585000742,
+		"uploadDate": "2020-03-23"
+	},
+	"lines": [
+		{
+			"start": 0,
+			"startString": "00:00.000",
+			"end": 3,
+			"endString": "00:02.640",
+			"content": "Il s'agit du FloodCast LA PUTAIN DE MERDE"
+		},
+		{
+			"start": 8,
+			"startString": "00:08.920",
+			"end": 21,
+			"endString": "00:20.060",
+			"content": "Florent Bernard Bravo Adrien Ménielle Bravo Bravo C'est très très impressionnant Ah ouais c'est toujours un spectacle de toute façon Bonjour bonsoir Vous aimez la basse ?"
+		},
+		{
+			"start": 30,
+			"startString": "00:30.220",
+			"end": 48,
+			"endString": "00:47.520",
+			"content": "Ok stop stop ok ok Personne n'y croit Eh bien bonjour bonsoir et bienvenue dans ce nouveau numéro de FloodCast Un FloodCast forcément un petit peu chelou Un FloodCast en plein confinement Un FloodCast que je vais faire sans Adrien Ménielle Qui malheureusement lui aussi est confiné de son côté Mais un FloodCast où..."
+		},
+		{
+			"start": 47,
+			"startString": "00:47.520",
+			"end": 58,
+			"endString": "00:57.560",
+			"content": "Bah je voulais quand même que ce FloodCast existe Parce que je me dis effectivement Bah là peut-être vous vous faites chier Donc ce serait vraiment con de pas sortir un truc à écouter Mais un FloodCast que je..."
+		},
+		{
+			"start": 57,
+			"startString": "00:57.560",
+			"end": 65,
+			"endString": "01:04.580",
+			"content": "Voilà je peux pas faire un FloodCast normal comme si de rien n'était dans cette situation Alors du coup je me suis dit qu'est-ce qu'on fait ?"
+		},
+		{
+			"start": 64,
+			"startString": "01:04.580",
+			"end": 80,
+			"endString": "01:19.800",
+			"content": "Et je me suis dit que j'allais essayer d'appeler des gens Essayer d'organiser des discussions Mais avec des gens que j'appelle pas souvent Alors déjà des proches Y'a ma compagne qui va arriver Parce que pour le coup elle elle est présente Donc elle va venir parler un petit peu pour qu'on parle un peu Comment ça se fait,"
+		},
+		{
+			"start": 79,
+			"startString": "01:19.900",
+			"end": 124,
+			"endString": "02:03.780",
+			"content": "comment ça se passe quand on est confiné en couple Peut-être que en en discutant ça fera écho chez certaines personnes On va appeler ma maman pour prendre un peu des nouvelles Parce que je le fais jamais donc autant le faire quand il y a une pandémie mondiale Et aussi quelques experts qui viendront discuter On va essayer de faire un FloodCast On va essayer de s'amuser Mais tout d'abord je vais appeler ma maman Alors ma maman que je n'appelle absolument jamais d'habitude Pour des raisons évidentes de je suis un mauvais fils Cela dit là c'est peut-être le moment Donc ça nous allons l'appeler Pour prendre un peu des nouvelles Deuxième sonnerie Après là j'appelle un mardi soir Donc elle est peut-être devant Pékin Express Ou peut-être qu'elle ne m'appelle pas Oui maman comment ça va ?"
+		},
+		{
+			"start": 123,
+			"startString": "02:03.780",
+			"end": 126,
+			"endString": "02:05.760",
+			"content": "Ça va et toi ?"
+		},
+		{
+			"start": 125,
+			"startString": "02:05.760",
+			"end": 138,
+			"endString": "02:17.240",
+			"content": "J 'appelais pour prendre des nouvelles Pour savoir comment tu allais Oui ça va bien Je suis mon confinement à la lettre Je suis trop bien dans ma maison Tu n'as pas envie de sortir ?"
+		},
+		{
+			"start": 137,
+			"startString": "02:17.240",
+			"end": 140,
+			"endString": "02:19.500",
+			"content": "Pas du tout non Pourquoi ?"
+		},
+		{
+			"start": 139,
+			"startString": "02:19.500",
+			"end": 142,
+			"endString": "02:21.440",
+			"content": "Tu voulais m'inviter ?"
+		},
+		{
+			"start": 141,
+			"startString": "02:21.440",
+			"end": 153,
+			"endString": "02:32.260",
+			"content": "Non je voulais juste savoir comment ça allait Ça va très bien Je me recentre C'est parfait tout va bien Tu fais de la méditation ?"
+		},
+		{
+			"start": 152,
+			"startString": "02:32.260",
+			"end": 183,
+			"endString": "03:02.600",
+			"content": "Je bouquine Je fais des cafés Avec mes amis On fait des cafés virtuels Ah oui des cafés virtuels Parce que normalement vous êtes censé rester en confinement Vous êtes censé ne pas parler Tu me prends pour une débile en fait On est d'accord Mais si tu me prends pour une débile Si si J'entends à ta voix que tu me prends pour une débile Mais pas du tout Mais si Ah et bien ma maman a raccroché,"
+		},
+		{
+			"start": 182,
+			"startString": "03:02.680",
+			"end": 191,
+			"endString": "03:10.280",
+			"content": "ce n'est pas grave je passe de la femme de ma vie à la deuxième femme de ma vie, je suis avec Clara Le Sage, ça va Clara ?"
+		},
+		{
+			"start": 190,
+			"startString": "03:10.280",
+			"end": 191,
+			"endString": "03:10.880",
+			"content": "Oui ça va."
+		},
+		{
+			"start": 191,
+			"startString": "03:11.040",
+			"end": 192,
+			"endString": "03:12.000",
+			"content": "Je t'ai pas fait d'intro."
+		},
+		{
+			"start": 192,
+			"startString": "03:12.300",
+			"end": 193,
+			"endString": "03:12.940",
+			"content": "Aucune, rien."
+		},
+		{
+			"start": 192,
+			"startString": "03:12.980",
+			"end": 194,
+			"endString": "03:13.440",
+			"content": "T'as peur ?"
+		},
+		{
+			"start": 193,
+			"startString": "03:13.440",
+			"end": 195,
+			"endString": "03:14.580",
+			"content": "Je sais même pas de quoi on va parler."
+		},
+		{
+			"start": 194,
+			"startString": "03:14.780",
+			"end": 196,
+			"endString": "03:15.400",
+			"content": "Bah non moi non plus."
+		},
+		{
+			"start": 195,
+			"startString": "03:15.860",
+			"end": 201,
+			"endString": "03:21.000",
+			"content": "Non en gros c'était juste pour parler de... parce qu'en fait nous on est confinés à deux du coup."
+		},
+		{
+			"start": 201,
+			"startString": "03:21.420",
+			"end": 202,
+			"endString": "03:21.580",
+			"content": "Ouais."
+		},
+		{
+			"start": 201,
+			"startString": "03:21.720",
+			"end": 212,
+			"endString": "03:31.700",
+			"content": "Toi et moi et j'ai l'impression que c'est un peu comme les années chien c'est que ça va être multiplié par 7 en termes de ce qu'on a vécu en termes de durée de vie à deux, tu trouves pas ?"
+		},
+		{
+			"start": 211,
+			"startString": "03:31.700",
+			"end": 213,
+			"endString": "03:32.360",
+			"content": "C'est un test."
+		},
+		{
+			"start": 212,
+			"startString": "03:32.660",
+			"end": 217,
+			"endString": "03:36.600",
+			"content": "C'est un vrai test de confinement pour tous les couples."
+		},
+		{
+			"start": 216,
+			"startString": "03:36.740",
+			"end": 218,
+			"endString": "03:37.440",
+			"content": "Mais ça va on s'en sort bien."
+		},
+		{
+			"start": 217,
+			"startString": "03:37.920",
+			"end": 220,
+			"endString": "03:39.120",
+			"content": "Pour l'instant on s'en sort bien ouais."
+		},
+		{
+			"start": 219,
+			"startString": "03:39.380",
+			"end": 223,
+			"endString": "03:42.460",
+			"content": "Alors ton bureau nous sauve un peu."
+		},
+		{
+			"start": 222,
+			"startString": "03:42.620",
+			"end": 231,
+			"endString": "03:50.540",
+			"content": "Oui j'ai un bureau dans lequel je travaille et dans lequel je m'isole et c'est ce qui fait que du coup des fois je peux travailler et toi tu peux regarder Buffy contre les vampires."
+		},
+		{
+			"start": 231,
+			"startString": "03:51.160",
+			"end": 243,
+			"endString": "04:02.700",
+			"content": "Je suis en train de regarder tous les tous les Buffy et en fait on avait oublié que dans chaque saison il y a autant d'épisodes et du coup j'ai juste envie de sortir le soir pour faire une patrouille avec mon pieu."
+		},
+		{
+			"start": 242,
+			"startString": "04:02.880",
+			"end": 247,
+			"endString": "04:06.440",
+			"content": "Oui mais ça ne rentre pas dans les trucs de Macron de l'autorisation."
+		},
+		{
+			"start": 246,
+			"startString": "04:06.680",
+			"end": 248,
+			"endString": "04:07.960",
+			"content": "Il n'y a pas de faire des patrouilles."
+		},
+		{
+			"start": 248,
+			"startString": "04:08.100",
+			"end": 250,
+			"endString": "04:09.220",
+			"content": "Des patrouilles pour tuer des vampires ?"
+		},
+		{
+			"start": 249,
+			"startString": "04:09.220",
+			"end": 250,
+			"endString": "04:09.320",
+			"content": "Oui."
+		},
+		{
+			"start": 249,
+			"startString": "04:09.620",
+			"end": 253,
+			"endString": "04:12.400",
+			"content": "Non ça rentre pas dans le délire je crois."
+		},
+		{
+			"start": 252,
+			"startString": "04:12.560",
+			"end": 254,
+			"endString": "04:13.200",
+			"content": "Je suis un peu triste."
+		},
+		{
+			"start": 253,
+			"startString": "04:13.280",
+			"end": 256,
+			"endString": "04:15.020",
+			"content": "Peut-être truc sportif peut-être mais c'est tout."
+		},
+		{
+			"start": 255,
+			"startString": "04:15.640",
+			"end": 257,
+			"endString": "04:16.780",
+			"content": "Je pense que ça rentre que là dedans."
+		},
+		{
+			"start": 257,
+			"startString": "04:17.600",
+			"end": 259,
+			"endString": "04:18.400",
+			"content": "C'est la saison quoi là ?"
+		},
+		{
+			"start": 258,
+			"startString": "04:18.400",
+			"end": 260,
+			"endString": "04:19.180",
+			"content": "Saison 2 ?"
+		},
+		{
+			"start": 259,
+			"startString": "04:19.180",
+			"end": 263,
+			"endString": "04:22.520",
+			"content": "C'est la saison 2 c'est quand Angèle va devenir méchant et qu'elle va devoir le tuer."
+		},
+		{
+			"start": 262,
+			"startString": "04:22.600",
+			"end": 265,
+			"endString": "04:24.980",
+			"content": "Allez le spoiler ça va le spoiler ?"
+		},
+		{
+			"start": 264,
+			"startString": "04:24.980",
+			"end": 267,
+			"endString": "04:26.560",
+			"content": "Au bout d'un moment il va falloir se mettre un jour."
+		},
+		{
+			"start": 267,
+			"startString": "04:27.500",
+			"end": 269,
+			"endString": "04:28.380",
+			"content": "Tu insultes les gens."
+		},
+		{
+			"start": 268,
+			"startString": "04:28.700",
+			"end": 270,
+			"endString": "04:29.720",
+			"content": "J'insulte vraiment tout les gens."
+		},
+		{
+			"start": 270,
+			"startString": "04:30.200",
+			"end": 273,
+			"endString": "04:32.560",
+			"content": "Non mais c'est parce que je trouvais ça intéressant d'en parler."
+		},
+		{
+			"start": 272,
+			"startString": "04:32.740",
+			"end": 281,
+			"endString": "04:40.960",
+			"content": "En plus toi alors toi c'est assez terrible Clara et là je parle à l'invité je ne parle pas à ma compagne c'est à dire que tu es quand même ça t'es partie trois semaines en vacances au Pérou ?"
+		},
+		{
+			"start": 280,
+			"startString": "04:40.960",
+			"end": 282,
+			"endString": "04:41.060",
+			"content": "Oui."
+		},
+		{
+			"start": 281,
+			"startString": "04:41.620",
+			"end": 284,
+			"endString": "04:44.000",
+			"content": "Et tu es rentrée jeudi ?"
+		},
+		{
+			"start": 284,
+			"startString": "04:44.000",
+			"end": 287,
+			"endString": "04:46.640",
+			"content": "Je suis rentrée vendredi."
+		},
+		{
+			"start": 287,
+			"startString": "04:47.040",
+			"end": 297,
+			"endString": "04:56.280",
+			"content": "Et en gros bon moi vu que je suis un peu un nerd du confinement j'étais déjà un peu genre faut pas sortir de la maison mais le confinement que Macron a annoncé c'était le lundi c'est ça ?"
+		},
+		{
+			"start": 296,
+			"startString": "04:56.280",
+			"end": 297,
+			"endString": "04:56.840",
+			"content": "Ouais exactement."
+		},
+		{
+			"start": 296,
+			"startString": "04:56.920",
+			"end": 299,
+			"endString": "04:58.320",
+			"content": "Mais en vrai on n'avait pas bougé le week-end non plus."
+		},
+		{
+			"start": 298,
+			"startString": "04:58.800",
+			"end": 305,
+			"endString": "05:04.240",
+			"content": "Mais il disait enfin ça sentait pas vraiment très bon on disait déjà un petit peu que c'était le confinement."
+		},
+		{
+			"start": 304,
+			"startString": "05:04.560",
+			"end": 306,
+			"endString": "05:05.660",
+			"content": "Les bars étaient fermés samedi déjà."
+		},
+		{
+			"start": 305,
+			"startString": "05:05.780",
+			"end": 307,
+			"endString": "05:06.600",
+			"content": "Oui c'est ça exactement."
+		},
+		{
+			"start": 307,
+			"startString": "05:07.120",
+			"end": 309,
+			"endString": "05:08.680",
+			"content": "Donc du coup on a été confinés dès le lendemain."
+		},
+		{
+			"start": 308,
+			"startString": "05:08.980",
+			"end": 311,
+			"endString": "05:10.840",
+			"content": "Comment on vit ?"
+		},
+		{
+			"start": 310,
+			"startString": "05:10.840",
+			"end": 316,
+			"endString": "05:15.760",
+			"content": "Le fait de n'avoir vu personne à part ton mec et ton chat depuis un mois."
+		},
+		{
+			"start": 317,
+			"startString": "05:17.420",
+			"end": 326,
+			"endString": "05:25.780",
+			"content": "Oui alors il y a non seulement ça et il y a le fait que parce que toi t'as fait le Pérou avec une de tes meilleures potes t'as fait le Pérou en mode warrior à savoir tu as dormi dans la forêt amazonienne quand même."
+		},
+		{
+			"start": 326,
+			"startString": "05:26.480",
+			"end": 330,
+			"endString": "05:29.640",
+			"content": "Et du coup de grands espaces un espace peut-être un peu plus petit."
+		},
+		{
+			"start": 330,
+			"startString": "05:30.440",
+			"end": 332,
+			"endString": "05:31.800",
+			"content": "Comment tu l'as vécu ce truc là ?"
+		},
+		{
+			"start": 331,
+			"startString": "05:31.800",
+			"end": 348,
+			"endString": "05:47.480",
+			"content": "Du coup je suis partie donc faire un trek de quatre jours dans la forêt amazonienne et du coup sans téléphone sans eau chaude avec de l'électricité très limitée."
+		},
+		{
+			"start": 347,
+			"startString": "05:47.940",
+			"end": 364,
+			"endString": "06:03.820",
+			"content": "Et j'ai vraiment eu un espèce de truc de comme tout le monde je pense de on a une belle planète il faut en prendre soin et elle nous offre plein de belles choses et c'est un peu fou tout ce qu'on a pu voir en termes d'animaux ou de paysages."
+		},
+		{
+			"start": 364,
+			"startString": "06:04.540",
+			"end": 373,
+			"endString": "06:12.800",
+			"content": "Et du coup le retour était d'une violence pour moi parce que du coup dès la fin du trek en fait on était on est parti tout de suite."
+		},
+		{
+			"start": 373,
+			"startString": "06:13.480",
+			"end": 394,
+			"endString": "06:33.140",
+			"content": "On a pris un avion pour Lima et le soir même on repartait à Paris et en fait on a fait une escala à Montréal et déjà Montréal on se sentait pas du tout la bienvenue en tant que français parce que du coup ils étaient hyper en flip et nous on était un peu on avait des messages de nos familles et moi du coup de Flo."
+		},
+		{
+			"start": 393,
+			"startString": "06:33.460",
+			"end": 403,
+			"endString": "06:42.820",
+			"content": "Oui c'est ça parce qu'en fait le truc c'est que quand vous êtes partis en vacances c'était un virus au japon qui avait pas tué encore tant de gens que ça quand vous êtes partis."
+		},
+		{
+			"start": 402,
+			"startString": "06:42.940",
+			"end": 405,
+			"endString": "06:44.940",
+			"content": "Ouais c'est ça, ça nous concernait pas du tout en tout cas."
+		},
+		{
+			"start": 405,
+			"startString": "06:45.820",
+			"end": 433,
+			"endString": "07:12.740",
+			"content": "Il y avait vraiment un truc de ça commençait à arriver en Italie on était au Pérou et tout et du coup les gens commençaient à paniquer il y avait des choses qui commençaient à être annulées on avait des échos comme quoi le marathon de Paris allait annulé enfin les gros événements plus de 1000 etc etc donc et ma pote a commencé un petit peu à angoisser parce qu'elle partait sur une croisière genre le MCS l'espèce de paquebot gigantesque."
+		},
+		{
+			"start": 432,
+			"startString": "07:12.740",
+			"end": 435,
+			"endString": "07:14.380",
+			"content": "Elle est en train de faire en ce moment d'ailleurs on l'embrasse."
+		},
+		{
+			"start": 434,
+			"startString": "07:14.380",
+			"end": 447,
+			"endString": "07:26.220",
+			"content": "Où elle fait les côtes italiennes directement donc voilà elle a commencé un petit peu à stresser et tout et en fait moi j'avais que Flo au téléphone qui me rassurait qui me disait mais c'est qu'une grosse grippe."
+		},
+		{
+			"start": 446,
+			"startString": "07:26.540",
+			"end": 456,
+			"endString": "07:35.740",
+			"content": "Non non merci de dire aux gens que je suis même climato-sceptique et peut-être même un peu raciste sur les bords non j'essayais de te rassurer parce que."
+		},
+		{
+			"start": 455,
+			"startString": "07:35.760",
+			"end": 458,
+			"endString": "07:37.660",
+			"content": "On meurt encore du sida qui me dit."
+		},
+		{
+			"start": 459,
+			"startString": "07:39.120",
+			"end": 468,
+			"endString": "07:47.400",
+			"content": "J'essayais de te rassurer parce que t'étais loin et c'est horrible de ne pas être au courant de ce qui se passe dans ton pays quand t'es loin parce que tout est multiplié par 4."
+		},
+		{
+			"start": 467,
+			"startString": "07:47.820",
+			"end": 476,
+			"endString": "07:55.300",
+			"content": "Mais c'est vrai que même quand il y a eu le début du coronavirus en France et que déjà il y avait les distances de sécurité enfin en tout cas de respecter les autres et tout."
+		},
+		{
+			"start": 476,
+			"startString": "07:56.100",
+			"end": 488,
+			"endString": "08:07.080",
+			"content": "Quand t'es dedans c'est moins grave je pense que quand tu en entends parler quand ils ont commencé à dire ceci va être annulé cela va être annulé on n'était pas en méga alors moi déjà de base même là on est confiné."
+		},
+		{
+			"start": 487,
+			"startString": "08:07.080",
+			"end": 489,
+			"endString": "08:08.640",
+			"content": "Et en vrai je suis assez tranquille."
+		},
+		{
+			"start": 488,
+			"startString": "08:08.700",
+			"end": 490,
+			"endString": "08:09.360",
+			"content": "Oui t 'es serein."
+		},
+		{
+			"start": 489,
+			"startString": "08:09.480",
+			"end": 500,
+			"endString": "08:19.640",
+			"content": "Oui moi ça va tu vois je suis né pour être confiné donc ça va mais c'est vrai que j'essayais juste de te rassurer mais il est clair que je savais que c'était pas qu'une grosse grippe t'es gentille."
+		},
+		{
+			"start": 499,
+			"startString": "08:19.660",
+			"end": 513,
+			"endString": "08:32.180",
+			"content": "Non non mais j'ai dit ça parce que c'était vraiment ça commençait à être un peu le début effectivement tu me rassurais parce que du coup j'avais ma pote avec moi qui elle était en flip donc moi ça ne m'aidait pas j'étais loin de tout le monde j'étais en décalage horaire."
+		},
+		{
+			"start": 512,
+			"startString": "08:32.180",
+			"end": 540,
+			"endString": "08:59.540",
+			"content": "Il y avait ma famille mon père et mon frère sont asthmatiques du coup il y avait tout un espèce de truc de genre je devrais être avec ma famille et je suis trop loin et je voulais pas aussi que ça me mette dans un mood nul pour la fin de mes vacances donc du coup t'étais trop bien là dessus tu m'as hyper rassuré sur plein de choses et tout mais donc du coup le track qui fait que du coup j'avais plus mon téléphone pendant quatre jours le retour juste après le Canada où voilà on n'est pas du tout bien accueilli."
+		},
+		{
+			"start": 539,
+			"startString": "08:59.540",
+			"end": 551,
+			"endString": "09:10.400",
+			"content": "Oui parce que dans l'histoire un peu du virus c'était genre d'abord l'Asie ensuite l'Europe et après l'Amérique donc les américains nous regardaient un peu genre d'abord Trump a annulé les vols. Ouais en mode restez chez vous vraiment quoi."
+		},
+		{
+			"start": 550,
+			"startString": "09:10.420",
+			"end": 552,
+			"endString": "09:11.400",
+			"content": "Voilà c'est ça et donc du coup."
+		},
+		{
+			"start": 551,
+			"startString": "09:11.720",
+			"end": 553,
+			"endString": "09:12.620",
+			"content": "T'es vraiment pas bien accueilli."
+		},
+		{
+			"start": 552,
+			"startString": "09:12.640",
+			"end": 556,
+			"endString": "09:15.320",
+			"content": "Mais t'as eu de la chance t'es rentré avant que ça devienne vraiment la merde."
+		},
+		{
+			"start": 555,
+			"startString": "09:15.340",
+			"end": 566,
+			"endString": "09:25.940",
+			"content": "Bah c'est ça moi du coup et alors le truc qui est un peu fou c'est que en revenant à l'aéroport à Charles de Gaulle on s'est vraiment attendu je sais pas si c'est français on s'est attendu."
+		},
+		{
+			"start": 566,
+			"startString": "09:26.060",
+			"end": 568,
+			"endString": "09:27.620",
+			"content": "Ouais vous vous attendiez à."
+		},
+		{
+			"start": 567,
+			"startString": "09:27.620",
+			"end": 580,
+			"endString": "09:39.900",
+			"content": "Ouais on s'attendait pardon avec Annabelle à ce que ce soit genre l'enfer en mode contrôle thermomètre interrogatoire."
+		},
+		{
+			"start": 579,
+			"startString": "09:39.900",
+			"end": 581,
+			"endString": "09:40.340",
+			"content": "Dans le cul exactement."
+		},
+		{
+			"start": 580,
+			"startString": "09:40.640",
+			"end": 594,
+			"endString": "09:53.280",
+			"content": "Non peut-être pas dans le cul mais on était vraiment en train de se dire genre meuf quand on va rentrer ça va être toujours plus tard avec des bâches où les gens sont en blouse et ça va être l'enfer."
+		},
+		{
+			"start": 593,
+			"startString": "09:53.280",
+			"end": 609,
+			"endString": "10:08.960",
+			"content": "Et on est arrivé donc qui est quand même on n'est pas arrivé à Orly on est arrivé à Roissy quoi qui est quand même l'aéroport de Paris et du coup il y avait vraiment on a pris nos bagages on est sorti de l'aéroport mais c'était genre un supermarché quoi."
+		},
+		{
+			"start": 609,
+			"startString": "10:09.020",
+			"end": 610,
+			"endString": "10:09.720",
+			"content": "Il y avait personne dans l'aéroport."
+		},
+		{
+			"start": 610,
+			"startString": "10:10.020",
+			"end": 622,
+			"endString": "10:21.980",
+			"content": "Il y avait personne il y avait un vieux prospectus à la douane en mode genre coronavirus lavez vous les mains basta et du coup on a vraiment eu enfin on s'est dit genre ah putain en fait ils nous ont fait flipper sur Facebook et sur les médias et tout."
+		},
+		{
+			"start": 621,
+			"startString": "10:21.980",
+			"end": 624,
+			"endString": "10:23.720",
+			"content": "Et peut-être que c'est pas si grave que ça."
+		},
+		{
+			"start": 624,
+			"startString": "10:24.140",
+			"end": 626,
+			"endString": "10:25.720",
+			"content": "Donc on était un peu rassuré."
+		},
+		{
+			"start": 625,
+			"startString": "10:25.920",
+			"end": 630,
+			"endString": "10:29.380",
+			"content": "On vous a retrouvé vous êtes venu nous chercher toi et le copain d'Annabelle."
+		},
+		{
+			"start": 629,
+			"startString": "10:29.780",
+			"end": 636,
+			"endString": "10:35.580",
+			"content": "On a pris le taxi pour se rassurer pour pas pour pas se contrefin pour pas toucher des GR."
+		},
+		{
+			"start": 635,
+			"startString": "10:35.640",
+			"end": 639,
+			"endString": "10:38.180",
+			"content": "Oui moi j'étais un peu contre le RER et le métro à ce moment là."
+		},
+		{
+			"start": 638,
+			"startString": "10:38.620",
+			"end": 642,
+			"endString": "10:41.680",
+			"content": "Donc on a pris le taxi pour être vraiment rassuré etc."
+		},
+		{
+			"start": 642,
+			"startString": "10:42.580",
+			"end": 647,
+			"endString": "10:46.740",
+			"content": "Et du coup j'avais pas du tout une ambiance de putain c'est la guerre quoi."
+		},
+		{
+			"start": 646,
+			"startString": "10:46.980",
+			"end": 649,
+			"endString": "10:48.040",
+			"content": "Et en fait bah si."
+		},
+		{
+			"start": 648,
+			"startString": "10:48.640",
+			"end": 650,
+			"endString": "10:49.840",
+			"content": "Ouais après ça a été très vite ouais."
+		},
+		{
+			"start": 649,
+			"startString": "10:49.840",
+			"end": 654,
+			"endString": "10:53.860",
+			"content": "C'est pour ça que là le FloodCast que vous entendez il a été un peu fait sur une semaine."
+		},
+		{
+			"start": 654,
+			"startString": "10:54.040",
+			"end": 660,
+			"endString": "10:59.680",
+			"content": "Parce qu'en fait j'en ai pas mal enregistré au début mais en fait ça évolue tellement vite que c'est difficile."
+		},
+		{
+			"start": 661,
+			"startString": "11:01.000",
+			"end": 665,
+			"endString": "11:04.560",
+			"content": "Et voilà mais toi donc du coup il y a eu ce passage de..."
+		},
+		{
+			"start": 664,
+			"startString": "11:04.560",
+			"end": 668,
+			"endString": "11:07.480",
+			"content": "Mais en fait j'ai l'impression qu'en vrai ça va maintenant."
+		},
+		{
+			"start": 667,
+			"startString": "11:07.800",
+			"end": 671,
+			"endString": "11:10.480",
+			"content": "Enfin il y a un truc là on est au fin de la première semaine de confinement."
+		},
+		{
+			"start": 671,
+			"startString": "11:11.560",
+			"end": 674,
+			"endString": "11:13.680",
+			"content": "Bon clairement il y en aura plus de deux je pense."
+		},
+		{
+			"start": 674,
+			"startString": "11:14.500",
+			"end": 676,
+			"endString": "11:15.580",
+			"content": "Moi je parie un mi-mai."
+		},
+		{
+			"start": 676,
+			"startString": "11:16.260",
+			"end": 679,
+			"endString": "11:18.360",
+			"content": "Oui toi t'es très dark."
+		},
+		{
+			"start": 678,
+			"startString": "11:18.360",
+			"end": 683,
+			"endString": "11:22.780",
+			"content": "Mes 30 ans sont le 14 mai autant vous dire que je vais être avec mon mec mon chat."
+		},
+		{
+			"start": 683,
+			"startString": "11:23.200",
+			"end": 685,
+			"endString": "11:24.420",
+			"content": "Voilà c'est super."
+		},
+		{
+			"start": 684,
+			"startString": "11:24.580",
+			"end": 687,
+			"endString": "11:26.740",
+			"content": "C'est pas censé me blesser mais ça me blesse quand même."
+		},
+		{
+			"start": 686,
+			"startString": "11:26.820",
+			"end": 689,
+			"endString": "11:28.920",
+			"content": "Parce que je comprends que ce soit pas ce qu'on attend de ses 30 ans."
+		},
+		{
+			"start": 689,
+			"startString": "11:29.500",
+			"end": 691,
+			"endString": "11:30.400",
+			"content": "Mais en même temps c'est un peu dur."
+		},
+		{
+			"start": 690,
+			"startString": "11:30.800",
+			"end": 694,
+			"endString": "11:33.620",
+			"content": "Non mais moi je pense que là on verra."
+		},
+		{
+			"start": 693,
+			"startString": "11:33.820",
+			"end": 697,
+			"endString": "11:37.000",
+			"content": "De toute façon là le truc c'est que quoi qu'on dise on aura l'air con quand les gens réécouteront l'épisode."
+		},
+		{
+			"start": 697,
+			"startString": "11:37.340",
+			"end": 700,
+			"endString": "11:39.220",
+			"content": "Donc il vaut mieux rien dire je pense."
+		},
+		{
+			"start": 700,
+			"startString": "11:40.060",
+			"end": 701,
+			"endString": "11:40.440",
+			"content": "Mi-mai."
+		},
+		{
+			"start": 702,
+			"startString": "11:42.600",
+			"end": 706,
+			"endString": "11:45.780",
+			"content": "Mais je trouve que la première semaine pour le moment ça s'est bien passé."
+		},
+		{
+			"start": 706,
+			"startString": "11:46.320",
+			"end": 707,
+			"endString": "11:46.680",
+			"content": "Entre nous."
+		},
+		{
+			"start": 706,
+			"startString": "11:46.680",
+			"end": 710,
+			"endString": "11:49.240",
+			"content": "Bah oui le confinement en règle générale quoi."
+		},
+		{
+			"start": 709,
+			"startString": "11:49.360",
+			"end": 712,
+			"endString": "11:51.380",
+			"content": "C'est à dire qu'on fait pas trop les fous."
+		},
+		{
+			"start": 711,
+			"startString": "11:51.500",
+			"end": 713,
+			"endString": "11:52.820",
+			"content": "Moi je suis sorti deux fois pour faire les courses."
+		},
+		{
+			"start": 712,
+			"startString": "11:52.980",
+			"end": 714,
+			"endString": "11:53.720",
+			"content": "Toi tu sors pas du tout."
+		},
+		{
+			"start": 714,
+			"startString": "11:54.340",
+			"end": 718,
+			"endString": "11:57.480",
+			"content": "Mais moi ça me déprime de sortir dans les rues désertes."
+		},
+		{
+			"start": 717,
+			"startString": "11:57.560",
+			"end": 719,
+			"endString": "11:58.580",
+			"content": "De voir les boutiques fermées."
+		},
+		{
+			"start": 718,
+			"startString": "11:58.700",
+			"end": 721,
+			"endString": "12:00.280",
+			"content": "De voir personne ça me fout le cafard."
+		},
+		{
+			"start": 720,
+			"startString": "12:00.300",
+			"end": 722,
+			"endString": "12:01.140",
+			"content": "Nous on est resté à Paris."
+		},
+		{
+			"start": 721,
+			"startString": "12:01.260",
+			"end": 724,
+			"endString": "12:03.220",
+			"content": "C'est aussi un truc on fait partie des gens qui sommes restés."
+		},
+		{
+			"start": 723,
+			"startString": "12:03.580",
+			"end": 726,
+			"endString": "12:05.120",
+			"content": "Mais dès samedi franchement."
+		},
+		{
+			"start": 726,
+			"startString": "12:06.780",
+			"end": 729,
+			"endString": "12:08.580",
+			"content": "Moi en plus j'ai pas tous mes vaccins de tout."
+		},
+		{
+			"start": 728,
+			"startString": "12:08.740",
+			"end": 733,
+			"endString": "12:12.060",
+			"content": "Donc je préfère faire très attention à pas répandre un petit peu le truc."
+		},
+		{
+			"start": 732,
+			"startString": "12:12.860",
+			"end": 736,
+			"endString": "12:15.180",
+			"content": "Donc du coup on est vraiment resté dans notre appart chez nous."
+		},
+		{
+			"start": 735,
+			"startString": "12:15.180",
+			"end": 736,
+			"endString": "12:15.900",
+			"content": "Et puis on a de la chance."
+		},
+		{
+			"start": 736,
+			"startString": "12:16.200",
+			"end": 738,
+			"endString": "12:17.020",
+			"content": "Ça c'est un truc que je voulais dire aussi."
+		},
+		{
+			"start": 737,
+			"startString": "12:17.800",
+			"end": 744,
+			"endString": "12:23.520",
+			"content": "Il y a eu beaucoup de gens qui ont critiqué les parisiens qui allaient dans des autres endroits."
+		},
+		{
+			"start": 743,
+			"startString": "12:23.700",
+			"end": 746,
+			"endString": "12:25.320",
+			"content": "Et sur certains je suis complètement d'accord."
+		},
+		{
+			"start": 745,
+			"startString": "12:25.420",
+			"end": 749,
+			"endString": "12:28.200",
+			"content": "Les gens qui vont dans leur maison de campagne tout ça c'était pas vraiment le geste à adopter."
+		},
+		{
+			"start": 748,
+			"startString": "12:28.800",
+			"end": 751,
+			"endString": "12:30.800",
+			"content": "Mais dans les gares où il y avait beaucoup de gens."
+		},
+		{
+			"start": 750,
+			"startString": "12:30.900",
+			"end": 753,
+			"endString": "12:32.820",
+			"content": "Si vous regardez bien les images il y avait quand même pas mal de jeunes."
+		},
+		{
+			"start": 753,
+			"startString": "12:33.380",
+			"end": 756,
+			"endString": "12:35.980",
+			"content": "Et moi j'ai vécu 4 ans dans un 18m2."
+		},
+		{
+			"start": 756,
+			"startString": "12:36.140",
+			"end": 758,
+			"endString": "12:37.340",
+			"content": "Et je peux comprendre en fait."
+		},
+		{
+			"start": 757,
+			"startString": "12:37.840",
+			"end": 759,
+			"endString": "12:38.620",
+			"content": "Je suis d'accord."
+		},
+		{
+			"start": 760,
+			"startString": "12:40.060",
+			"end": 766,
+			"endString": "12:45.040",
+			"content": "On verra les conséquences que ça a amené dans le monde de faire ces gestes là."
+		},
+		{
+			"start": 765,
+			"startString": "12:45.520",
+			"end": 770,
+			"endString": "12:49.120",
+			"content": "Mais je peux comprendre que quand tu sens qu'il va y avoir un mois de quarantaine minimum."
+		},
+		{
+			"start": 769,
+			"startString": "12:49.820",
+			"end": 772,
+			"endString": "12:51.880",
+			"content": "Tu as envie de bouger tes 18m2."
+		},
+		{
+			"start": 772,
+			"startString": "12:52.400",
+			"end": 775,
+			"endString": "12:55.000",
+			"content": "Si t'as la solution d'aller chez tes parents ou ailleurs."
+		},
+		{
+			"start": 775,
+			"startString": "12:55.240",
+			"end": 776,
+			"endString": "12:55.900",
+			"content": "C'est entendable quoi."
+		},
+		{
+			"start": 776,
+			"startString": "12:56.960",
+			"end": 780,
+			"endString": "12:59.380",
+			"content": "Je sais pas si c'est excusable mais c'est en tout cas entendable."
+		},
+		{
+			"start": 779,
+			"startString": "12:59.500",
+			"end": 783,
+			"endString": "13:02.780",
+			"content": "Moi je pense vraiment, franchement en toute honnêteté que j'aurais fait pareil à l'époque."
+		},
+		{
+			"start": 782,
+			"startString": "13:02.940",
+			"end": 785,
+			"endString": "13:04.900",
+			"content": "Là on a la chance d'avoir un peu de place dans notre appart."
+		},
+		{
+			"start": 784,
+			"startString": "13:04.900",
+			"end": 790,
+			"endString": "13:09.080",
+			"content": "Mais je comprends que quand tu vis dans un tout petit endroit où il n'y a pas le soleil."
+		},
+		{
+			"start": 789,
+			"startString": "13:09.560",
+			"end": 791,
+			"endString": "13:10.380",
+			"content": "Surtout à Paris."
+		},
+		{
+			"start": 790,
+			"startString": "13:10.580",
+			"end": 792,
+			"endString": "13:11.560",
+			"content": "Oui tu peux vite avoir."
+		},
+		{
+			"start": 791,
+			"startString": "13:11.720",
+			"end": 794,
+			"endString": "13:13.140",
+			"content": "Oui bon Paris, banlieue parisienne."
+		},
+		{
+			"start": 793,
+			"startString": "13:13.180",
+			"end": 800,
+			"endString": "13:19.600",
+			"content": "Oui mais je veux dire qu'il y a plein d'étudiants ou même des gens qui préfèrent être dans le centre et ne pas mettre beaucoup dans le loyer."
+		},
+		{
+			"start": 799,
+			"startString": "13:19.760",
+			"end": 802,
+			"endString": "13:21.640",
+			"content": "Mais parce que c'est des gens qui sortent et qui travaillent."
+		},
+		{
+			"start": 801,
+			"startString": "13:21.720",
+			"end": 804,
+			"endString": "13:23.820",
+			"content": "Quand on leur dit de rester chez eux c'est un enfer quoi."
+		},
+		{
+			"start": 804,
+			"startString": "13:24.040",
+			"end": 806,
+			"endString": "13:25.860",
+			"content": "Oui c'est très compliqué quoi."
+		},
+		{
+			"start": 806,
+			"startString": "13:26.260",
+			"end": 809,
+			"endString": "13:28.180",
+			"content": "Donc voilà nous on est bien en tout cas franchement."
+		},
+		{
+			"start": 808,
+			"startString": "13:28.460",
+			"end": 811,
+			"endString": "13:30.040",
+			"content": "On a eu une engueulade."
+		},
+		{
+			"start": 810,
+			"startString": "13:30.180",
+			"end": 812,
+			"endString": "13:31.160",
+			"content": "Ce qui n'est pas si horrible."
+		},
+		{
+			"start": 811,
+			"startString": "13:31.380",
+			"end": 813,
+			"endString": "13:32.980",
+			"content": "Laquelle ?"
+		},
+		{
+			"start": 812,
+			"startString": "13:32.980",
+			"end": 815,
+			"endString": "13:34.760",
+			"content": "En fait c'était au bout de la même journée."
+		},
+		{
+			"start": 814,
+			"startString": "13:34.940",
+			"end": 817,
+			"endString": "13:36.840",
+			"content": "Parce que le matin quand je me suis levé je voulais du Nutella."
+		},
+		{
+			"start": 817,
+			"startString": "13:37.140",
+			"end": 819,
+			"endString": "13:38.320",
+			"content": "Et t'as dit non on va manger des lasagnes."
+		},
+		{
+			"start": 818,
+			"startString": "13:38.660",
+			"end": 820,
+			"endString": "13:39.600",
+			"content": "Non parce que."
+		},
+		{
+			"start": 820,
+			"startString": "13:40.380",
+			"end": 822,
+			"endString": "13:41.240",
+			"content": "On va aller vite."
+		},
+		{
+			"start": 822,
+			"startString": "13:42.200",
+			"end": 824,
+			"endString": "13:43.740",
+			"content": "Non non on va aller vite."
+		},
+		{
+			"start": 824,
+			"startString": "13:44.060",
+			"end": 831,
+			"endString": "13:50.100",
+			"content": "Mais on essaye d'instaurer des petites règles de confinement entre couples."
+		},
+		{
+			"start": 830,
+			"startString": "13:50.380",
+			"end": 833,
+			"endString": "13:52.680",
+			"content": "Qui est de manger ensemble."
+		},
+		{
+			"start": 832,
+			"startString": "13:52.920",
+			"end": 834,
+			"endString": "13:53.760",
+			"content": "Pendant les repas."
+		},
+		{
+			"start": 833,
+			"startString": "13:53.960",
+			"end": 836,
+			"endString": "13:55.100",
+			"content": "Je trouve ça cool."
+		},
+		{
+			"start": 835,
+			"startString": "13:55.260",
+			"end": 839,
+			"endString": "13:58.200",
+			"content": "Fais moi passer pour le gars qui déteste manger avec toi."
+		},
+		{
+			"start": 838,
+			"startString": "13:58.440",
+			"end": 840,
+			"endString": "13:59.020",
+			"content": "Pas du tout."
+		},
+		{
+			"start": 840,
+			"startString": "14:00.220",
+			"end": 843,
+			"endString": "14:02.420",
+			"content": "Des rendez-vous en fait Flo."
+		},
+		{
+			"start": 842,
+			"startString": "14:02.880",
+			"end": 844,
+			"endString": "14:03.720",
+			"content": "Rien de plus."
+		},
+		{
+			"start": 844,
+			"startString": "14:04.040",
+			"end": 845,
+			"endString": "14:04.940",
+			"content": "En fait c'est juste."
+		},
+		{
+			"start": 845,
+			"startString": "14:05.440",
+			"end": 848,
+			"endString": "14:07.240",
+			"content": "Je me suis levé avec une envie de Nutella d'accord."
+		},
+		{
+			"start": 847,
+			"startString": "14:07.380",
+			"end": 850,
+			"endString": "14:09.320",
+			"content": "Parce que je vous rappelle que le confinement c'est dur pour tout le monde."
+		},
+		{
+			"start": 849,
+			"startString": "14:09.660",
+			"end": 851,
+			"endString": "14:10.440",
+			"content": "Que moi j'ai pas de cigarette."
+		},
+		{
+			"start": 850,
+			"startString": "14:10.840",
+			"end": 853,
+			"endString": "14:12.360",
+			"content": "J'ai pas l'alcool j'ai que la bouffe."
+		},
+		{
+			"start": 852,
+			"startString": "14:12.660",
+			"end": 855,
+			"endString": "14:14.820",
+			"content": "Donc un peu de Nutella c'est quand même pas trop demander."
+		},
+		{
+			"start": 855,
+			"startString": "14:15.360",
+			"end": 857,
+			"endString": "14:16.860",
+			"content": "Et je voulais une petite tartine de Nutella."
+		},
+		{
+			"start": 857,
+			"startString": "14:17.220",
+			"end": 858,
+			"endString": "14:17.780",
+			"content": "Et je me suis réveillé."
+		},
+		{
+			"start": 857,
+			"startString": "14:17.880",
+			"end": 859,
+			"endString": "14:18.920",
+			"content": "Vous connaissez ces envies."
+		},
+		{
+			"start": 859,
+			"startString": "14:19.020",
+			"end": 862,
+			"endString": "14:21.280",
+			"content": "Des fois tu te réveilles avec une envie de manger un truc."
+		},
+		{
+			"start": 861,
+			"startString": "14:21.800",
+			"end": 865,
+			"endString": "14:24.240",
+			"content": "Et tu te dis je ne mangerai rien d'autre que ce truc en te levant."
+		},
+		{
+			"start": 864,
+			"startString": "14:24.700",
+			"end": 868,
+			"endString": "14:27.120",
+			"content": "Et effectivement il nous restait un fond de lasagne végétarienne."
+		},
+		{
+			"start": 868,
+			"startString": "14:28.540",
+			"end": 871,
+			"endString": "14:30.640",
+			"content": "Et du coup il a fallu qu'on mange ça."
+		},
+		{
+			"start": 870,
+			"startString": "14:30.720",
+			"end": 873,
+			"endString": "14:32.540",
+			"content": "Et ça m'a un peu déprimé."
+		},
+		{
+			"start": 872,
+			"startString": "14:32.700",
+			"end": 874,
+			"endString": "14:33.760",
+			"content": "Slash un peu énervé."
+		},
+		{
+			"start": 874,
+			"startString": "14:34.100",
+			"end": 875,
+			"endString": "14:34.520",
+			"content": "Je comprends."
+		},
+		{
+			"start": 874,
+			"startString": "14:34.580",
+			"end": 877,
+			"endString": "14:36.420",
+			"content": "Et à la fin de la journée il y a eu autre chose."
+		},
+		{
+			"start": 876,
+			"startString": "14:36.760",
+			"end": 879,
+			"endString": "14:38.620",
+			"content": "Et ça plus ça parce que j'ai rien dit sur Nutella."
+		},
+		{
+			"start": 879,
+			"startString": "14:39.220",
+			"end": 882,
+			"endString": "14:41.520",
+			"content": "Et ça plus ça à la fin il y a eu petite crise de ma part."
+		},
+		{
+			"start": 881,
+			"startString": "14:41.760",
+			"end": 884,
+			"endString": "14:43.240",
+			"content": "Ouais mais c'est compliqué de toute façon."
+		},
+		{
+			"start": 883,
+			"startString": "14:43.520",
+			"end": 886,
+			"endString": "14:45.220",
+			"content": "Il y a toujours une habitude de."
+		},
+		{
+			"start": 885,
+			"startString": "14:45.520",
+			"end": 887,
+			"endString": "14:46.620",
+			"content": "Il m'énerve sur tel sujet."
+		},
+		{
+			"start": 887,
+			"startString": "14:47.060",
+			"end": 890,
+			"endString": "14:49.960",
+			"content": "De toute façon je pars au taf ou je pars boire un verre."
+		},
+		{
+			"start": 890,
+			"startString": "14:50.080",
+			"end": 892,
+			"endString": "14:51.420",
+			"content": "Ça passe on revient on en parle plus."
+		},
+		{
+			"start": 891,
+			"startString": "14:51.820",
+			"end": 894,
+			"endString": "14:53.280",
+			"content": "Là il y a vraiment un truc de confinement."
+		},
+		{
+			"start": 894,
+			"startString": "14:54.420",
+			"end": 897,
+			"endString": "14:56.080",
+			"content": "On s'énerve et on n'a pas."
+		},
+		{
+			"start": 896,
+			"startString": "14:56.080",
+			"end": 898,
+			"endString": "14:57.940",
+			"content": "En fait la seule personne à qui."
+		},
+		{
+			"start": 898,
+			"startString": "14:58.340",
+			"end": 901,
+			"endString": "15:00.440",
+			"content": "On peut parler ou sur laquelle on va tomber."
+		},
+		{
+			"start": 900,
+			"startString": "15:00.740",
+			"end": 902,
+			"endString": "15:02.000",
+			"content": "Bah c'est la personne avec qui on s'est embrouillé."
+		},
+		{
+			"start": 902,
+			"startString": "15:02.560",
+			"end": 904,
+			"endString": "15:03.180",
+			"content": "Donc du coup."
+		},
+		{
+			"start": 904,
+			"startString": "15:04.460",
+			"end": 906,
+			"endString": "15:05.740",
+			"content": "Ouais c'est un peu compliqué."
+		},
+		{
+			"start": 905,
+			"startString": "15:05.960",
+			"end": 909,
+			"endString": "15:08.160",
+			"content": "Donc du coup ça fait du bien aussi de s'engueuler."
+		},
+		{
+			"start": 908,
+			"startString": "15:08.300",
+			"end": 910,
+			"endString": "15:09.700",
+			"content": "De toute manière au moins ça."
+		},
+		{
+			"start": 910,
+			"startString": "15:10.020",
+			"end": 912,
+			"endString": "15:11.920",
+			"content": "On lâche les trucs et puis effectivement."
+		},
+		{
+			"start": 912,
+			"startString": "15:12.100",
+			"end": 915,
+			"endString": "15:14.040",
+			"content": "De s'engueuler pour du Nutella c'est que tout va bien."
+		},
+		{
+			"start": 914,
+			"startString": "15:14.960",
+			"end": 917,
+			"endString": "15:16.400",
+			"content": "C'est vrai qu'on n'est pas ébloui."
+		},
+		{
+			"start": 916,
+			"startString": "15:16.480",
+			"end": 919,
+			"endString": "15:18.040",
+			"content": "Non tout va bien."
+		},
+		{
+			"start": 918,
+			"startString": "15:18.340",
+			"end": 920,
+			"endString": "15:19.240",
+			"content": "Mais du coup voilà."
+		},
+		{
+			"start": 919,
+			"startString": "15:19.320",
+			"end": 921,
+			"endString": "15:20.860",
+			"content": "Il y a des petites règles où on essaye de."
+		},
+		{
+			"start": 921,
+			"startString": "15:21.100",
+			"end": 923,
+			"endString": "15:22.420",
+			"content": "On s'est un peu dit genre."
+		},
+		{
+			"start": 923,
+			"startString": "15:23.380",
+			"end": 924,
+			"endString": "15:23.740",
+			"content": "Viens."
+		},
+		{
+			"start": 924,
+			"startString": "15:24.100",
+			"end": 926,
+			"endString": "15:26.000",
+			"content": "On se dit qu'on s'habille le matin vraiment."
+		},
+		{
+			"start": 926,
+			"startString": "15:26.300",
+			"end": 927,
+			"endString": "15:26.900",
+			"content": "Et on reste pas."
+		},
+		{
+			"start": 927,
+			"startString": "15:27.860",
+			"end": 931,
+			"endString": "15:30.240",
+			"content": "On reste pas en pyjama ou en jogging."
+		},
+		{
+			"start": 930,
+			"startString": "15:30.260",
+			"end": 933,
+			"endString": "15:32.180",
+			"content": "Afin de créer tu veux dire le désir chez l'autre par exemple."
+		},
+		{
+			"start": 932,
+			"startString": "15:32.420",
+			"end": 934,
+			"endString": "15:33.780",
+			"content": "Non mais histoire de."
+		},
+		{
+			"start": 934,
+			"startString": "15:34.180",
+			"end": 937,
+			"endString": "15:36.160",
+			"content": "Que les jours ne se ressemblent pas."
+		},
+		{
+			"start": 936,
+			"startString": "15:36.520",
+			"end": 938,
+			"endString": "15:37.360",
+			"content": "Ah oui d'accord."
+		},
+		{
+			"start": 937,
+			"startString": "15:37.920",
+			"end": 939,
+			"endString": "15:38.760",
+			"content": "Plus ce truc là."
+		},
+		{
+			"start": 939,
+			"startString": "15:39.580",
+			"end": 941,
+			"endString": "15:41.000",
+			"content": "Que l'appart soit propre."
+		},
+		{
+			"start": 941,
+			"startString": "15:41.740",
+			"end": 943,
+			"endString": "15:42.800",
+			"content": "Qu'il soit rangé et tout."
+		},
+		{
+			"start": 942,
+			"startString": "15:42.880",
+			"end": 946,
+			"endString": "15:45.440",
+			"content": "C'est des petits trucs qui je pense font du bien."
+		},
+		{
+			"start": 945,
+			"startString": "15:45.820",
+			"end": 947,
+			"endString": "15:46.480",
+			"content": "Au moral."
+		},
+		{
+			"start": 946,
+			"startString": "15:46.900",
+			"end": 950,
+			"endString": "15:49.520",
+			"content": "Non mais nous aussi le truc c'est qu'au début moi j'étais dans l'extrême inverse."
+		},
+		{
+			"start": 949,
+			"startString": "15:49.520",
+			"end": 952,
+			"endString": "15:51.940",
+			"content": "A savoir mais on est pas obligé de se croiser tout le temps."
+		},
+		{
+			"start": 952,
+			"startString": "15:52.080",
+			"end": 954,
+			"endString": "15:53.980",
+			"content": "Parce qu'on va être l'un sur l'autre pendant un mois."
+		},
+		{
+			"start": 954,
+			"startString": "15:54.500",
+			"end": 957,
+			"endString": "15:56.420",
+			"content": "Ce qui fait que du coup j'étais peut être presque trop distant."
+		},
+		{
+			"start": 957,
+			"startString": "15:57.620",
+			"end": 960,
+			"endString": "15:59.180",
+			"content": "Et inversement toi t'avais beaucoup besoin."
+		},
+		{
+			"start": 959,
+			"startString": "15:59.320",
+			"end": 962,
+			"endString": "16:01.480",
+			"content": "Et moi j'étais genre mais si on est l'un sur l'autre on va se tuer en fait."
+		},
+		{
+			"start": 961,
+			"startString": "16:01.600",
+			"end": 964,
+			"endString": "16:03.400",
+			"content": "Donc je pense qu'il a fallu un peu équilibrer ce truc là."
+		},
+		{
+			"start": 963,
+			"startString": "16:03.660",
+			"end": 966,
+			"endString": "16:05.380",
+			"content": "Ouais moi j'ai eu un gros moment d'ennui en fait."
+		},
+		{
+			"start": 966,
+			"startString": "16:06.140",
+			"end": 968,
+			"endString": "16:07.360",
+			"content": "Parce que moi je travaille beaucoup en journée."
+		},
+		{
+			"start": 967,
+			"startString": "16:07.780",
+			"end": 969,
+			"endString": "16:08.640",
+			"content": "Tu travailles tout le temps."
+		},
+		{
+			"start": 968,
+			"startString": "16:08.920",
+			"end": 972,
+			"endString": "16:11.360",
+			"content": "Tu fais que d'écrire dans ton bureau."
+		},
+		{
+			"start": 971,
+			"startString": "16:11.500",
+			"end": 972,
+			"endString": "16:12.000",
+			"content": "Et c'est normal."
+		},
+		{
+			"start": 972,
+			"startString": "16:12.600",
+			"end": 975,
+			"endString": "16:14.300",
+			"content": "Et moi je reviens du Pérou."
+		},
+		{
+			"start": 974,
+			"startString": "16:14.500",
+			"end": 977,
+			"endString": "16:16.500",
+			"content": "J'ai vu aucune personne à part mon gars."
+		},
+		{
+			"start": 976,
+			"startString": "16:16.660",
+			"end": 979,
+			"endString": "16:18.420",
+			"content": "Donc du coup j'ai vraiment une espèce de."
+		},
+		{
+			"start": 978,
+			"startString": "16:18.960",
+			"end": 981,
+			"endString": "16:20.900",
+			"content": "Et t'es un peu en chômage technique de taf."
+		},
+		{
+			"start": 981,
+			"startString": "16:21.000",
+			"end": 983,
+			"endString": "16:22.280",
+			"content": "Vu que les tournages sont un peu tous en campagne."
+		},
+		{
+			"start": 982,
+			"startString": "16:22.280",
+			"end": 984,
+			"endString": "16:23.920",
+			"content": "Ah bah moi tous mes projets se sont annulés."
+		},
+		{
+			"start": 984,
+			"startString": "16:24.040",
+			"end": 985,
+			"endString": "16:24.860",
+			"content": "J'ai rien du tout."
+		},
+		{
+			"start": 985,
+			"startString": "16:25.220",
+			"end": 990,
+			"endString": "16:29.600",
+			"content": "Donc du coup il y a des moments où vraiment je m'ennuie."
+		},
+		{
+			"start": 989,
+			"startString": "16:29.780",
+			"end": 992,
+			"endString": "16:31.080",
+			"content": "Et du coup j'ai besoin."
+		},
+		{
+			"start": 991,
+			"startString": "16:31.320",
+			"end": 994,
+			"endString": "16:33.600",
+			"content": "J'ai envie de jouer avec mon gars."
+		},
+		{
+			"start": 993,
+			"startString": "16:33.800",
+			"end": 995,
+			"endString": "16:34.920",
+			"content": "J'ai envie qu'on fasse un Monopoly."
+		},
+		{
+			"start": 995,
+			"startString": "16:35.380",
+			"end": 997,
+			"endString": "16:36.720",
+			"content": "C'est pas une métaphore sexuelle."
+		},
+		{
+			"start": 996,
+			"startString": "16:36.740",
+			"end": 998,
+			"endString": "16:37.740",
+			"content": "Ça fait 5 ans qu'on est ensemble."
+		},
+		{
+			"start": 997,
+			"startString": "16:37.900",
+			"end": 1000,
+			"endString": "16:39.960",
+			"content": "Donc jouer avec mon gars c'est faire un Jenga."
+		},
+		{
+			"start": 1000,
+			"startString": "16:40.500",
+			"end": 1002,
+			"endString": "16:41.580",
+			"content": "Exactement c'est un Scrabble."
+		},
+		{
+			"start": 1002,
+			"startString": "16:42.760",
+			"end": 1004,
+			"endString": "16:43.880",
+			"content": "Et du coup tout ça."
+		},
+		{
+			"start": 1004,
+			"startString": "16:44.080",
+			"end": 1007,
+			"endString": "16:46.420",
+			"content": "Et en fait je me rends compte que les journées sont longues."
+		},
+		{
+			"start": 1006,
+			"startString": "16:46.740",
+			"end": 1011,
+			"endString": "16:50.420",
+			"content": "Et du coup il y a vraiment des moments où t'as envie de sociabiliser."
+		},
+		{
+			"start": 1012,
+			"startString": "16:52.340",
+			"end": 1013,
+			"endString": "16:52.900",
+			"content": "Oui c'est ça."
+		},
+		{
+			"start": 1012,
+			"startString": "16:52.980",
+			"end": 1015,
+			"endString": "16:54.220",
+			"content": "Et en fait c'est ça la journée Nutella."
+		},
+		{
+			"start": 1015,
+			"startString": "16:55.400",
+			"end": 1017,
+			"endString": "16:56.860",
+			"content": "Le drame de la journée Nutella."
+		},
+		{
+			"start": 1017,
+			"startString": "16:57.300",
+			"end": 1019,
+			"endString": "16:58.780",
+			"content": "C'est que quand je suis sorti tu voulais qu'on fasse des trucs."
+		},
+		{
+			"start": 1018,
+			"startString": "16:58.880",
+			"end": 1021,
+			"endString": "17:00.300",
+			"content": "Et moi j'étais là genre je suis claqué."
+		},
+		{
+			"start": 1020,
+			"startString": "17:00.600",
+			"end": 1022,
+			"endString": "17:01.440",
+			"content": "J'ai écrit tout l'après-midi."
+		},
+		{
+			"start": 1021,
+			"startString": "17:01.560",
+			"end": 1023,
+			"endString": "17:02.200",
+			"content": "J'ai plus de cerveau."
+		},
+		{
+			"start": 1022,
+			"startString": "17:02.280",
+			"end": 1024,
+			"endString": "17:03.440",
+			"content": "Je veux juste me poser dans le canap."
+		},
+		{
+			"start": 1023,
+			"startString": "17:03.860",
+			"end": 1025,
+			"endString": "17:04.520",
+			"content": "Et ça t'a saoulé."
+		},
+		{
+			"start": 1026,
+			"startString": "17:06.440",
+			"end": 1028,
+			"endString": "17:07.600",
+			"content": "C'est qu'on a pas de problème."
+		},
+		{
+			"start": 1027,
+			"startString": "17:07.920",
+			"end": 1029,
+			"endString": "17:08.720",
+			"content": "Non c'est que tout va bien."
+		},
+		{
+			"start": 1029,
+			"startString": "17:09.020",
+			"end": 1030,
+			"endString": "17:09.400",
+			"content": "Bon très bien."
+		},
+		{
+			"start": 1029,
+			"startString": "17:09.940",
+			"end": 1032,
+			"endString": "17:11.340",
+			"content": "Bah écoute Clara merci beaucoup."
+		},
+		{
+			"start": 1031,
+			"startString": "17:11.880",
+			"end": 1036,
+			"endString": "17:15.440",
+			"content": "Je te propose que dans la journée on se fasse un petit voyage cuisine salon."
+		},
+		{
+			"start": 1036,
+			"startString": "17:16.120",
+			"end": 1037,
+			"endString": "17:16.460",
+			"content": "Ah ouais."
+		},
+		{
+			"start": 1036,
+			"startString": "17:16.840",
+			"end": 1040,
+			"endString": "17:19.020",
+			"content": "Et après peut-être on pourra aller visiter un peu la salle de bain."
+		},
+		{
+			"start": 1039,
+			"startString": "17:19.220",
+			"end": 1040,
+			"endString": "17:19.780",
+			"content": "Hyper sympa."
+		},
+		{
+			"start": 1039,
+			"startString": "17:19.900",
+			"end": 1042,
+			"endString": "17:21.480",
+			"content": "Et puis oh il y a notre chat qui vient de nous voir."
+		},
+		{
+			"start": 1041,
+			"startString": "17:21.740",
+			"end": 1043,
+			"endString": "17:22.440",
+			"content": "C'est notre enfant."
+		},
+		{
+			"start": 1042,
+			"startString": "17:22.520",
+			"end": 1045,
+			"endString": "17:24.460",
+			"content": "C'est la troisième personne de cet appartement."
+		},
+		{
+			"start": 1045,
+			"startString": "17:25.900",
+			"end": 1049,
+			"endString": "17:28.140",
+			"content": "Vrai truc la présence d'un animal sauve la vie."
+		},
+		{
+			"start": 1048,
+			"startString": "17:28.920",
+			"end": 1053,
+			"endString": "17:32.200",
+			"content": "Elle nous divertit dans tout."
+		},
+		{
+			"start": 1052,
+			"startString": "17:32.380",
+			"end": 1054,
+			"endString": "17:33.440",
+			"content": "Elle nous remplace presque la télé."
+		},
+		{
+			"start": 1053,
+			"startString": "17:33.680",
+			"end": 1055,
+			"endString": "17:34.620",
+			"content": "C'est à dire qu'elle nous fait des trucs."
+		},
+		{
+			"start": 1055,
+			"startString": "17:35.080",
+			"end": 1056,
+			"endString": "17:35.900",
+			"content": "On la fait jouer."
+		},
+		{
+			"start": 1057,
+			"startString": "17:37.040",
+			"end": 1059,
+			"endString": "17:38.520",
+			"content": "Et en fait elle est très collante."
+		},
+		{
+			"start": 1058,
+			"startString": "17:38.780",
+			"end": 1062,
+			"endString": "17:41.420",
+			"content": "Elle est très emmenante de bisous et de câlins."
+		},
+		{
+			"start": 1061,
+			"startString": "17:41.620",
+			"end": 1063,
+			"endString": "17:42.500",
+			"content": "Donc du coup c'est encore mieux."
+		},
+		{
+			"start": 1062,
+			"startString": "17:42.940",
+			"end": 1066,
+			"endString": "17:45.320",
+			"content": "Ouais elle vit plutôt bien ce confinement en tout cas."
+		},
+		{
+			"start": 1065,
+			"startString": "17:45.580",
+			"end": 1067,
+			"endString": "17:46.240",
+			"content": "Je crois qu'elle comprend."
+		},
+		{
+			"start": 1066,
+			"startString": "17:46.480",
+			"end": 1068,
+			"endString": "17:47.720",
+			"content": "J'avais peur en fait qu'on la saoule."
+		},
+		{
+			"start": 1068,
+			"startString": "17:48.060",
+			"end": 1071,
+			"endString": "17:50.680",
+			"content": "Genre parce que normalement la journée on est pas trop là donc on la laisse tranquille."
+		},
+		{
+			"start": 1071,
+			"startString": "17:51.020",
+			"end": 1074,
+			"endString": "17:53.200",
+			"content": "Et en fait je crois qu'au contraire elle est très contente qu'on soit beaucoup là."
+		},
+		{
+			"start": 1073,
+			"startString": "17:53.240",
+			"end": 1074,
+			"endString": "17:53.780",
+			"content": "Elle est très contente."
+		},
+		{
+			"start": 1073,
+			"startString": "17:53.980",
+			"end": 1077,
+			"endString": "17:56.460",
+			"content": "Est-ce que tiens vu que tu es la seule invitée à cause d'un confinement."
+		},
+		{
+			"start": 1076,
+			"startString": "17:56.600",
+			"end": 1080,
+			"endString": "17:59.660",
+			"content": "C'est très bizarre pour moi parce que vraiment le dernier numéro que les gens écoutaient on était 1200."
+		},
+		{
+			"start": 1079,
+			"startString": "17:59.980",
+			"end": 1081,
+			"endString": "18:00.540",
+			"content": "Vu que c'était au Bataclan."
+		},
+		{
+			"start": 1080,
+			"startString": "18:00.820",
+			"end": 1082,
+			"endString": "18:01.680",
+			"content": "Et là on est deux."
+		},
+		{
+			"start": 1081,
+			"startString": "18:01.860",
+			"end": 1083,
+			"endString": "18:02.500",
+			"content": "Alors on va appeler des gens."
+		},
+		{
+			"start": 1082,
+			"startString": "18:02.940",
+			"end": 1085,
+			"endString": "18:04.660",
+			"content": "On est trois."
+		},
+		{
+			"start": 1085,
+			"startString": "18:05.240",
+			"end": 1089,
+			"endString": "18:08.400",
+			"content": "Est-ce que tu as une recommandation culturelle autre que Buffy peut-être."
+		},
+		{
+			"start": 1088,
+			"startString": "18:08.720",
+			"end": 1090,
+			"endString": "18:09.840",
+			"content": "A faire aux gens."
+		},
+		{
+			"start": 1090,
+			"startString": "18:10.360",
+			"end": 1092,
+			"endString": "18:11.420",
+			"content": "Un truc que tu as aimé."
+		},
+		{
+			"start": 1091,
+			"startString": "18:11.680",
+			"end": 1093,
+			"endString": "18:12.420",
+			"content": "Que ce soit un livre."
+		},
+		{
+			"start": 1092,
+			"startString": "18:12.880",
+			"end": 1094,
+			"endString": "18:13.460",
+			"content": "Un film."
+		},
+		{
+			"start": 1093,
+			"startString": "18:13.920",
+			"end": 1095,
+			"endString": "18:14.280",
+			"content": "Ouais."
+		},
+		{
+			"start": 1094,
+			"startString": "18:14.900",
+			"end": 1099,
+			"endString": "18:18.940",
+			"content": "Ca s'appelle Le Chardonnerie de Donna Tartt."
+		},
+		{
+			"start": 1099,
+			"startString": "18:19.220",
+			"end": 1101,
+			"endString": "18:20.140",
+			"content": "Je le dis peut-être très mal."
+		},
+		{
+			"start": 1100,
+			"startString": "18:20.180",
+			"end": 1102,
+			"endString": "18:21.260",
+			"content": "Une pelle à tarte tu veux dire."
+		},
+		{
+			"start": 1101,
+			"startString": "18:21.660",
+			"end": 1103,
+			"endString": "18:22.060",
+			"content": "Exactement."
+		},
+		{
+			"start": 1102,
+			"startString": "18:22.940",
+			"end": 1105,
+			"endString": "18:24.200",
+			"content": "Je le dis peut-être très mal."
+		},
+		{
+			"start": 1104,
+			"startString": "18:24.740",
+			"end": 1109,
+			"endString": "18:28.240",
+			"content": "Mais du coup c'est un bouquin qui a quand même reçu des prix et tout."
+		},
+		{
+			"start": 1108,
+			"startString": "18:28.360",
+			"end": 1115,
+			"endString": "18:34.640",
+			"content": "Donc je pense que les gros fans de lecture doivent le connaître déjà."
+		},
+		{
+			"start": 1114,
+			"startString": "18:34.880",
+			"end": 1117,
+			"endString": "18:36.560",
+			"content": "Mais du coup c'est un super bouquin."
+		},
+		{
+			"start": 1116,
+			"startString": "18:36.760",
+			"end": 1131,
+			"endString": "18:50.780",
+			"content": "Ca raconte l'histoire d'un petit garçon qui sort après une explosion d'un musée avec un tableau qui cache et du coup c'est un peu la descente aux enfers de sa vie."
+		},
+		{
+			"start": 1130,
+			"startString": "18:50.960",
+			"end": 1132,
+			"endString": "18:52.000",
+			"content": "De son parcours et tout."
+		},
+		{
+			"start": 1132,
+			"startString": "18:52.320",
+			"end": 1135,
+			"endString": "18:54.840",
+			"content": "Où ce tableau est toujours avec lui."
+		},
+		{
+			"start": 1135,
+			"startString": "18:55.400",
+			"end": 1138,
+			"endString": "18:57.760",
+			"content": "Alors que le monde entier le recherche."
+		},
+		{
+			"start": 1138,
+			"startString": "18:58.540",
+			"end": 1141,
+			"endString": "19:00.760",
+			"content": "Donc c'est hyper bien écrit."
+		},
+		{
+			"start": 1140,
+			"startString": "19:00.760",
+			"end": 1142,
+			"endString": "19:01.820",
+			"content": "C'est hyper émouvant."
+		},
+		{
+			"start": 1143,
+			"startString": "19:03.000",
+			"end": 1144,
+			"endString": "19:03.520",
+			"content": "Je vous le conseille."
+		},
+		{
+			"start": 1143,
+			"startString": "19:03.700",
+			"end": 1146,
+			"endString": "19:05.380",
+			"content": "C'est vraiment une très belle histoire."
+		},
+		{
+			"start": 1145,
+			"startString": "19:05.580",
+			"end": 1148,
+			"endString": "19:07.740",
+			"content": "Ca a été adapté au cinéma avec Nicole Kidman."
+		},
+		{
+			"start": 1147,
+			"startString": "19:07.740",
+			"end": 1149,
+			"endString": "19:08.520",
+			"content": "Mais c'est une blague."
+		},
+		{
+			"start": 1148,
+			"startString": "19:08.640",
+			"end": 1151,
+			"endString": "19:10.120",
+			"content": "Dans le rôle de Madame Barbour."
+		},
+		{
+			"start": 1150,
+			"startString": "19:10.740",
+			"end": 1152,
+			"endString": "19:11.540",
+			"content": "Mais c'est une blague."
+		},
+		{
+			"start": 1151,
+			"startString": "19:11.560",
+			"end": 1154,
+			"endString": "19:13.400",
+			"content": "Je te l'apprends en direct."
+		},
+		{
+			"start": 1154,
+			"startString": "19:14.580",
+			"end": 1158,
+			"endString": "19:17.640",
+			"content": "J'espère que vous êtes comme moi et que vous préférez lire avant de voir."
+		},
+		{
+			"start": 1158,
+			"startString": "19:18.500",
+			"end": 1162,
+			"endString": "19:21.280",
+			"content": "Et si ils préfèrent pas tu vas faire quoi ?"
+		},
+		{
+			"start": 1161,
+			"startString": "19:21.280",
+			"end": 1166,
+			"endString": "19:25.460",
+			"content": "A mon avis je n'en ai pas entendu parler de ce film donc je pense qu'il n'est pas très bien."
+		},
+		{
+			"start": 1165,
+			"startString": "19:25.560",
+			"end": 1168,
+			"endString": "19:27.140",
+			"content": "C'est possible qu'on soit passé à côté."
+		},
+		{
+			"start": 1168,
+			"startString": "19:28.340",
+			"end": 1169,
+			"endString": "19:28.900",
+			"content": "Très bien."
+		},
+		{
+			"start": 1169,
+			"startString": "19:29.200",
+			"end": 1171,
+			"endString": "19:30.440",
+			"content": "Clara je te remercie."
+		},
+		{
+			"start": 1170,
+			"startString": "19:30.560",
+			"end": 1175,
+			"endString": "19:34.720",
+			"content": "Je te recroise tout à l'heure dans la cuisine, puis le salon, puis la salle de bain, puis la chambre."
+		},
+		{
+			"start": 1176,
+			"startString": "19:36.120",
+			"end": 1178,
+			"endString": "19:37.380",
+			"content": "La petite vie quoi."
+		},
+		{
+			"start": 1178,
+			"startString": "19:38.820",
+			"end": 1180,
+			"endString": "19:39.940",
+			"content": "Elle est en train de dégueuler."
+		},
+		{
+			"start": 1180,
+			"startString": "19:40.300",
+			"end": 1182,
+			"endString": "19:41.220",
+			"content": "A l'heure actuelle elle est en train de dégueuler."
+		},
+		{
+			"start": 1181,
+			"startString": "19:41.540",
+			"end": 1186,
+			"endString": "19:45.460",
+			"content": "Mais c'est pas génial de vivre avec un mec aussi marrant que moi ?"
+		},
+		{
+			"start": 1185,
+			"startString": "19:45.460",
+			"end": 1188,
+			"endString": "19:47.300",
+			"content": "Ah si c'est hyper drôle."
+		},
+		{
+			"start": 1188,
+			"startString": "19:48.820",
+			"end": 1190,
+			"endString": "19:49.960",
+			"content": "Ah si c'est vraiment bien."
+		},
+		{
+			"start": 1191,
+			"startString": "19:51.900",
+			"end": 1193,
+			"endString": "19:52.620",
+			"content": "On continue."
+		},
+		{
+			"start": 1192,
+			"startString": "19:52.840",
+			"end": 1195,
+			"endString": "19:54.560",
+			"content": "On continue ce FloodCast avec un expert."
+		},
+		{
+			"start": 1194,
+			"startString": "19:54.560",
+			"end": 1196,
+			"endString": "19:55.500",
+			"content": "Je vais appeler un expert."
+		},
+		{
+			"start": 1195,
+			"startString": "19:55.540",
+			"end": 1198,
+			"endString": "19:57.320",
+			"content": "On va appeler plusieurs experts pendant cette émission."
+		},
+		{
+			"start": 1197,
+			"startString": "19:57.860",
+			"end": 1200,
+			"endString": "19:59.380",
+			"content": "Il s'agit d'Emeric Poivre."
+		},
+		{
+			"start": 1199,
+			"startString": "19:59.440",
+			"end": 1201,
+			"endString": "20:00.820",
+			"content": "Vous ne connaissez peut-être pas son nom."
+		},
+		{
+			"start": 1200,
+			"startString": "20:00.940",
+			"end": 1206,
+			"endString": "20:05.120",
+			"content": "J'ai discuté avec lui par Messenger depuis maintenant deux jours."
+		},
+		{
+			"start": 1205,
+			"startString": "20:05.180",
+			"end": 1207,
+			"endString": "20:06.220",
+			"content": "Il a l'air très calé sur la situation."
+		},
+		{
+			"start": 1206,
+			"startString": "20:06.360",
+			"end": 1208,
+			"endString": "20:07.100",
+			"content": "J'ai décidé de l'appeler."
+		},
+		{
+			"start": 1207,
+			"startString": "20:07.440",
+			"end": 1209,
+			"endString": "20:08.440",
+			"content": "Emeric Poivre, bonjour."
+		},
+		{
+			"start": 1209,
+			"startString": "20:09.380",
+			"end": 1211,
+			"endString": "20:10.180",
+			"content": "Bonjour, bonsoir."
+		},
+		{
+			"start": 1210,
+			"startString": "20:10.540",
+			"end": 1213,
+			"endString": "20:12.980",
+			"content": "Ça dépend à l'heure à laquelle on écoute ce podcast."
+		},
+		{
+			"start": 1213,
+			"startString": "20:13.560",
+			"end": 1217,
+			"endString": "20:16.540",
+			"content": "Je pense évidemment à tous les auditeurs qui nous écoutent aussi."
+		},
+		{
+			"start": 1219,
+			"startString": "20:19.380",
+			"end": 1227,
+			"endString": "20:26.020",
+			"content": "Effectivement vous êtes scientifique et vous avez une théorie sur comment on peut détruire ce virus."
+		},
+		{
+			"start": 1226,
+			"startString": "20:26.180",
+			"end": 1229,
+			"endString": "20:28.500",
+			"content": "Alors c'est vrai qu'on entend un petit peu plein de choses en ce moment."
+		},
+		{
+			"start": 1228,
+			"startString": "20:28.980",
+			"end": 1235,
+			"endString": "20:34.960",
+			"content": "Plein de personnes travaillent sur des médicaments ou sur des façons d'endiguer un peu la pandémie."
+		},
+		{
+			"start": 1235,
+			"startString": "20:35.580",
+			"end": 1240,
+			"endString": "20:39.540",
+			"content": "Vous, vous avez une formule que j'ai peu entendue qui est un petit peu dissidente."
+		},
+		{
+			"start": 1239,
+			"startString": "20:39.900",
+			"end": 1243,
+			"endString": "20:42.980",
+			"content": "Est-ce que vous pouvez la partager avec nous ?"
+		},
+		{
+			"start": 1242,
+			"startString": "20:42.980",
+			"end": 1247,
+			"endString": "20:46.820",
+			"content": "Oui, j'ai entendu beaucoup de sottises qui ont été dites."
+		},
+		{
+			"start": 1247,
+			"startString": "20:47.220",
+			"end": 1248,
+			"endString": "20:47.900",
+			"content": "Il faut dire ce qu'il y a."
+		},
+		{
+			"start": 1249,
+			"startString": "20:49.080",
+			"end": 1251,
+			"endString": "20:50.980",
+			"content": "C'est vrai, la chloroquine, tout ça."
+		},
+		{
+			"start": 1252,
+			"startString": "20:52.100",
+			"end": 1261,
+			"endString": "21:00.040",
+			"content": "Moi j'ai une solution qui n'est pas à l'état uniquement de théorie, qui est plutôt pratiquée et qui a fait ses preuves."
+		},
+		{
+			"start": 1260,
+			"startString": "21:00.200",
+			"end": 1263,
+			"endString": "21:02.900",
+			"content": "Donc voilà, je vous prierai de respecter ça."
+		},
+		{
+			"start": 1263,
+			"startString": "21:03.380",
+			"end": 1268,
+			"endString": "21:07.920",
+			"content": "Je me suis permis parce qu'en fait qui a fait ses preuves alors qu'on n'en a pas du tout entendu parler."
+		},
+		{
+			"start": 1268,
+			"startString": "21:08.140",
+			"end": 1270,
+			"endString": "21:09.380",
+			"content": "C'est ça qui est un petit peu surprenant."
+		},
+		{
+			"start": 1269,
+			"startString": "21:09.740",
+			"end": 1271,
+			"endString": "21:10.800",
+			"content": "Les gens en parlent peu."
+		},
+		{
+			"start": 1271,
+			"startString": "21:11.560",
+			"end": 1277,
+			"endString": "21:16.800",
+			"content": "On est sur quelque chose effectivement d'assez expérimental, mais qui fait ses preuves."
+		},
+		{
+			"start": 1277,
+			"startString": "21:17.200",
+			"end": 1283,
+			"endString": "21:22.500",
+			"content": "J'ai eu le brevet quand j'étais en 3ème."
+		},
+		{
+			"start": 1282,
+			"startString": "21:22.580",
+			"end": 1284,
+			"endString": "21:23.540",
+			"content": "Le brevet des collèges ?"
+		},
+		{
+			"start": 1284,
+			"startString": "21:24.000",
+			"end": 1285,
+			"endString": "21:24.980",
+			"content": "Oui, j'ai eu le brevet des collèges."
+		},
+		{
+			"start": 1285,
+			"startString": "21:25.660",
+			"end": 1290,
+			"endString": "21:29.660",
+			"content": "Et du coup je me dis que peut-être que je peux avoir un brevet aussi pour ça."
+		},
+		{
+			"start": 1291,
+			"startString": "21:31.360",
+			"end": 1294,
+			"endString": "21:33.300",
+			"content": "Je suis en train de gérer ça."
+		},
+		{
+			"start": 1293,
+			"startString": "21:33.400",
+			"end": 1295,
+			"endString": "21:34.460",
+			"content": "Ne posez pas trop de questions là-dessus."
+		},
+		{
+			"start": 1294,
+			"startString": "21:34.920",
+			"end": 1297,
+			"endString": "21:36.740",
+			"content": "Je ne crois pas que ce soit comme ça que fonctionnent les brevets."
+		},
+		{
+			"start": 1296,
+			"startString": "21:36.860",
+			"end": 1299,
+			"endString": "21:38.400",
+			"content": "Sans vouloir, vous manquez de respect une fois de plus."
+		},
+		{
+			"start": 1298,
+			"startString": "21:38.640",
+			"end": 1301,
+			"endString": "21:40.120",
+			"content": "Je vous entends très très mal là."
+		},
+		{
+			"start": 1300,
+			"startString": "21:40.900",
+			"end": 1303,
+			"endString": "21:42.080",
+			"content": "Je ne sais pas vraiment ce que vous dites."
+		},
+		{
+			"start": 1304,
+			"startString": "21:44.000",
+			"end": 1306,
+			"endString": "21:45.700",
+			"content": "La technique pour le dire c'est assez simple."
+		},
+		{
+			"start": 1305,
+			"startString": "21:45.820",
+			"end": 1312,
+			"endString": "21:51.760",
+			"content": "Vous êtes au courant quand même que le virus, le Covid-19 n'aime pas la chaleur."
+		},
+		{
+			"start": 1311,
+			"startString": "21:51.820",
+			"end": 1313,
+			"endString": "21:52.500",
+			"content": "Vous me l'apprenez."
+		},
+		{
+			"start": 1314,
+			"startString": "21:54.040",
+			"end": 1316,
+			"endString": "21:55.040",
+			"content": "Il n'aime pas la chaleur."
+		},
+		{
+			"start": 1316,
+			"startString": "21:56.160",
+			"end": 1320,
+			"endString": "21:59.340",
+			"content": "Mais les virus en général n'aiment pas la chaleur."
+		},
+		{
+			"start": 1319,
+			"startString": "21:59.480",
+			"end": 1323,
+			"endString": "22:02.700",
+			"content": "C'est vrai que quand on a un rhume, il vaut mieux rester au chaud."
+		},
+		{
+			"start": 1322,
+			"startString": "22:02.740",
+			"end": 1326,
+			"endString": "22:05.120",
+			"content": "Vous êtes en train de dire que le coronavirus c'est la même chose."
+		},
+		{
+			"start": 1325,
+			"startString": "22:05.900",
+			"end": 1327,
+			"endString": "22:06.560",
+			"content": "Oui c'est la même chose."
+		},
+		{
+			"start": 1326,
+			"startString": "22:06.900",
+			"end": 1329,
+			"endString": "22:08.520",
+			"content": "C'est un virus qui réagit comme les autres."
+		},
+		{
+			"start": 1328,
+			"startString": "22:08.520",
+			"end": 1330,
+			"endString": "22:09.880",
+			"content": "Il n'aime pas la chaleur."
+		},
+		{
+			"start": 1331,
+			"startString": "22:11.460",
+			"end": 1335,
+			"endString": "22:14.640",
+			"content": "J'ai fait une réflexion assez simple et qui marche très bien."
+		},
+		{
+			"start": 1335,
+			"startString": "22:15.060",
+			"end": 1339,
+			"endString": "22:18.460",
+			"content": "Je me dis combattre le feu par le feu d'une certaine façon."
+		},
+		{
+			"start": 1338,
+			"startString": "22:18.780",
+			"end": 1340,
+			"endString": "22:20.000",
+			"content": "Le virus n'aime pas la chaleur."
+		},
+		{
+			"start": 1340,
+			"startString": "22:20.260",
+			"end": 1342,
+			"endString": "22:21.380",
+			"content": "Il faut lui mettre de la chaleur dessus."
+		},
+		{
+			"start": 1342,
+			"startString": "22:22.600",
+			"end": 1346,
+			"endString": "22:25.180",
+			"content": "Quand vous dites qu'il faut mettre de la chaleur dessus, c 'est comment ?"
+		},
+		{
+			"start": 1345,
+			"startString": "22:25.180",
+			"end": 1348,
+			"endString": "22:27.260",
+			"content": "C'est par un système de réchauffer le corps ?"
+		},
+		{
+			"start": 1347,
+			"startString": "22:27.260",
+			"end": 1349,
+			"endString": "22:28.600",
+			"content": "Prendre un bain chaud ?"
+		},
+		{
+			"start": 1349,
+			"startString": "22:29.660",
+			"end": 1351,
+			"endString": "22:30.440",
+			"content": "Moi je brûle."
+		},
+		{
+			"start": 1351,
+			"startString": "22:31.940",
+			"end": 1354,
+			"endString": "22:33.200",
+			"content": "Moi je brûle essentiellement."
+		},
+		{
+			"start": 1353,
+			"startString": "22:33.380",
+			"end": 1354,
+			"endString": "22:33.920",
+			"content": "C'est comme ça."
+		},
+		{
+			"start": 1353,
+			"startString": "22:33.980",
+			"end": 1355,
+			"endString": "22:34.480",
+			"content": "C'est ma technique."
+		},
+		{
+			"start": 1355,
+			"startString": "22:35.160",
+			"end": 1357,
+			"endString": "22:36.100",
+			"content": "Celle qui a bien marché."
+		},
+		{
+			"start": 1356,
+			"startString": "22:36.100",
+			"end": 1359,
+			"endString": "22:38.420",
+			"content": "Moi ce que je conseille pour l'instant c'est de brûler."
+		},
+		{
+			"start": 1358,
+			"startString": "22:38.640",
+			"end": 1362,
+			"endString": "22:41.360",
+			"content": "Par exemple vous avez un tissu qui est suspect."
+		},
+		{
+			"start": 1361,
+			"startString": "22:41.880",
+			"end": 1366,
+			"endString": "22:45.180",
+			"content": "Vous touchez quelque chose, un objet suspect, vous le brûlez immédiatement."
+		},
+		{
+			"start": 1365,
+			"startString": "22:45.960",
+			"end": 1368,
+			"endString": "22:48.000",
+			"content": "Là le virus ne résiste pas."
+		},
+		{
+			"start": 1368,
+			"startString": "22:48.080",
+			"end": 1372,
+			"endString": "22:51.500",
+			"content": "Je vous confirme que dans 100% des cas le virus ne résiste pas."
+		},
+		{
+			"start": 1371,
+			"startString": "22:51.700",
+			"end": 1376,
+			"endString": "22:55.040",
+			"content": "J'ai beaucoup de questions d'un coup qui viennent à moi suite à ça."
+		},
+		{
+			"start": 1375,
+			"startString": "22:55.220",
+			"end": 1381,
+			"endString": "23:00.100",
+			"content": "Quand vous dites brûler, la première question c'est déjà comment un vêtement est suspect ?"
+		},
+		{
+			"start": 1382,
+			"startString": "23:02.980",
+			"end": 1386,
+			"endString": "23:05.700",
+			"content": "Vous voyez si vous le portez déjà, c'est suspect."
+		},
+		{
+			"start": 1387,
+			"startString": "23:07.760",
+			"end": 1390,
+			"endString": "23:09.780",
+			"content": "Moi je conseille de ne pas porter de vêtements."
+		},
+		{
+			"start": 1389,
+			"startString": "23:09.920",
+			"end": 1392,
+			"endString": "23:11.840",
+			"content": "Je ne porte plus de vêtements depuis le début de cette histoire."
+		},
+		{
+			"start": 1393,
+			"startString": "23:13.000",
+			"end": 1394,
+			"endString": "23:13.360",
+			"content": "Personnellement."
+		},
+		{
+			"start": 1393,
+			"startString": "23:13.900",
+			"end": 1395,
+			"endString": "23:14.680",
+			"content": "Dans le doute."
+		},
+		{
+			"start": 1395,
+			"startString": "23:15.340",
+			"end": 1400,
+			"endString": "23:19.240",
+			"content": "On a appris quand même que ce virus pourrait traîner pendant quelques heures sur les vêtements."
+		},
+		{
+			"start": 1400,
+			"startString": "23:20.120",
+			"end": 1403,
+			"endString": "23:22.580",
+			"content": "Dans le doute, je conseille de ne pas porter de vêtements."
+		},
+		{
+			"start": 1402,
+			"startString": "23:22.720",
+			"end": 1405,
+			"endString": "23:24.240",
+			"content": "Mais ça, je ne peux pas l'imposer."
+		},
+		{
+			"start": 1404,
+			"startString": "23:24.460",
+			"end": 1405,
+			"endString": "23:24.900",
+			"content": "Vous comprenez ?"
+		},
+		{
+			"start": 1404,
+			"startString": "23:24.900",
+			"end": 1406,
+			"endString": "23:25.720",
+			"content": "Non non je comprends bien."
+		},
+		{
+			"start": 1405,
+			"startString": "23:25.960",
+			"end": 1411,
+			"endString": "23:30.020",
+			"content": "Et donc lorsque vous dites brûler, c 'est une façon de parler ?"
+		},
+		{
+			"start": 1410,
+			"startString": "23:30.020",
+			"end": 1413,
+			"endString": "23:32.040",
+			"content": "Ou c'est vraiment mettre le feu ?"
+		},
+		{
+			"start": 1412,
+			"startString": "23:32.040",
+			"end": 1413,
+			"endString": "23:32.880",
+			"content": "Dans le feu."
+		},
+		{
+			"start": 1413,
+			"startString": "23:33.140",
+			"end": 1414,
+			"endString": "23:33.960",
+			"content": "Brûler dans le feu."
+		},
+		{
+			"start": 1414,
+			"startString": "23:34.200",
+			"end": 1416,
+			"endString": "23:35.380",
+			"content": "Utiliser le feu très fort."
+		},
+		{
+			"start": 1415,
+			"startString": "23:35.880",
+			"end": 1418,
+			"endString": "23:37.940",
+			"content": "Le feu qui brûle, le feu qui est très chaud."
+		},
+		{
+			"start": 1418,
+			"startString": "23:38.500",
+			"end": 1421,
+			"endString": "23:40.660",
+			"content": "Vous utilisez ça avec différentes techniques."
+		},
+		{
+			"start": 1421,
+			"startString": "23:41.400",
+			"end": 1426,
+			"endString": "23:45.620",
+			"content": "Soit un briquet, soit un feu de joie, un feu de cheminée."
+		},
+		{
+			"start": 1425,
+			"startString": "23:45.940",
+			"end": 1429,
+			"endString": "23:48.300",
+			"content": "Il y a également des lances flammes qui sont très très pratiques."
+		},
+		{
+			"start": 1428,
+			"startString": "23:48.640",
+			"end": 1433,
+			"endString": "23:52.880",
+			"content": "Là chez moi, je me suis acheté un D427 qui est un dernier cri, un dernier modèle de lance flamme."
+		},
+		{
+			"start": 1433,
+			"startString": "23:53.600",
+			"end": 1436,
+			"endString": "23:55.660",
+			"content": "Dès qu'il y a doute, je brûle."
+		},
+		{
+			"start": 1435,
+			"startString": "23:55.680",
+			"end": 1437,
+			"endString": "23:56.620",
+			"content": "Je brûle le lance flamme."
+		},
+		{
+			"start": 1436,
+			"startString": "23:56.680",
+			"end": 1441,
+			"endString": "24:00.940",
+			"content": "D'accord donc ça, alors ce serait peut-être plus effectivement pour éviter de transmettre le virus."
+		},
+		{
+			"start": 1441,
+			"startString": "24:01.040",
+			"end": 1444,
+			"endString": "24:03.420",
+			"content": "On sait que c'est par la transmission que le virus progresse."
+		},
+		{
+			"start": 1444,
+			"startString": "24:04.700",
+			"end": 1449,
+			"endString": "24:08.700",
+			"content": "Mais imaginons que vous avez quelqu'un en face de vous qui a déjà le Covid."
+		},
+		{
+			"start": 1448,
+			"startString": "24:08.880",
+			"end": 1452,
+			"endString": "24:11.840",
+			"content": "Comment arranger la situation ?"
+		},
+		{
+			"start": 1451,
+			"startString": "24:11.840",
+			"end": 1453,
+			"endString": "24:12.560",
+			"content": "Je le brûle."
+		},
+		{
+			"start": 1455,
+			"startString": "24:15.420",
+			"end": 1457,
+			"endString": "24:16.420",
+			"content": "Je le brûle."
+		},
+		{
+			"start": 1456,
+			"startString": "24:16.660",
+			"end": 1460,
+			"endString": "24:19.640",
+			"content": "Vous brûlez la personne ?"
+		},
+		{
+			"start": 1459,
+			"startString": "24:19.640",
+			"end": 1462,
+			"endString": "24:21.040",
+			"content": "Oui, c'est très efficace."
+		},
+		{
+			"start": 1461,
+			"startString": "24:21.180",
+			"end": 1463,
+			"endString": "24:22.780",
+			"content": "Vous m'accorderez que c'est très efficace."
+		},
+		{
+			"start": 1463,
+			"startString": "24:23.380",
+			"end": 1465,
+			"endString": "24:24.980",
+			"content": "Moi, je brûle dans le doute."
+		},
+		{
+			"start": 1466,
+			"startString": "24:26.560",
+			"end": 1475,
+			"endString": "24:34.100",
+			"content": "La solution que je propose c'est qu'à partir du moment où il y a doute, il y a immédiatement combustion, je dirais."
+		},
+		{
+			"start": 1475,
+			"startString": "24:35.080",
+			"end": 1476,
+			"endString": "24:35.400",
+			"content": "Immédiatement."
+		},
+		{
+			"start": 1475,
+			"startString": "24:35.520",
+			"end": 1480,
+			"endString": "24:39.460",
+			"content": "Moi, je conseille la combustion en cas de doute, que ce soit sur des objets ou sur des humains."
+		},
+		{
+			"start": 1480,
+			"startString": "24:40.480",
+			"end": 1487,
+			"endString": "24:46.740",
+			"content": "Moi, je sais que un soir, ma femme est rentrée, elle a fait un petit cof cof comme ça, je l'ai brûlée immédiatement."
+		},
+		{
+			"start": 1486,
+			"startString": "24:46.840",
+			"end": 1490,
+			"endString": "24:49.360",
+			"content": "Ah, donc vous avez immolé votre femme par le feu ?"
+		},
+		{
+			"start": 1489,
+			"startString": "24:49.360",
+			"end": 1490,
+			"endString": "24:49.600",
+			"content": "Oui."
+		},
+		{
+			"start": 1490,
+			"startString": "24:50.040",
+			"end": 1493,
+			"endString": "24:52.820",
+			"content": "Ma femme et mes enfants, qui étaient quand même très suspects."
+		},
+		{
+			"start": 1493,
+			"startString": "24:53.220",
+			"end": 1504,
+			"endString": "25:03.960",
+			"content": "Non mais parce que c'est vrai que le gouvernement nous a quand même dit déjà que les enfants pouvaient transmettre le virus très facilement."
+		},
+		{
+			"start": 1504,
+			"startString": "25:04.120",
+			"end": 1506,
+			"endString": "25:05.040",
+			"content": "Moi, j'ai pris les devants."
+		},
+		{
+			"start": 1505,
+			"startString": "25:05.500",
+			"end": 1509,
+			"endString": "25:08.080",
+			"content": "Donc, vous avez brûlé l'intégralité de votre famille ?"
+		},
+		{
+			"start": 1508,
+			"startString": "25:08.520",
+			"end": 1509,
+			"endString": "25:08.700",
+			"content": "Oui."
+		},
+		{
+			"start": 1509,
+			"startString": "25:09.040",
+			"end": 1510,
+			"endString": "25:09.920",
+			"content": "Ainsi que ma maison."
+		},
+		{
+			"start": 1511,
+			"startString": "25:11.080",
+			"end": 1518,
+			"endString": "25:17.640",
+			"content": "Mais pareil, faire confiance en ces murs qui ont été salis ?"
+		},
+		{
+			"start": 1517,
+			"startString": "25:17.640",
+			"end": 1521,
+			"endString": "25:20.600",
+			"content": "Comment les nettoyer par le feu ?"
+		},
+		{
+			"start": 1520,
+			"startString": "25:20.600",
+			"end": 1523,
+			"endString": "25:22.800",
+			"content": "Voilà, moi, c'est ça que je dis, j'ai tout nettoyé par le feu."
+		},
+		{
+			"start": 1523,
+			"startString": "25:23.100",
+			"end": 1526,
+			"endString": "25:25.180",
+			"content": "Vaut mieux prévenir que guérir."
+		},
+		{
+			"start": 1525,
+			"startString": "25:25.800",
+			"end": 1529,
+			"endString": "25:28.680",
+			"content": "Oui, alors après, je sais pas si ça inclut l'homicide."
+		},
+		{
+			"start": 1529,
+			"startString": "25:29.020",
+			"end": 1531,
+			"endString": "25:30.220",
+			"content": "Mais à voir quoi."
+		},
+		{
+			"start": 1530,
+			"startString": "25:30.560",
+			"end": 1533,
+			"endString": "25:32.240",
+			"content": "Parce que je pense que c'est illégal ce que vous faites."
+		},
+		{
+			"start": 1533,
+			"startString": "25:33.080",
+			"end": 1535,
+			"endString": "25:34.700",
+			"content": "Oui, vous utilisez des grands mots forcément."
+		},
+		{
+			"start": 1535,
+			"startString": "25:35.220",
+			"end": 1538,
+			"endString": "25:37.700",
+			"content": "Non, mais vu sous cet angle."
+		},
+		{
+			"start": 1538,
+			"startString": "25:38.740",
+			"end": 1541,
+			"endString": "25:40.760",
+			"content": "C'est un angle assez objectif."
+		},
+		{
+			"start": 1541,
+			"startString": "25:41.360",
+			"end": 1544,
+			"endString": "25:43.260",
+			"content": "C'est l'angle de la loi, monsieur Poivre."
+		},
+		{
+			"start": 1543,
+			"startString": "25:43.360",
+			"end": 1545,
+			"endString": "25:44.320",
+			"content": "Sans vouloir vous manquer de respect."
+		},
+		{
+			"start": 1544,
+			"startString": "25:44.440",
+			"end": 1547,
+			"endString": "25:46.160",
+			"content": "C'est un nettoyage."
+		},
+		{
+			"start": 1547,
+			"startString": "25:47.620",
+			"end": 1554,
+			"endString": "25:53.320",
+			"content": "Je dirais, voilà, comme quand vous mettez du gel hydroalcoolique sur vos mains."
+		},
+		{
+			"start": 1554,
+			"startString": "25:54.700",
+			"end": 1557,
+			"endString": "25:56.120",
+			"content": "Moi, c'est pareil, je brûle."
+		},
+		{
+			"start": 1557,
+			"startString": "25:57.020",
+			"end": 1558,
+			"endString": "25:57.800",
+			"content": "Avec les flammes."
+		},
+		{
+			"start": 1557,
+			"startString": "25:57.920",
+			"end": 1560,
+			"endString": "25:59.960",
+			"content": "Ce sont deux choses très différentes, monsieur Poivre."
+		},
+		{
+			"start": 1560,
+			"startString": "26:00.240",
+			"end": 1563,
+			"endString": "26:02.920",
+			"content": "Vous m'enlèverez pas de l'esprit que c'est quand même deux techniques assez opposées."
+		},
+		{
+			"start": 1563,
+			"startString": "26:03.520",
+			"end": 1565,
+			"endString": "26:04.640",
+			"content": "Il y en a une qui ne provoque pas la mort."
+		},
+		{
+			"start": 1565,
+			"startString": "26:05.960",
+			"end": 1570,
+			"endString": "26:09.040",
+			"content": "Le but de tout ça, on est d'accord, c'est de d'éradiquer le virus."
+		},
+		{
+			"start": 1570,
+			"startString": "26:10.200",
+			"end": 1572,
+			"endString": "26:11.120",
+			"content": "Les deux ont le même but."
+		},
+		{
+			"start": 1572,
+			"startString": "26:12.200",
+			"end": 1574,
+			"endString": "26:13.220",
+			"content": "Donc c'est la même chose."
+		},
+		{
+			"start": 1574,
+			"startString": "26:14.220",
+			"end": 1578,
+			"endString": "26:17.760",
+			"content": "Là, vous faites votre journaliste, vous faites..."
+		},
+		{
+			"start": 1577,
+			"startString": "26:17.760",
+			"end": 1580,
+			"endString": "26:19.440",
+			"content": "Non, s'il vous plaît."
+		},
+		{
+			"start": 1579,
+			"startString": "26:19.440",
+			"end": 1582,
+			"endString": "26:21.780",
+			"content": "Si vous faites votre gaucho..."
+		},
+		{
+			"start": 1581,
+			"startString": "26:21.780",
+			"end": 1583,
+			"endString": "26:22.060",
+			"content": "Si."
+		},
+		{
+			"start": 1583,
+			"startString": "26:23.440",
+			"end": 1586,
+			"endString": "26:25.980",
+			"content": "Excusez-moi, mais gaucho, non, on peut pas."
+		},
+		{
+			"start": 1586,
+			"startString": "26:26.340",
+			"end": 1593,
+			"endString": "26:32.880",
+			"content": "C'est pas parce que d'un coup je me permets de juger un petit peu le triple homicide que vous avez causé sur votre propre famille."
+		},
+		{
+			"start": 1593,
+			"startString": "26:33.280",
+			"end": 1597,
+			"endString": "26:36.440",
+			"content": "Je pense pas qu'on puisse directement me caler dans la catégorie gaucho."
+		},
+		{
+			"start": 1596,
+			"startString": "26:36.780",
+			"end": 1601,
+			"endString": "26:40.580",
+			"content": "Je pense qu'objectivement, je peux trouver ça un petit peu limite-limite."
+		},
+		{
+			"start": 1601,
+			"startString": "26:41.340",
+			"end": 1606,
+			"endString": "26:45.160",
+			"content": "Pour vous dire tout ce qui est, c'est tout le lotissement que j'ai brûlé d'ailleurs."
+		},
+		{
+			"start": 1605,
+			"startString": "26:45.320",
+			"end": 1607,
+			"endString": "26:46.260",
+			"content": "C'est pas uniquement la maison."
+		},
+		{
+			"start": 1606,
+			"startString": "26:46.260",
+			"end": 1611,
+			"endString": "26:50.240",
+			"content": "Mais alors attendez, peut-être un chiffre de nombre de personnes décédées que vous avez..."
+		},
+		{
+			"start": 1610,
+			"startString": "26:50.240",
+			"end": 1614,
+			"endString": "26:53.540",
+			"content": "Vous avez tué combien de gens à peu près avec les flammes, encore une fois ?"
+		},
+		{
+			"start": 1613,
+			"startString": "26:53.540",
+			"end": 1617,
+			"endString": "26:56.520",
+			"content": "Je dirais 1500, 1550, on est plus à 50 près."
+		},
+		{
+			"start": 1616,
+			"startString": "26:56.960",
+			"end": 1624,
+			"endString": "27:03.720",
+			"content": "Mais dans là où je suis, dans le petit paque-là où je suis, bon déjà tout le monde me connaît maintenant parce que tout le monde..."
+		},
+		{
+			"start": 1623,
+			"startString": "27:03.720",
+			"end": 1625,
+			"endString": "27:04.580",
+			"content": "A peur, j'imagine."
+		},
+		{
+			"start": 1625,
+			"startString": "27:05.080",
+			"end": 1627,
+			"endString": "27:06.500",
+			"content": "Tout le monde a perdu un proche au moins."
+		},
+		{
+			"start": 1626,
+			"startString": "27:06.640",
+			"end": 1628,
+			"endString": "27:07.100",
+			"content": "Oui, voilà, déjà."
+		},
+		{
+			"start": 1628,
+			"startString": "27:08.720",
+			"end": 1633,
+			"endString": "27:12.340",
+			"content": "Mais par contre, il n'y a plus aucun cas de Covid suspecté."
+		},
+		{
+			"start": 1632,
+			"startString": "27:12.660",
+			"end": 1638,
+			"endString": "27:17.560",
+			"content": "Très bien, donc si vous voyez Aymeric, enfin un homme à poil avec un lance-flammes, dites-vous que c'est Aymeric."
+		},
+		{
+			"start": 1637,
+			"startString": "27:17.940",
+			"end": 1640,
+			"endString": "27:19.720",
+			"content": "Donc, peut-être restez chez vous."
+		},
+		{
+			"start": 1639,
+			"startString": "27:19.940",
+			"end": 1642,
+			"endString": "27:21.660",
+			"content": "Voilà, peut-être que c'est le hashtag qu'on peut utiliser."
+		},
+		{
+			"start": 1641,
+			"startString": "27:21.800",
+			"end": 1643,
+			"endString": "27:22.660",
+			"content": "Restez bien chez vous."
+		},
+		{
+			"start": 1643,
+			"startString": "27:23.040",
+			"end": 1646,
+			"endString": "27:25.500",
+			"content": "Surtout si vous croisez Aymeric, ne bougez pas de la maison."
+		},
+		{
+			"start": 1645,
+			"startString": "27:25.820",
+			"end": 1648,
+			"endString": "27:27.380",
+			"content": "Eh bien merci Aymeric en tout cas, merci pour tout."
+		},
+		{
+			"start": 1648,
+			"startString": "27:28.120",
+			"end": 1650,
+			"endString": "27:29.520",
+			"content": "Je vous en prie, la police me recherche."
+		},
+		{
+			"start": 1650,
+			"startString": "27:30.080",
+			"end": 1651,
+			"endString": "27:30.440",
+			"content": "Activement."
+		},
+		{
+			"start": 1650,
+			"startString": "27:30.440",
+			"end": 1652,
+			"endString": "27:31.500",
+			"content": "Je comprends bien."
+		},
+		{
+			"start": 1651,
+			"startString": "27:31.840",
+			"end": 1656,
+			"endString": "27:35.500",
+			"content": "C'est sûrement lié au fait que vous avez tué 1500 personnes, qui est un chiffre énorme."
+		},
+		{
+			"start": 1656,
+			"startString": "27:36.640",
+			"end": 1657,
+			"endString": "27:36.940",
+			"content": "Exact."
+		},
+		{
+			"start": 1657,
+			"startString": "27:37.540",
+			"end": 1659,
+			"endString": "27:38.800",
+			"content": "Ha ha ha !"
+		},
+		{
+			"start": 1660,
+			"startString": "27:40.600",
+			"end": 1662,
+			"endString": "27:41.800",
+			"content": "Et nous continuons l'émission."
+		},
+		{
+			"start": 1661,
+			"startString": "27:41.800",
+			"end": 1666,
+			"endString": "27:45.600",
+			"content": "Alors je reçois, bon là c'est ni plus ni moins qu'une vedette de l'internet, ni plus ni moins."
+		},
+		{
+			"start": 1665,
+			"startString": "27:45.940",
+			"end": 1670,
+			"endString": "27:49.060",
+			"content": "Vous le connaissez, on l'a déjà reçu pas mal de fois au sein du FloodCast."
+		},
+		{
+			"start": 1669,
+			"startString": "27:49.180",
+			"end": 1670,
+			"endString": "27:49.580",
+			"content": "C'est Léopold."
+		},
+		{
+			"start": 1669,
+			"startString": "27:49.660",
+			"end": 1673,
+			"endString": "27:52.300",
+			"content": "Léopold le marchand, aka le con."
+		},
+		{
+			"start": 1672,
+			"startString": "27:52.540",
+			"end": 1675,
+			"endString": "27:54.100",
+			"content": "Comment vas-tu Léopold ?"
+		},
+		{
+			"start": 1674,
+			"startString": "27:54.100",
+			"end": 1675,
+			"endString": "27:54.960",
+			"content": "Oh écoute, je rigole."
+		},
+		{
+			"start": 1676,
+			"startString": "27:56.080",
+			"end": 1677,
+			"endString": "27:56.720",
+			"content": "Tout va bien."
+		},
+		{
+			"start": 1677,
+			"startString": "27:57.920",
+			"end": 1682,
+			"endString": "28:01.940",
+			"content": "Est-ce que si tu pouvais noter ta vie sur 10 actuellement ?"
+		},
+		{
+			"start": 1681,
+			"startString": "28:01.940",
+			"end": 1686,
+			"endString": "28:05.480",
+			"content": "Alors actuellement, ça vole pas très haut."
+		},
+		{
+			"start": 1685,
+			"startString": "28:05.640",
+			"end": 1689,
+			"endString": "28:08.380",
+			"content": "Je pense qu'en vrai, le moral est au plus bas."
+		},
+		{
+			"start": 1688,
+			"startString": "28:08.380",
+			"end": 1690,
+			"endString": "28:09.140",
+			"content": "Ha ha ha !"
+		},
+		{
+			"start": 1689,
+			"startString": "28:09.700",
+			"end": 1693,
+			"endString": "28:12.320",
+			"content": "J'ai trouvé un petit remède."
+		},
+		{
+			"start": 1693,
+			"startString": "28:13.140",
+			"end": 1695,
+			"endString": "28:14.620",
+			"content": "C'est un petit château blégnant."
+		},
+		{
+			"start": 1694,
+			"startString": "28:14.900",
+			"end": 1698,
+			"endString": "28:17.980",
+			"content": "Un grand vin de Bordeaux, plus bourgeois de 2016, un médoc."
+		},
+		{
+			"start": 1698,
+			"startString": "28:18.220",
+			"end": 1700,
+			"endString": "28:19.200",
+			"content": "Ah oui, une belle année en plus."
+		},
+		{
+			"start": 1700,
+			"startString": "28:20.220",
+			"end": 1704,
+			"endString": "28:24.000",
+			"content": "Donc je bois énormément et puis comme ça le temps passe plus vite."
+		},
+		{
+			"start": 1704,
+			"startString": "28:24.120",
+			"end": 1708,
+			"endString": "28:27.880",
+			"content": "D'accord, donc Léopold sombre dans l'alcool en ce moment à l'heure où on parle, c'est assez délicieux."
+		},
+		{
+			"start": 1708,
+			"startString": "28:28.560",
+			"end": 1718,
+			"endString": "28:37.620",
+			"content": "Léopold, je t'appelle parce que je sais que depuis quelques temps, alors là au moment où je t'appelle, nous sommes le 23 mars, donc ça fait une nuit de semaine maintenant que nous sommes confinés, même un peu plus pour les bons élèves."
+		},
+		{
+			"start": 1718,
+			"startString": "28:38.580",
+			"end": 1724,
+			"endString": "28:43.240",
+			"content": "Je te montre que plus le temps passe et plus finalement ça va, on s'y fait PAS DU TOUT !"
+		},
+		{
+			"start": 1723,
+			"startString": "28:43.240",
+			"end": 1725,
+			"endString": "28:44.200",
+			"content": "PAS !"
+		},
+		{
+			"start": 1724,
+			"startString": "28:44.200",
+			"end": 1726,
+			"endString": "28:45.540",
+			"content": "AVERT TOTAL !"
+		},
+		{
+			"start": 1725,
+			"startString": "28:45.540",
+			"end": 1728,
+			"endString": "28:47.460",
+			"content": "J'EN PEUX PLUS !"
+		},
+		{
+			"start": 1727,
+			"startString": "28:47.460",
+			"end": 1729,
+			"endString": "28:48.900",
+			"content": "Ouais, on s'y fait vachement bien."
+		},
+		{
+			"start": 1729,
+			"startString": "28:49.560",
+			"end": 1731,
+			"endString": "28:50.760",
+			"content": "Je jouais, je jouais."
+		},
+		{
+			"start": 1731,
+			"startString": "28:51.280",
+			"end": 1734,
+			"endString": "28:53.820",
+			"content": "En vrai, j'en fais des caisses, je suis pas si triste que ça."
+		},
+		{
+			"start": 1734,
+			"startString": "28:54.700",
+			"end": 1737,
+			"endString": "28:56.220",
+			"content": "En vrai, un petit peu ?"
+		},
+		{
+			"start": 1736,
+			"startString": "28:56.860",
+			"end": 1738,
+			"endString": "28:57.540",
+			"content": "Je souffre énormément."
+		},
+		{
+			"start": 1738,
+			"startString": "28:58.040",
+			"end": 1740,
+			"endString": "28:59.640",
+			"content": "Ha ha ha !"
+		},
+		{
+			"start": 1739,
+			"startString": "28:59.640",
+			"end": 1742,
+			"endString": "29:01.480",
+			"content": "On va pas se le cacher."
+		},
+		{
+			"start": 1741,
+			"startString": "29:01.940",
+			"end": 1745,
+			"endString": "29:04.600",
+			"content": "Je ne bois pas en temps normal, mais là je..."
+		},
+		{
+			"start": 1745,
+			"startString": "29:05.280",
+			"end": 1749,
+			"endString": "29:08.620",
+			"content": "Rappelons également que tu es confiné seul et donc tu bois parfaitement seul."
+		},
+		{
+			"start": 1750,
+			"startString": "29:10.040",
+			"end": 1751,
+			"endString": "29:10.840",
+			"content": "Exactement !"
+		},
+		{
+			"start": 1750,
+			"startString": "29:10.840",
+			"end": 1757,
+			"endString": "29:16.860",
+			"content": "A l'habitude, oui, c'est plus dans des occasions un peu plus festives, mais bon là je me dis, l'Asie c'est une fête, donc voilà."
+		},
+		{
+			"start": 1758,
+			"startString": "29:18.080",
+			"end": 1759,
+			"endString": "29:18.620",
+			"content": "Même seul."
+		},
+		{
+			"start": 1759,
+			"startString": "29:19.300",
+			"end": 1761,
+			"endString": "29:20.020",
+			"content": "Très très bien."
+		},
+		{
+			"start": 1760,
+			"startString": "29:20.460",
+			"end": 1769,
+			"endString": "29:28.280",
+			"content": "Donc, je t'appelle parce que depuis quelques temps en Italie, les gens vont à des balcons pour faire des..."
+		},
+		{
+			"start": 1768,
+			"startString": "29:28.280",
+			"end": 1774,
+			"endString": "29:33.600",
+			"content": "pour faire la fête, tout simplement, pour chanter, pour combattre un petit peu cette morosité ambiante, et je crois que ça t'a donné des idées."
+		},
+		{
+			"start": 1774,
+			"startString": "29:34.780",
+			"end": 1776,
+			"endString": "29:35.060",
+			"content": "Exactement."
+		},
+		{
+			"start": 1775,
+			"startString": "29:35.460",
+			"end": 1781,
+			"endString": "29:40.640",
+			"content": "Alors, j'ai horreur de... Je trouve qu'en fait c'est très bien d'applaudir tout ça, mais c'est pas assez en fait, tu vois."
+		},
+		{
+			"start": 1780,
+			"startString": "29:40.900",
+			"end": 1785,
+			"endString": "29:44.940",
+			"content": "Ouais, c'est quand même pour les hôpitaux, donc c'est quand même..."
+		},
+		{
+			"start": 1784,
+			"startString": "29:44.940",
+			"end": 1786,
+			"endString": "29:45.720",
+			"content": "Le corps médical ?"
+		},
+		{
+			"start": 1785,
+			"startString": "29:45.720",
+			"end": 1787,
+			"endString": "29:46.620",
+			"content": "Oui, c'est quand même pas mal."
+		},
+		{
+			"start": 1786,
+			"startString": "29:46.740",
+			"end": 1792,
+			"endString": "29:51.140",
+			"content": "Ouais, mais alors moi du coup, moi ce que je fais, c'est que... Bon, là je suis à la campagne, donc il y a strictement personne autour de moi."
+		},
+		{
+			"start": 1791,
+			"startString": "29:51.360",
+			"end": 1792,
+			"endString": "29:51.540",
+			"content": "D'accord."
+		},
+		{
+			"start": 1791,
+			"startString": "29:51.560",
+			"end": 1797,
+			"endString": "29:56.560",
+			"content": "Mais ça n'empêche que je chante à ma snipe quand même pour me donner un peu du bonheur."
+		},
+		{
+			"start": 1796,
+			"startString": "29:56.900",
+			"end": 1798,
+			"endString": "29:57.140",
+			"content": "D'accord."
+		},
+		{
+			"start": 1797,
+			"startString": "29:57.140",
+			"end": 1801,
+			"endString": "30:00.340",
+			"content": "Là, par exemple, hier, j'étais sur du Michel Saradou, les lacs du Connemara."
+		},
+		{
+			"start": 1800,
+			"startString": "30:00.340",
+			"end": 1801,
+			"endString": "30:00.900",
+			"content": "Très bien."
+		},
+		{
+			"start": 1802,
+			"startString": "30:02.520",
+			"end": 1806,
+			"endString": "30:05.700",
+			"content": "Très bien, mais du coup, tu es tout seul chez toi ?"
+		},
+		{
+			"start": 1805,
+			"startString": "30:05.700",
+			"end": 1808,
+			"endString": "30:07.480",
+			"content": "Ouais, mais je peux ouvrir la fenêtre et hurler, il n'y a pas de soucis."
+		},
+		{
+			"start": 1807,
+			"startString": "30:07.980",
+			"end": 1809,
+			"endString": "30:08.320",
+			"content": "Ouais, d'accord."
+		},
+		{
+			"start": 1808,
+			"startString": "30:08.440",
+			"end": 1811,
+			"endString": "30:10.480",
+			"content": "Oui, mais du coup, ça n'a pas grand..."
+		},
+		{
+			"start": 1810,
+			"startString": "30:10.480",
+			"end": 1812,
+			"endString": "30:11.520",
+			"content": "Comment dire ?"
+		},
+		{
+			"start": 1811,
+			"startString": "30:11.520",
+			"end": 1814,
+			"endString": "30:13.560",
+			"content": "Ça n'a pas grand intérêt du coup, personne ne chante avec toi."
+		},
+		{
+			"start": 1814,
+			"startString": "30:14.260",
+			"end": 1816,
+			"endString": "30:15.180",
+			"content": "Non, mais c'est parce que je suis bourré."
+		},
+		{
+			"start": 1816,
+			"startString": "30:16.240",
+			"end": 1817,
+			"endString": "30:16.700",
+			"content": "D'accord."
+		},
+		{
+			"start": 1818,
+			"startString": "30:18.100",
+			"end": 1821,
+			"endString": "30:20.280",
+			"content": "Du coup, je ne contrôle pas trop ce que je fais, tu vois."
+		},
+		{
+			"start": 1821,
+			"startString": "30:21.180",
+			"end": 1822,
+			"endString": "30:21.460",
+			"content": "D'accord."
+		},
+		{
+			"start": 1822,
+			"startString": "30:22.200",
+			"end": 1824,
+			"endString": "30:23.120",
+			"content": "D'accord, je comprends."
+		},
+		{
+			"start": 1823,
+			"startString": "30:23.340",
+			"end": 1827,
+			"endString": "30:26.260",
+			"content": "Donc juste, tu vas à ta fenêtre et tu hurles des chansons."
+		},
+		{
+			"start": 1827,
+			"startString": "30:27.080",
+			"end": 1828,
+			"endString": "30:27.700",
+			"content": "C 'est ça."
+		},
+		{
+			"start": 1828,
+			"startString": "30:28.080",
+			"end": 1829,
+			"endString": "30:28.820",
+			"content": "D'accord, très bien."
+		},
+		{
+			"start": 1829,
+			"startString": "30:29.240",
+			"end": 1833,
+			"endString": "30:32.360",
+			"content": "Tu peux nous donner peut-être un petit aperçu, juste pour voir ?"
+		},
+		{
+			"start": 1833,
+			"startString": "30:33.060",
+			"end": 1850,
+			"endString": "30:50.000",
+			"content": "Que bueno, que rico, que lindo Paris Latino Que bueno, que rico, que lindo Paris Latino Bandolero Rock Bandolero Shock Bandolero Rock Bandolero Shock Ça ressemble à un paquet de gâteaux."
+		},
+		{
+			"start": 1850,
+			"startString": "30:50.740",
+			"end": 1854,
+			"endString": "30:53.840",
+			"content": "Bandolero Shock Bandolero Shock, voilà."
+		},
+		{
+			"start": 1854,
+			"startString": "30:54.280",
+			"end": 1859,
+			"endString": "30:58.180",
+			"content": "Rappelons que je suis la première personne à qui tu parles depuis maintenant 7 jours."
+		},
+		{
+			"start": 1859,
+			"startString": "30:59.200",
+			"end": 1861,
+			"endString": "31:00.220",
+			"content": "C 'est ça, ça me fait beaucoup de bien."
+		},
+		{
+			"start": 1860,
+			"startString": "31:00.780",
+			"end": 1861,
+			"endString": "31:01.000",
+			"content": "J 'avoue."
+		},
+		{
+			"start": 1862,
+			"startString": "31:02.800",
+			"end": 1866,
+			"endString": "31:05.240",
+			"content": "Tu peux rester un petit peu plus longtemps que tu t'es prévu."
+		},
+		{
+			"start": 1865,
+			"startString": "31:05.380",
+			"end": 1872,
+			"endString": "31:11.620",
+			"content": "Oui, ben je vais, après je te promets pas de tout mettre dans l'émission mais effectivement on peut un peu discuter si le coeur t'en dit."
+		},
+		{
+			"start": 1872,
+			"startString": "31:12.060",
+			"end": 1877,
+			"endString": "31:16.060",
+			"content": "Bon en tout cas c'est un chouette, comment dire, c'est un chouette moment que tu offres aux auditeurs."
+		},
+		{
+			"start": 1876,
+			"startString": "31:16.720",
+			"end": 1878,
+			"endString": "31:17.340",
+			"content": "Il n'y a pas de soucis."
+		},
+		{
+			"start": 1877,
+			"startString": "31:17.780",
+			"end": 1884,
+			"endString": "31:23.400",
+			"content": "Et j'invite vraiment tout le monde à le faire, que vous soyez effectivement en appartement ou en maison de campagne."
+		},
+		{
+			"start": 1883,
+			"startString": "31:23.400",
+			"end": 1884,
+			"endString": "31:23.980",
+			"content": "Voilà."
+		},
+		{
+			"start": 1884,
+			"startString": "31:24.700",
+			"end": 1886,
+			"endString": "31:25.400",
+			"content": "N'hésitez pas."
+		},
+		{
+			"start": 1885,
+			"startString": "31:25.480",
+			"end": 1888,
+			"endString": "31:27.200",
+			"content": "Il faut vraiment attendre en retour quoi."
+		},
+		{
+			"start": 1887,
+			"startString": "31:27.680",
+			"end": 1892,
+			"endString": "31:31.300",
+			"content": "En fait c'est ça et puis même ça fait du bien à soi j'ai l'impression Léopold, non ?"
+		},
+		{
+			"start": 1891,
+			"startString": "31:31.300",
+			"end": 1893,
+			"endString": "31:32.120",
+			"content": "Comment ?"
+		},
+		{
+			"start": 1892,
+			"startString": "31:32.120",
+			"end": 1893,
+			"endString": "31:32.460",
+			"content": "J'ai pas entendu."
+		},
+		{
+			"start": 1893,
+			"startString": "31:33.300",
+			"end": 1895,
+			"endString": "31:34.960",
+			"content": "T'es complètement épreuve mort putain."
+		},
+		{
+			"start": 1895,
+			"startString": "31:35.320",
+			"end": 1896,
+			"endString": "31:35.880",
+			"content": "C'est une catastrophe."
+		},
+		{
+			"start": 1896,
+			"startString": "31:36.400",
+			"end": 1899,
+			"endString": "31:38.420",
+			"content": "Non j'ai l'impression que ça fait du bien à son propre corps de faire ça."
+		},
+		{
+			"start": 1899,
+			"startString": "31:39.180",
+			"end": 1901,
+			"endString": "31:40.340",
+			"content": "Oui, je suis rond comme une queue de pelle."
+		},
+		{
+			"start": 1903,
+			"startString": "31:43.200",
+			"end": 1906,
+			"endString": "31:45.400",
+			"content": "Est-ce que tu t'es découvert une addiction ?"
+		},
+		{
+			"start": 1906,
+			"startString": "31:46.540",
+			"end": 1911,
+			"endString": "31:50.740",
+			"content": "Non, je dirais pas une addiction mais disons que j'apprécie fortement."
+		},
+		{
+			"start": 1910,
+			"startString": "31:50.740",
+			"end": 1915,
+			"endString": "31:54.020",
+			"content": "J'ai l'impression que plus j'en bois, plus mon corps en redemande."
+		},
+		{
+			"start": 1914,
+			"startString": "31:54.860",
+			"end": 1917,
+			"endString": "31:56.980",
+			"content": "C'est vraiment le concept d'une addiction."
+		},
+		{
+			"start": 1917,
+			"startString": "31:57.560",
+			"end": 1920,
+			"endString": "31:59.020",
+			"content": "C'est sensiblement pas la même chose."
+		},
+		{
+			"start": 1919,
+			"startString": "31:59.620",
+			"end": 1921,
+			"endString": "32:00.580",
+			"content": "C'est assez similaire."
+		},
+		{
+			"start": 1920,
+			"startString": "32:00.600",
+			"end": 1925,
+			"endString": "32:04.560",
+			"content": "Il y a un contexte de plaisir qui est vraiment fort."
+		},
+		{
+			"start": 1924,
+			"startString": "32:04.840",
+			"end": 1927,
+			"endString": "32:06.260",
+			"content": "Vraiment beaucoup d'addiction."
+		},
+		{
+			"start": 1926,
+			"startString": "32:06.420",
+			"end": 1933,
+			"endString": "32:12.700",
+			"content": "Pour le moment c'est du plaisir, après dans deux semaines ce sera un besoin vital et rien d'autre."
+		},
+		{
+			"start": 1933,
+			"startString": "32:13.020",
+			"end": 1934,
+			"endString": "32:13.500",
+			"content": "Absolument rien d'autre."
+		},
+		{
+			"start": 1934,
+			"startString": "32:14.540",
+			"end": 1937,
+			"endString": "32:16.100",
+			"content": "J'ai un litre par jour."
+		},
+		{
+			"start": 1936,
+			"startString": "32:16.940",
+			"end": 1940,
+			"endString": "32:19.280",
+			"content": "Léopold tu es heureux de t'avoir eu au téléphone."
+		},
+		{
+			"start": 1939,
+			"startString": "32:19.680",
+			"end": 1942,
+			"endString": "32:21.180",
+			"content": "Ça me rassure en tout cas."
+		},
+		{
+			"start": 1941,
+			"startString": "32:21.260",
+			"end": 1943,
+			"endString": "32:22.040",
+			"content": "Je me dis il va bien."
+		},
+		{
+			"start": 1943,
+			"startString": "32:23.540",
+			"end": 1949,
+			"endString": "32:28.040",
+			"content": "Une question aussi, je me demandais on est à combien de masturbation dans une semaine ?"
+		},
+		{
+			"start": 1948,
+			"startString": "32:28.040",
+			"end": 1955,
+			"endString": "32:34.280",
+			"content": "Parce que c'est vrai que c'est assez fou parce qu'en fait on a envie de se masturber mais en même temps le moral n'est pas au beau fixe donc on est dans un entre deux un peu nul."
+		},
+		{
+			"start": 1955,
+			"startString": "32:35.060",
+			"end": 1961,
+			"endString": "32:40.600",
+			"content": "Tu sais que figure-toi deux branlettes en 7 jours ce qui est vraiment fabuleux."
+		},
+		{
+			"start": 1960,
+			"startString": "32:40.980",
+			"end": 1967,
+			"endString": "32:46.780",
+			"content": "Je suis seul mais en fait ma libido est au plus bas parce que je suis pas bien."
+		},
+		{
+			"start": 1966,
+			"startString": "32:46.780",
+			"end": 1971,
+			"endString": "32:50.360",
+			"content": "On est trisque en fait."
+		},
+		{
+			"start": 1970,
+			"startString": "32:50.860",
+			"end": 1972,
+			"endString": "32:51.520",
+			"content": "Oui voilà mais c'est ça."
+		},
+		{
+			"start": 1971,
+			"startString": "32:51.980",
+			"end": 1983,
+			"endString": "33:02.220",
+			"content": "Moi j'ai ça aussi parce que les gens pensaient qu'il allait y avoir un espèce de baby boom de confinement, on en parlait avec ma meuf dans le FloodCast et il faut être tout à fait honnête pas tant quand même parce que c'est pas..."
+		},
+		{
+			"start": 1982,
+			"startString": "33:02.220",
+			"end": 1984,
+			"endString": "33:03.800",
+			"content": "C 'est difficile."
+		},
+		{
+			"start": 1984,
+			"startString": "33:04.740",
+			"end": 1986,
+			"endString": "33:05.660",
+			"content": "On a la tête ailleurs."
+		},
+		{
+			"start": 1987,
+			"startString": "33:07.640",
+			"end": 1990,
+			"endString": "33:09.260",
+			"content": "Place maintenant au rire."
+		},
+		{
+			"start": 1989,
+			"startString": "33:09.360",
+			"end": 1993,
+			"endString": "33:12.060",
+			"content": "Place maintenant à l'amusement dans ces temps un petit peu difficiles."
+		},
+		{
+			"start": 1992,
+			"startString": "33:12.160",
+			"end": 1996,
+			"endString": "33:15.620",
+			"content": "Il est toujours bon de rire avec notre chroniqueur."
+		},
+		{
+			"start": 1995,
+			"startString": "33:15.700",
+			"end": 2000,
+			"endString": "33:19.140",
+			"content": "Vous le connaissez, l'actualité lui a donné énormément d'idées."
+		},
+		{
+			"start": 1999,
+			"startString": "33:19.320",
+			"end": 2009,
+			"endString": "33:28.500",
+			"content": "Il est acerbe, il plante genre bafouille, il trempe sa plume non pas dans de l'encre mais dans du vitriol, un petit bol de vitriol qu'il a toujours sur lui."
+		},
+		{
+			"start": 2008,
+			"startString": "33:28.920",
+			"end": 2011,
+			"endString": "33:30.960",
+			"content": "Il s'agit de Tanguy Pastuniac."
+		},
+		{
+			"start": 2015,
+			"startString": "33:35.020",
+			"end": 2017,
+			"endString": "33:36.140",
+			"content": "Ah bonjour tout le monde."
+		},
+		{
+			"start": 2016,
+			"startString": "33:36.320",
+			"end": 2018,
+			"endString": "33:37.780",
+			"content": "Comment ça va le FloodCast ?"
+		},
+		{
+			"start": 2017,
+			"startString": "33:37.780",
+			"end": 2019,
+			"endString": "33:38.540",
+			"content": "Ça va ?"
+		},
+		{
+			"start": 2018,
+			"startString": "33:38.540",
+			"end": 2021,
+			"endString": "33:40.240",
+			"content": "Vous êtes bien confinés ?"
+		},
+		{
+			"start": 2020,
+			"startString": "33:40.240",
+			"end": 2022,
+			"endString": "33:41.240",
+			"content": "Moi en tout cas pas de problème."
+		},
+		{
+			"start": 2021,
+			"startString": "33:41.440",
+			"end": 2024,
+			"endString": "33:43.580",
+			"content": "J'ai l'habitude de faire le confinement dans mes chroniques."
+		},
+		{
+			"start": 2023,
+			"startString": "33:43.580",
+			"end": 2026,
+			"endString": "33:45.040",
+			"content": "Le con-finement."
+		},
+		{
+			"start": 2025,
+			"startString": "33:45.360",
+			"end": 2027,
+			"endString": "33:46.740",
+			"content": "Vous l'avez ?"
+		},
+		{
+			"start": 2026,
+			"startString": "33:46.740",
+			"end": 2033,
+			"endString": "33:52.620",
+			"content": "Ecoutez, moi en ces temps moroses d'épidémie mondiale je suis là pour mettre un peu de piquant, un peu de peps dans vos vies en quelque sorte."
+		},
+		{
+			"start": 2032,
+			"startString": "33:52.940",
+			"end": 2035,
+			"endString": "33:54.320",
+			"content": "Parce que maintenant c'est fini."
+		},
+		{
+			"start": 2034,
+			"startString": "33:54.800",
+			"end": 2036,
+			"endString": "33:55.580",
+			"content": "Tout est fermé."
+		},
+		{
+			"start": 2035,
+			"startString": "33:55.660",
+			"end": 2037,
+			"endString": "33:56.580",
+			"content": "On doit rester chez soi."
+		},
+		{
+			"start": 2036,
+			"startString": "33:56.780",
+			"end": 2039,
+			"endString": "33:58.740",
+			"content": "Plus de bars, plus de restos, plus de ciné."
+		},
+		{
+			"start": 2039,
+			"startString": "33:59.080",
+			"end": 2042,
+			"endString": "34:01.700",
+			"content": "Et le pire, on doit scolterner les gosses à la maison."
+		},
+		{
+			"start": 2042,
+			"startString": "34:02.200",
+			"end": 2044,
+			"endString": "34:03.460",
+			"content": "Je vous raconte pas le désastre."
+		},
+		{
+			"start": 2044,
+			"startString": "34:04.120",
+			"end": 2049,
+			"endString": "34:08.300",
+			"content": "Alors pour pas que les enfants croient qu'ils sont en vacances, le ministère a lancé l'enseignement à distance."
+		},
+		{
+			"start": 2048,
+			"startString": "34:08.560",
+			"end": 2050,
+			"endString": "34:09.200",
+			"content": "Formidable idée."
+		},
+		{
+			"start": 2049,
+			"startString": "34:09.700",
+			"end": 2052,
+			"endString": "34:11.620",
+			"content": "Sauf que moi ma fille, elle est en maternelle."
+		},
+		{
+			"start": 2051,
+			"startString": "34:11.620",
+			"end": 2054,
+			"endString": "34:13.260",
+			"content": "Alors on fait comment ?"
+		},
+		{
+			"start": 2053,
+			"startString": "34:13.260",
+			"end": 2057,
+			"endString": "34:16.440",
+			"content": "On a essayé de faire rentrer sa patte à modeler dans la prise USB de l'iPad."
+		},
+		{
+			"start": 2056,
+			"startString": "34:16.860",
+			"end": 2058,
+			"endString": "34:17.620",
+			"content": "C'est un peu compliqué."
+		},
+		{
+			"start": 2058,
+			"startString": "34:18.940",
+			"end": 2062,
+			"endString": "34:21.200",
+			"content": "Et puis moi ça me dérange pendant mon travail."
+		},
+		{
+			"start": 2061,
+			"startString": "34:21.400",
+			"end": 2065,
+			"endString": "34:24.100",
+			"content": "Avec le confinement, je me suis mis au télétravail."
+		},
+		{
+			"start": 2064,
+			"startString": "34:24.620",
+			"end": 2066,
+			"endString": "34:25.820",
+			"content": "C'est super le télétravail."
+		},
+		{
+			"start": 2066,
+			"startString": "34:26.080",
+			"end": 2071,
+			"endString": "34:31.000",
+			"content": "C'est comme être au bureau, sauf qu'au lieu d'insulter Chantal Delaconta à la machine à café, on le fait sur Skype."
+		},
+		{
+			"start": 2071,
+			"startString": "34:31.740",
+			"end": 2074,
+			"endString": "34:33.320",
+			"content": "Chantal, tu m'entends là ?"
+		},
+		{
+			"start": 2073,
+			"startString": "34:33.320",
+			"end": 2076,
+			"endString": "34:35.560",
+			"content": "Attends, merde, mon micro n'est pas branché."
+		},
+		{
+			"start": 2076,
+			"startString": "34:36.440",
+			"end": 2078,
+			"endString": "34:37.740",
+			"content": "C'est bon là, tu m'entends ?"
+		},
+		{
+			"start": 2077,
+			"startString": "34:37.740",
+			"end": 2079,
+			"endString": "34:38.280",
+			"content": "Oui ?"
+		},
+		{
+			"start": 2078,
+			"startString": "34:38.280",
+			"end": 2079,
+			"endString": "34:38.740",
+			"content": "Ah parfait."
+		},
+		{
+			"start": 2079,
+			"startString": "34:39.020",
+			"end": 2080,
+			"endString": "34:39.820",
+			"content": "Tu m'emmerdes, Chantal."
+		},
+		{
+			"start": 2082,
+			"startString": "34:42.140",
+			"end": 2087,
+			"endString": "34:46.540",
+			"content": "Finalement, le coronavirus, il tue peut-être des milliers de personnes, mais il fait vachement avancer la technologie."
+		},
+		{
+			"start": 2087,
+			"startString": "34:47.300",
+			"end": 2091,
+			"endString": "34:50.020",
+			"content": "Et sinon, vous avez imprimé l'autorisation de sortie là ?"
+		},
+		{
+			"start": 2090,
+			"startString": "34:50.020",
+			"end": 2093,
+			"endString": "34:52.300",
+			"content": "Moi j'en ai déjà imprimé 20 depuis lundi pour pouvoir sortir."
+		},
+		{
+			"start": 2093,
+			"startString": "34:53.000",
+			"end": 2097,
+			"endString": "34:56.460",
+			"content": "Je vais promener mon chien 6 fois par jour maintenant, alors que j'ai même pas de chien."
+		},
+		{
+			"start": 2098,
+			"startString": "34:58.100",
+			"end": 2102,
+			"endString": "35:01.060",
+			"content": "Ah ouais, mais au bout d'un moment, rester enfermé chez soi, c'est vrai, ça rend fou."
+		},
+		{
+			"start": 2101,
+			"startString": "35:01.380",
+			"end": 2105,
+			"endString": "35:04.280",
+			"content": "Vous avez vu les images des Italiens qui chantent au balcon ?"
+		},
+		{
+			"start": 2104,
+			"startString": "35:04.280",
+			"end": 2106,
+			"endString": "35:05.880",
+			"content": "Moi, ma voisine a essayé de faire la même chose."
+		},
+		{
+			"start": 2106,
+			"startString": "35:06.220",
+			"end": 2109,
+			"endString": "35:08.320",
+			"content": "Elle a commencé à chanter du Hayan à Kamoura."
+		},
+		{
+			"start": 2108,
+			"startString": "35:08.860",
+			"end": 2113,
+			"endString": "35:12.700",
+			"content": "J'ai dû utiliser mon dernier masque FFP2 pour essuyer le sang qui sortait de mes oreilles."
+		},
+		{
+			"start": 2113,
+			"startString": "35:13.340",
+			"end": 2118,
+			"endString": "35:17.180",
+			"content": "Non merci, mais pourquoi pas du Jul tant qu'on y est ?"
+		},
+		{
+			"start": 2117,
+			"startString": "35:17.180",
+			"end": 2119,
+			"endString": "35:18.860",
+			"content": "Ah, ensuite, j'ai dû me mettre en cuisine."
+		},
+		{
+			"start": 2119,
+			"startString": "35:19.160",
+			"end": 2124,
+			"endString": "35:23.340",
+			"content": "Je voulais me faire des pâtes, mais impossible d'en acheter, tout a été dévalisé au supermarché."
+		},
+		{
+			"start": 2123,
+			"startString": "35:23.860",
+			"end": 2126,
+			"endString": "35:25.720",
+			"content": "Obligé de manger des pizzas à l'ananas."
+		},
+		{
+			"start": 2126,
+			"startString": "35:26.200",
+			"end": 2129,
+			"endString": "35:28.960",
+			"content": "Ah ouais, c'est le seul truc que les gens ne touchent pas tellement c'est nul."
+		},
+		{
+			"start": 2129,
+			"startString": "35:29.720",
+			"end": 2134,
+			"endString": "35:33.040",
+			"content": "Eh, d'ailleurs à ce propos, c'est quoi le problème des gens avec le PQ ?"
+		},
+		{
+			"start": 2133,
+			"startString": "35:33.040",
+			"end": 2136,
+			"endString": "35:35.140",
+			"content": "Ils le mangent le papier toilette ou quoi ?"
+		},
+		{
+			"start": 2135,
+			"startString": "35:35.140",
+			"end": 2137,
+			"endString": "35:36.140",
+			"content": "Ils disent quoi ?"
+		},
+		{
+			"start": 2136,
+			"startString": "35:36.140",
+			"end": 2140,
+			"endString": "35:39.540",
+			"content": "Ce soir au menu, spaghettis sur son lit de Moltonnel ?"
+		},
+		{
+			"start": 2140,
+			"startString": "35:40.900",
+			"end": 2145,
+			"endString": "35:44.280",
+			"content": "Ah les mecs, ils se sont faits des stocks pour 4 ans, non mais ça va pas ?"
+		},
+		{
+			"start": 2144,
+			"startString": "35:44.280",
+			"end": 2149,
+			"endString": "35:48.100",
+			"content": "Eh, si vous voulez mon avis, il y en a qui sont quand même plus cons que finés."
+		},
+		{
+			"start": 2148,
+			"startString": "35:48.520",
+			"end": 2150,
+			"endString": "35:49.440",
+			"content": "Si vous voyez ce que je veux dire."
+		},
+		{
+			"start": 2149,
+			"startString": "35:49.960",
+			"end": 2152,
+			"endString": "35:51.060",
+			"content": "Allez, à la prochaine."
+		},
+		{
+			"start": 2152,
+			"startString": "35:52.640",
+			"end": 2154,
+			"endString": "35:53.880",
+			"content": "Tanguy Pastignac !"
+		},
+		{
+			"start": 2154,
+			"startString": "35:54.440",
+			"end": 2162,
+			"endString": "36:01.660",
+			"content": "Alors, on va aussi remercier, j'ai envie de dire, tel un Dr Jekyll et un Mr Hyde, il y a Tanguy Pastignac et il y a Julien Pagnac qui est avec nous."
+		},
+		{
+			"start": 2162,
+			"startString": "36:02.020",
+			"end": 2163,
+			"endString": "36:02.780",
+			"content": "Julien, comment vas-tu ?"
+		},
+		{
+			"start": 2162,
+			"startString": "36:02.780",
+			"end": 2164,
+			"endString": "36:03.040",
+			"content": "Merci."
+		},
+		{
+			"start": 2163,
+			"startString": "36:03.660",
+			"end": 2165,
+			"endString": "36:04.640",
+			"content": "Ça va très bien et toi ?"
+		},
+		{
+			"start": 2164,
+			"startString": "36:04.640",
+			"end": 2166,
+			"endString": "36:05.780",
+			"content": "Ça va extrêmement bien, écoute."
+		},
+		{
+			"start": 2166,
+			"startString": "36:06.100",
+			"end": 2168,
+			"endString": "36:07.420",
+			"content": "Où est-ce qu'on peut te retrouver, Julien ?"
+		},
+		{
+			"start": 2167,
+			"startString": "36:07.420",
+			"end": 2172,
+			"endString": "36:11.600",
+			"content": "Parce qu'en ce moment, vous les Twitchos, là, avec le confinement, attention, ça y va, la thune, j'ai l'impression."
+		},
+		{
+			"start": 2171,
+			"startString": "36:11.760",
+			"end": 2174,
+			"endString": "36:13.940",
+			"content": "C'est vrai qu'on peut me retrouver sur Twitch."
+		},
+		{
+			"start": 2174,
+			"startString": "36:14.340",
+			"end": 2179,
+			"endString": "36:18.220",
+			"content": "On nage dans la thune actuellement, les gens n'ont rien d'autre à foutre que de nous regarder."
+		},
+		{
+			"start": 2179,
+			"startString": "36:19.380",
+			"end": 2184,
+			"endString": "36:23.020",
+			"content": "Donc effectivement, on nage dans une piscine de thune, c'est indécent."
+		},
+		{
+			"start": 2183,
+			"startString": "36:23.840",
+			"end": 2188,
+			"endString": "36:27.100",
+			"content": "Donc évidemment, on peut me retrouver sur Twitch, Julien Pagnac."
+		},
+		{
+			"start": 2187,
+			"startString": "36:27.780",
+			"end": 2191,
+			"endString": "36:30.660",
+			"content": "C'est Julien Pagnac tout attaché, il n'y a pas de subtilité."
+		},
+		{
+			"start": 2191,
+			"startString": "36:31.820",
+			"end": 2195,
+			"endString": "36:34.940",
+			"content": "Julien Pagnac, P-A-N-I-A-C, voilà, voilà."
+		},
+		{
+			"start": 2195,
+			"startString": "36:35.140",
+			"end": 2197,
+			"endString": "36:36.640",
+			"content": "Tout attaché sur Twitter, c'est pareil."
+		},
+		{
+			"start": 2196,
+			"startString": "36:36.900",
+			"end": 2199,
+			"endString": "36:38.260",
+			"content": "Ah oui, suivez-le sur Twitter aussi."
+		},
+		{
+			"start": 2198,
+			"startString": "36:38.380",
+			"end": 2202,
+			"endString": "36:41.780",
+			"content": "Alors, bon, en ce moment, forcément, il y a un peu moins de blagues, je ne sais pas pourquoi."
+		},
+		{
+			"start": 2202,
+			"startString": "36:42.420",
+			"end": 2214,
+			"endString": "36:53.280",
+			"content": "Je ne sais pas, je ne sais pas, écoute, on jongle entre les blagues et de l'actu chaude et puis, ben, voilà, comme tu as dit, une plume trempée dans le vitriol, parfois, contre ce gouvernement-là."
+		},
+		{
+			"start": 2213,
+			"startString": "36:53.320",
+			"end": 2217,
+			"endString": "36:56.400",
+			"content": "Oh là là, le macaron, ne me lance pas sur ce macaron !"
+		},
+		{
+			"start": 2216,
+			"startString": "36:56.400",
+			"end": 2221,
+			"endString": "37:00.060",
+			"content": "Ah là là, il va nous parler tous les soirs à la télé ou quoi, celui-là ?"
+		},
+		{
+			"start": 2220,
+			"startString": "37:00.060",
+			"end": 2221,
+			"endString": "37:00.560",
+			"content": "J'ai bien l'impression."
+		},
+		{
+			"start": 2220,
+			"startString": "37:00.720",
+			"end": 2223,
+			"endString": "37:02.260",
+			"content": "Ah non, mais attends, incroyable."
+		},
+		{
+			"start": 2222,
+			"startString": "37:02.880",
+			"end": 2229,
+			"endString": "37:08.980",
+			"content": "En tout cas, bon, si vous aimez cette chronique, j'aimerais vraiment que Tanguy Pastudiaque vienne nous faire quelques chroniques de temps en temps dans FloodCast, ce serait vraiment cool."
+		},
+		{
+			"start": 2229,
+			"startString": "37:09.420",
+			"end": 2239,
+			"endString": "37:18.560",
+			"content": "En tout cas, ben, merci beaucoup, Julien, tu embrasseras Tanguy, j'ai l'impression que c'est comme le père Noël, tu sais, c'est, oh là là, j'ai vu Tanguy partir de mon appartement, au revoir Tanguy, au revoir, vous l'avez raté, les enfants."
+		},
+		{
+			"start": 2238,
+			"startString": "37:18.860",
+			"end": 2241,
+			"endString": "37:20.440",
+			"content": "Je l'ai encore raté, je l'ai encore raté."
+		},
+		{
+			"start": 2240,
+			"startString": "37:20.600",
+			"end": 2243,
+			"endString": "37:22.260",
+			"content": "Tu as raté Tanguy, Julien, c'est terrible."
+		},
+		{
+			"start": 2242,
+			"startString": "37:22.260",
+			"end": 2247,
+			"endString": "37:26.520",
+			"content": "Chaque fois, j'arrive tout poil, je sais pas, mais si je le crois, je lui ferai un check du coude."
+		},
+		{
+			"start": 2247,
+			"startString": "37:27.100",
+			"end": 2248,
+			"endString": "37:27.560",
+			"content": "Oh, bien sûr."
+		},
+		{
+			"start": 2247,
+			"startString": "37:27.760",
+			"end": 2251,
+			"endString": "37:30.800",
+			"content": "Bon, écoute, je te fais des gros bisous, Julien, j'allais t'appeler Tanguy."
+		},
+		{
+			"start": 2251,
+			"startString": "37:31.200",
+			"end": 2253,
+			"endString": "37:32.500",
+			"content": "Et, ben, à très bientôt, gars."
+		},
+		{
+			"start": 2253,
+			"startString": "37:33.140",
+			"end": 2254,
+			"endString": "37:33.720",
+			"content": "Bisous, ciao."
+		},
+		{
+			"start": 2253,
+			"startString": "37:33.840",
+			"end": 2255,
+			"endString": "37:34.400",
+			"content": "À très bientôt."
+		},
+		{
+			"start": 2254,
+			"startString": "37:34.620",
+			"end": 2255,
+			"endString": "37:34.720",
+			"content": "Bye."
+		},
+		{
+			"start": 2256,
+			"startString": "37:36.560",
+			"end": 2258,
+			"endString": "37:37.800",
+			"content": "Qu'est-ce qu'il veut, celui-là ?"
+		},
+		{
+			"start": 2257,
+			"startString": "37:37.800",
+			"end": 2260,
+			"endString": "37:39.260",
+			"content": "Qu'est-ce qu'il veut, celui-là, encore ?"
+		},
+		{
+			"start": 2259,
+			"startString": "37:39.260",
+			"end": 2261,
+			"endString": "37:40.960",
+			"content": "Bonjour, Nathalie, ça va ?"
+		},
+		{
+			"start": 2260,
+			"startString": "37:40.960",
+			"end": 2263,
+			"endString": "37:42.580",
+			"content": "Déjà, je me coltine ton frère."
+		},
+		{
+			"start": 2263,
+			"startString": "37:43.060",
+			"end": 2266,
+			"endString": "37:45.500",
+			"content": "Ah oui, tu es en confinement avec mon frère ?"
+		},
+		{
+			"start": 2265,
+			"startString": "37:45.500",
+			"end": 2266,
+			"endString": "37:45.840",
+			"content": "Ah oui."
+		},
+		{
+			"start": 2266,
+			"startString": "37:46.020",
+			"end": 2268,
+			"endString": "37:47.700",
+			"content": "Comment va-t-il ?"
+		},
+		{
+			"start": 2267,
+			"startString": "37:47.700",
+			"end": 2271,
+			"endString": "37:50.520",
+			"content": "Il va bien, tu sais, il fait ses trucs de zikos, quoi, il compose."
+		},
+		{
+			"start": 2270,
+			"startString": "37:50.520",
+			"end": 2272,
+			"endString": "37:51.720",
+			"content": "Tu parles..."
+		},
+		{
+			"start": 2271,
+			"startString": "37:51.720",
+			"end": 2274,
+			"endString": "37:53.280",
+			"content": "Tu as pris un petit accent."
+		},
+		{
+			"start": 2275,
+			"startString": "37:55.220",
+			"end": 2277,
+			"endString": "37:56.860",
+			"content": "Ben, parce que je deviens folle, en fait."
+		},
+		{
+			"start": 2277,
+			"startString": "37:57.580",
+			"end": 2280,
+			"endString": "37:59.800",
+			"content": "Tu es en train de perdre la tête ?"
+		},
+		{
+			"start": 2279,
+			"startString": "37:59.800",
+			"end": 2281,
+			"endString": "38:00.320",
+			"content": "Un peu."
+		},
+		{
+			"start": 2280,
+			"startString": "38:00.720",
+			"end": 2283,
+			"endString": "38:02.860",
+			"content": "Oh, ben voilà, c'était pour savoir si tout allait bien."
+		},
+		{
+			"start": 2283,
+			"startString": "38:03.000",
+			"end": 2284,
+			"endString": "38:03.660",
+			"content": "C'était juste ça."
+		},
+		{
+			"start": 2283,
+			"startString": "38:03.920",
+			"end": 2287,
+			"endString": "38:06.400",
+			"content": "Eh ben, écoute, tout va très bien."
+		},
+		{
+			"start": 2286,
+			"startString": "38:06.620",
+			"end": 2288,
+			"endString": "38:07.940",
+			"content": "On est heureux d'être tous les cinq."
+		},
+		{
+			"start": 2289,
+			"startString": "38:09.000",
+			"end": 2292,
+			"endString": "38:11.160",
+			"content": "Donc, toi, tu es à cinq, c'est ça ?"
+		},
+		{
+			"start": 2291,
+			"startString": "38:11.160",
+			"end": 2293,
+			"endString": "38:12.740",
+			"content": "On est cinq dans la maison."
+		},
+		{
+			"start": 2293,
+			"startString": "38:13.100",
+			"end": 2295,
+			"endString": "38:14.600",
+			"content": "Oh là là, et ça va ?"
+		},
+		{
+			"start": 2294,
+			"startString": "38:14.600",
+			"end": 2298,
+			"endString": "38:17.920",
+			"content": "Est-ce que c'est comme une télé-réalité, vous commencez à avoir des..."
+		},
+		{
+			"start": 2299,
+			"startString": "38:19.980",
+			"end": 2304,
+			"endString": "38:23.900",
+			"content": "Franchement, la journée, on bosse, on est tous en train de taffer sur des petits projets, perso."
+		},
+		{
+			"start": 2304,
+			"startString": "38:24.080",
+			"end": 2305,
+			"endString": "38:24.440",
+			"content": "Trop bien."
+		},
+		{
+			"start": 2304,
+			"startString": "38:24.820",
+			"end": 2308,
+			"endString": "38:27.640",
+			"content": "Et le soir, on se fait des petits dîners, télé, cheminée."
+		},
+		{
+			"start": 2308,
+			"startString": "38:28.920",
+			"end": 2310,
+			"endString": "38:29.740",
+			"content": "Franchement, c'est cool, hein ?"
+		},
+		{
+			"start": 2309,
+			"startString": "38:29.740",
+			"end": 2311,
+			"endString": "38:30.880",
+			"content": "La vie est belle, quoi, tout simplement."
+		},
+		{
+			"start": 2311,
+			"startString": "38:31.520",
+			"end": 2314,
+			"endString": "38:33.520",
+			"content": "Moi qui suis casanière, ça ne change pas d'habitude."
+		},
+		{
+			"start": 2313,
+			"startString": "38:33.880",
+			"end": 2317,
+			"endString": "38:36.180",
+			"content": "C'est ça, donc ça va, tu ne deviens pas folle, c'est faux."
+		},
+		{
+			"start": 2317,
+			"startString": "38:37.160",
+			"end": 2318,
+			"endString": "38:37.400",
+			"content": "Non."
+		},
+		{
+			"start": 2317,
+			"startString": "38:37.860",
+			"end": 2323,
+			"endString": "38:42.300",
+			"content": "Voilà, ben en tout cas, c'était un canular, tu es en direct sur FloodCast, bonjour, bravo Nothalie, bravo !"
+		},
+		{
+			"start": 2322,
+			"startString": "38:42.300",
+			"end": 2324,
+			"endString": "38:43.280",
+			"content": "Putain, énorme."
+		},
+		{
+			"start": 2325,
+			"startString": "38:45.100",
+			"end": 2326,
+			"endString": "38:45.920",
+			"content": "Ouh, bravo !"
+		},
+		{
+			"start": 2325,
+			"startString": "38:45.920",
+			"end": 2327,
+			"endString": "38:46.880",
+			"content": "J 'ai roulé dans la farine."
+		},
+		{
+			"start": 2327,
+			"startString": "38:47.040",
+			"end": 2329,
+			"endString": "38:48.140",
+			"content": "Bah ouais !"
+		},
+		{
+			"start": 2328,
+			"startString": "38:48.140",
+			"end": 2331,
+			"endString": "38:50.080",
+			"content": "Et moi, je me suis livrée comme ça."
+		},
+		{
+			"start": 2330,
+			"startString": "38:50.200",
+			"end": 2332,
+			"endString": "38:51.220",
+			"content": "Bah ouais, t'as tout donné, là."
+		},
+		{
+			"start": 2331,
+			"startString": "38:51.480",
+			"end": 2333,
+			"endString": "38:52.880",
+			"content": "Tu t'en fous de ma gueule, en fait."
+		},
+		{
+			"start": 2333,
+			"startString": "38:53.160",
+			"end": 2338,
+			"endString": "38:57.040",
+			"content": "En vrai, non, pas du tout, mais c'était pour savoir dans les grandes lignes, quoi."
+		},
+		{
+			"start": 2337,
+			"startString": "38:57.940",
+			"end": 2342,
+			"endString": "39:01.060",
+			"content": "Je m'aurais jamais appelé si c'était pas pour un FloodCast, enculé."
+		},
+		{
+			"start": 2341,
+			"startString": "39:01.880",
+			"end": 2345,
+			"endString": "39:04.440",
+			"content": "Franchement, en fait, je pense que j'aurais envoyé un texto."
+		},
+		{
+			"start": 2344,
+			"startString": "39:04.480",
+			"end": 2346,
+			"endString": "39:05.840",
+			"content": "Ben, mets-toi ton micro dans le cuve."
+		},
+		{
+			"start": 2346,
+			"startString": "39:06.160",
+			"end": 2348,
+			"endString": "39:07.700",
+			"content": "Oh, c'est pas très sympa."
+		},
+		{
+			"start": 2348,
+			"startString": "39:08.980",
+			"end": 2356,
+			"endString": "39:15.020",
+			"content": "Je crois que je me serais... En vrai, en toute honnêteté, j'ai voulu t'envoyer un texto, et vu que j'avais mon truc de radio de brancher, je me suis dit, tiens, je vais l'appeler."
+		},
+		{
+			"start": 2355,
+			"startString": "39:15.020",
+			"end": 2358,
+			"endString": "39:17.380",
+			"content": "Mais t'avais pas le temps !"
+		},
+		{
+			"start": 2357,
+			"startString": "39:17.380",
+			"end": 2360,
+			"endString": "39:19.540",
+			"content": "Pourquoi j'avais pas le temps d'envoyer un texto ?"
+		},
+		{
+			"start": 2359,
+			"startString": "39:19.540",
+			"end": 2362,
+			"endString": "39:21.800",
+			"content": "Tu sais, je suis très busy, moi, en ce moment."
+		},
+		{
+			"start": 2362,
+			"startString": "39:22.320",
+			"end": 2363,
+			"endString": "39:23.000",
+			"content": "Là, je vais aller au resto."
+		},
+		{
+			"start": 2363,
+			"startString": "39:23.000",
+			"end": 2365,
+			"endString": "39:25.000",
+			"content": "Mais pourquoi tu te mets pas sur HouseParty, toi ?"
+		},
+		{
+			"start": 2365,
+			"startString": "39:25.000",
+			"end": 2366,
+			"endString": "39:26.000",
+			"content": "Mais alors, ça, c'est fou !"
+		},
+		{
+			"start": 2366,
+			"startString": "39:26.000",
+			"end": 2367,
+			"endString": "39:26.780",
+			"content": "J'ai pas téléchargé."
+		},
+		{
+			"start": 2366,
+			"startString": "39:26.840",
+			"end": 2369,
+			"endString": "39:28.760",
+			"content": "Clara l'a téléchargé, mais moi, j'ai pas HouseParty."
+		},
+		{
+			"start": 2369,
+			"startString": "39:29.640",
+			"end": 2371,
+			"endString": "39:30.800",
+			"content": "Ça t'intéresse pas ?"
+		},
+		{
+			"start": 2370,
+			"startString": "39:30.800",
+			"end": 2373,
+			"endString": "39:32.040",
+			"content": "Tu veux voir tes amis ?"
+		},
+		{
+			"start": 2372,
+			"startString": "39:32.040",
+			"end": 2374,
+			"endString": "39:33.520",
+			"content": "Mais alors, déjà, bon, il y a deux choses."
+		},
+		{
+			"start": 2373,
+			"startString": "39:33.820",
+			"end": 2378,
+			"endString": "39:37.020",
+			"content": "Le nombre d'amis est assez peu élevé, pour être tout à fait honnête."
+		},
+		{
+			"start": 2378,
+			"startString": "39:38.580",
+			"end": 2382,
+			"endString": "39:41.700",
+			"content": "Et du coup, je connais pas trop le concept de HouseParty."
+		},
+		{
+			"start": 2381,
+			"startString": "39:41.700",
+			"end": 2384,
+			"endString": "39:43.700",
+			"content": "C'est juste que tu téléphones à plusieurs, c'est ça ?"
+		},
+		{
+			"start": 2384,
+			"startString": "39:44.720",
+			"end": 2393,
+			"endString": "39:52.400",
+			"content": "Bah en fait, c'est vraiment comme si c'était une maison ouverte et les gens entr'ouvrent la porte, ils rentrent, ils rentrent, ils rentrent, ils sortent, il n'y a pas de sonnerie, c'est cool, quoi."
+		},
+		{
+			"start": 2393,
+			"startString": "39:53.300",
+			"end": 2395,
+			"endString": "39:54.520",
+			"content": "Allô, oui ça va ?"
+		},
+		{
+			"start": 2394,
+			"startString": "39:54.520",
+			"end": 2399,
+			"endString": "39:58.860",
+			"content": "Tu rejoins des discussions sans qu'il y ait de formulations de politesse."
+		},
+		{
+			"start": 2399,
+			"startString": "39:59.040",
+			"end": 2400,
+			"endString": "39:59.820",
+			"content": "Enfin, c'est cool."
+		},
+		{
+			"start": 2400,
+			"startString": "40:00.020",
+			"end": 2403,
+			"endString": "40:02.660",
+			"content": "Bah tu viens de définir une angoisse pour moi."
+		},
+		{
+			"start": 2403,
+			"startString": "40:03.620",
+			"end": 2405,
+			"endString": "40:04.980",
+			"content": "Ah oui ?"
+		},
+		{
+			"start": 2404,
+			"startString": "40:04.980",
+			"end": 2421,
+			"endString": "40:20.300",
+			"content": "Tu vois Théo Bonnet, il a son HouseParty en permanence ouvert Et du coup, une fois je l'ai surpris, elle est rentrée dans sa pièce et elle a vraiment sursauté Les gens rentrent à l'improviste Et ça c'est chouette !"
+		},
+		{
+			"start": 2420,
+			"startString": "40:20.300",
+			"end": 2422,
+			"endString": "40:21.840",
+			"content": "Et ça c'est la mode chez vous les jeunes ?"
+		},
+		{
+			"start": 2421,
+			"startString": "40:21.840",
+			"end": 2424,
+			"endString": "40:23.260",
+			"content": "Chez les millenials ?"
+		},
+		{
+			"start": 2423,
+			"startString": "40:23.260",
+			"end": 2428,
+			"endString": "40:27.640",
+			"content": "Chez les 39 En revanche, comment vont tes cheveux ?"
+		},
+		{
+			"start": 2427,
+			"startString": "40:27.640",
+			"end": 2452,
+			"endString": "40:51.800",
+			"content": "Parce que j'ai vu que ta compagne t'avait coupé les cheveux Écoute, moi j'aime bien, mais je sais que ça divise A la manière du Brexit, ça divise la France Moi j'aime bien, en même temps c'était le moment ou jamais Mais c'est comme poule, c'est décolorer les cheveux,"
+		},
+		{
+			"start": 2451,
+			"startString": "40:51.940",
+			"end": 2456,
+			"endString": "40:55.660",
+			"content": "tout le monde tente des choses Mais en même temps si tu le fais pas là, tu le fais quand ?"
+		},
+		{
+			"start": 2456,
+			"startString": "40:56.940",
+			"end": 2468,
+			"endString": "41:07.100",
+			"content": "Franchement Clara elle avait jamais coupé de cheveux de sa vie et je trouve le résultat, alors sans être Jean-Louis David, c'est pas si dégueulasse Bah vu qu'il y a plusieurs mois de confinement, elle a le temps de s'améliorer"
+		},
+		{
+			"start": 2471,
+			"startString": "41:11.180",
+			"end": 2486,
+			"endString": "41:25.480",
+			"content": "En juillet ça sera Jean-Louis David Et j'en profite pour faire une pub pour mon TikTok Ah alors bah vas-y, pour les auditeurs Et bah c'est Natoo, et ma bio c'est Boomer sur TikTok Tout bonnement, Natoo, N-A-T-E-O ?"
+		},
+		{
+			"start": 2485,
+			"startString": "41:25.480",
+			"end": 2490,
+			"endString": "41:29.220",
+			"content": "Oui, tout à fait Putain, c'est tes dispo, parce qu'il y a plein de gens qui se font niquer, ils se font prendre leur..."
+		},
+		{
+			"start": 2489,
+			"startString": "41:29.700",
+			"end": 2504,
+			"endString": "41:43.700",
+			"content": "Non mais attends j'ai des relations en fait J'avais oublié que tu pesais un maximum, excuse-moi Nathalie C'est la mafia de l'influence On la connait, on la connait bien Mais là moi je suis démunie, toutes mes opé me passent sous le nez, j'ai plus rien,"
+		},
+		{
+			"start": 2503,
+			"startString": "41:43.860",
+			"end": 2515,
+			"endString": "41:54.240",
+			"content": "c'est terminé L'Eldorado, les Youtube et tout ça, les places en promis, c'est sous le nez, terminé Va falloir que tu te mettes à Twitch après TikTok À quoi ?"
+		},
+		{
+			"start": 2514,
+			"startString": "41:54.240",
+			"end": 2526,
+			"endString": "42:05.520",
+			"content": "À Twitch, la plateforme de Twitch Oh là là, j'ai tellement de choses à apprendre en tant que vieille personne Arrête, t'es super Déjà tu t'y connais bien, t'as refusé..."
+		},
+		{
+			"start": 2525,
+			"startString": "42:05.520",
+			"end": 2542,
+			"endString": "42:21.520",
+			"content": "C'est bien déjà Oui c'est vrai, je me suis dit attends de voir ce que ça va donner Bon bah Nathalie je te fais des gros bisous en tout cas Moi aussi, bisous à tout le monde Et profitez-en pour nourrir vos esprits, lire des livres"
+		},
+		{
+			"start": 2544,
+			"startString": "42:24.700",
+			"end": 2562,
+			"endString": "42:42.000",
+			"content": "La vieille personne Non en revanche, vraiment, en une semaine on a allumé deux soirs la télé ou une fois, je sais plus On travaille beaucoup, on écrit des choses, c'est trop bien Bon je te fais des gros bisous en tout cas Nathalie Moi aussi, des gros bisous Bisous à tout le monde autour de toi Bisous,"
+		},
+		{
+			"start": 2562,
+			"startString": "42:42.040",
+			"end": 2580,
+			"endString": "42:59.420",
+			"content": "ciao, bye Nouvel intervenant avec nous pour ce FloodCast un petit peu spécial C'est quelqu'un que j'ai tenu à inviter Alors c'est quelqu'un d'un petit peu dissident par rapport à ce qui se dit en ce moment Sur les réseaux sociaux, sur BFMTV ou dans la presse actuellement Son nom,"
+		},
+		{
+			"start": 2579,
+			"startString": "42:59.500",
+			"end": 2583,
+			"endString": "43:02.320",
+			"content": "alors c'est un peu surprenant Est-ce que vous me recevez monsieur ?"
+		},
+		{
+			"start": 2582,
+			"startString": "43:02.320",
+			"end": 2597,
+			"endString": "43:16.880",
+			"content": "Bonsoir, oui, bonsoir Bonsoir, alors en fait, pour rassurer les gens, nous ne sommes pas dans la même pièce C'est un système un petit peu technologique qui fait que vous avez un micro de votre côté Nous nous parlons via Skype et on s'enregistre chacun de notre côté Et effectivement je suis dans mon confinement,"
+		},
+		{
+			"start": 2596,
+			"startString": "43:16.980",
+			"end": 2605,
+			"endString": "43:24.480",
+			"content": "bah ouais ouais Bon chacun dans son confinement Alors monsieur, vous pouvez vous présenter, c'est assez surprenant J'avoue que quand j'ai lu le texto j'étais un petit peu genre, qu'est-ce que c'est que cette plaisanterie quelque part ?"
+		},
+		{
+			"start": 2604,
+			"startString": "43:24.480",
+			"end": 2615,
+			"endString": "43:34.160",
+			"content": "Euh, bah je suis bien et bien François Hollande Enfin, pas le vrai hein, même si je me plais un peu à l'imiter souvent Mais bon, j'ai peut-être pas..."
+		},
+		{
+			"start": 2614,
+			"startString": "43:34.160",
+			"end": 2616,
+			"endString": "43:35.120",
+			"content": "Ah vous vous imitez François Hollande ?"
+		},
+		{
+			"start": 2615,
+			"startString": "43:35.120",
+			"end": 2625,
+			"endString": "43:44.440",
+			"content": "Ah non mais non, j'ai pas envie de trop m'exposer Ah écoutez, vous savez en ce moment les gens vivent quand même un peu en confinement C'est un petit peu dur, est-ce que vous pouvez peut-être nous faire une petite imitation de François Hollande ?"
+		},
+		{
+			"start": 2624,
+			"startString": "43:44.440",
+			"end": 2630,
+			"endString": "43:49.020",
+			"content": "Vous êtes quand même son homonyme Euh, bah, allez, fermez les yeux, ok ?"
+		},
+		{
+			"start": 2629,
+			"startString": "43:49.540",
+			"end": 2637,
+			"endString": "43:56.180",
+			"content": "Allez-y Euh, je ne suis pas Mila, je suis François Hollande et..."
+		},
+		{
+			"start": 2636,
+			"startString": "43:56.180",
+			"end": 2651,
+			"endString": "44:10.560",
+			"content": "Oh vous le faites bien, vous le faites bien Ouais non mais voilà Ouais non mais si vous le tenez C'est voilà Donc oui, moi, le parti pris en fait, c'est que là où je tire un peu ma dissidence, c'est que j'encourage tout le monde à acheter un maximum de PQ Pourquoi ?"
+		},
+		{
+			"start": 2650,
+			"startString": "44:10.560",
+			"end": 2666,
+			"endString": "44:25.800",
+			"content": "Voilà, alors c'est ça qui est assez surprenant Exactement Parce qu'en fait, on voit effectivement en ce moment dans les journaux télévisés, les gens faire d'énormes provisions en vue de ce confinement Et on les voit acheter énormément de nourriture et énormément de papier toilette C'est vrai que ça a un petit peu surpris tout le monde d'acheter énormément de PQ Et vous,"
+		},
+		{
+			"start": 2666,
+			"startString": "44:26.120",
+			"end": 2684,
+			"endString": "44:43.660",
+			"content": "qui êtes quand même expert en tout ce qui touche autour du papier toilette, vous dites, c'est important, il faut acheter énormément de PQ en fait Exactement, car tout simplement, j'adore chier, voilà J'ai trouvé dans cette période de confinement assez drastique un énorme plaisir d'en chier Voilà,"
+		},
+		{
+			"start": 2683,
+			"startString": "44:43.820",
+			"end": 2704,
+			"endString": "45:03.240",
+			"content": "au quotidien, c'est vraiment ce qu'appellent les anglo-saxons mon kink Voilà, donc j'encourage tout le monde vraiment à essayer d'explorer cette voie là, à savoir la voie du trou de bague Quand vous dites que vous adorez chier, on est bien d'accord que c'est expulser de la merde par votre trou du cul Exactement,"
+		},
+		{
+			"start": 2703,
+			"startString": "45:03.500",
+			"end": 2721,
+			"endString": "45:20.980",
+			"content": "alors pour ça, c'est avant tout un style de vie que j'ai vraiment réussi à épouser très tôt, dès vendredi en fait Dès le début du confinement en vérité Vraiment, vraiment, c'est quelque chose, donc du coup j'ai visé directement le PQ le plus intense Même si le plus intense et le plus moltené,"
+		},
+		{
+			"start": 2721,
+			"startString": "45:21.100",
+			"end": 2735,
+			"endString": "45:34.360",
+			"content": "il semblerait que c'est Just One Oui la Just One de chez Lotus Je peux vous dire, sans mauvais jeu de mots, que c'est pas Just One Ah, vous l'utilisez beaucoup plus que One Non, mais avec ce que je vous chie mon pote, pardon si je suis un peu trivial avec vous,"
+		},
+		{
+			"start": 2734,
+			"startString": "45:34.480",
+			"end": 2750,
+			"endString": "45:49.260",
+			"content": "je peux dire que c'est juste 19, comme le Covid Allez, parce que il faut garder un peu l'amour dans cette période un peu sombre C'est bien tout ce qu'il nous reste, malheureusement Donc alors oui, vous chiez énormément, est-ce que ça a changé un peu votre quotidien ?"
+		},
+		{
+			"start": 2749,
+			"startString": "45:49.760",
+			"end": 2757,
+			"endString": "45:56.200",
+			"content": "Est-ce qu'il faut un peu changer ses habitudes, peut-être aussi dans l'alimentation, ou est-ce que vous arrivez à chier un peu sur commande ?"
+		},
+		{
+			"start": 2756,
+			"startString": "45:56.200",
+			"end": 2773,
+			"endString": "46:12.700",
+			"content": "Bah après, je suis un peu dans les 3 B en fait, le régime 3 B c'est les 3 burritos Donc on commence dès le matin avec un burrito breakfast, très très gras Bien évidemment, je vis en couple, donc j'essaye de faire travailler un petit peu C'est vrai que c'est une expérience un peu particulière,"
+		},
+		{
+			"start": 2772,
+			"startString": "46:12.720",
+			"end": 2779,
+			"endString": "46:18.820",
+			"content": "je suis très à l'aise avec ça Est-ce que votre compagne elle-même adore chier ou pas tant ?"
+		},
+		{
+			"start": 2778,
+			"startString": "46:18.820",
+			"end": 2806,
+			"endString": "46:45.980",
+			"content": "Alors pas tant, parce que c'est quelque chose de très centré sur moi et sur mon plaisir en fait A savoir que j'ai envie que dans mon confinement, après j'ai un peu envie de dire quelque chose, on me considère un peu comme une personne à risque, fragile Donc mon confinement doit être total Donc c'est pour ça que je demande à ma compagne de m'accompagner dans ses moments de vie,"
+		},
+		{
+			"start": 2806,
+			"startString": "46:46.060",
+			"end": 2827,
+			"endString": "47:06.580",
+			"content": "à savoir chier Est-ce que peut-être vous pouvez nous décrire un petit peu comment ça va, parce qu'on a du mal à voir comment elle peut vous accompagner en fait Alors déjà, il y a l'avant, à savoir c'est de notifier la personne On part de là, et ensuite je lui demande de venir s'asseoir en face de moi,"
+		},
+		{
+			"start": 2826,
+			"startString": "47:06.680",
+			"end": 2841,
+			"endString": "47:20.360",
+			"content": "étant sur le trône bien évidemment Et je lui demande de me tenir la main, exactement, de me tenir les mains effectivement Voilà, parce que c'est quelque chose qui se vit à deux, et aussi je lui demande en fait Ça se discute mais..."
+		},
+		{
+			"start": 2841,
+			"startString": "47:21.220",
+			"end": 2857,
+			"endString": "47:36.300",
+			"content": "Excusez-moi Non pardon je ne voulais pas vous couper Non non pas du tout, je disais juste que ça pouvait se discuter, mais pardon je ne voulais pas vous couper Ok d'accord, et donc on sait très bien que depuis récemment les études ont prouvé qu'il fallait vraiment surélever les jambes Donc je mets mes jambes sur ses genoux et elle regarde,"
+		},
+		{
+			"start": 2856,
+			"startString": "47:36.480",
+			"end": 2868,
+			"endString": "47:47.260",
+			"content": "voilà Elle-même excusez-moi juste pour que je me le visualise, est-ce qu'elle est debout, est-ce qu'elle est en position de la chaise, vous savez c'est une position qui fait un peu travailler les cuisses quand on fait du sport, comment elle se tient ?"
+		},
+		{
+			"start": 2867,
+			"startString": "47:47.260",
+			"end": 2887,
+			"endString": "48:06.940",
+			"content": "Exactement, c'est des squats tout simplement Ah elle fait des squats, alors elle en profite pour faire des squats pendant que vous chiez devant ses yeux en fait, en vérité Exactement, on a l'image, on visualise Pardon j'ai fait une petite imitation Ah vous avez fait le refait Hollande Non non c'est vrai Donc c'est vrai qu'en avant de cela il est toujours préférable d'essayer de valoriser les gastros,"
+		},
+		{
+			"start": 2887,
+			"startString": "48:07.080",
+			"end": 2904,
+			"endString": "48:23.480",
+			"content": "donc clairement lécher les barres de transport en commun, mais bon en ce moment je ne pense pas que ça va très bien Petite question effectivement parce que j'ai un peu suivi de loin les gestes barrières Alors il n'était pas dit qu'il était interdit de lécher les barres de métro,"
+		},
+		{
+			"start": 2903,
+			"startString": "48:23.580",
+			"end": 2917,
+			"endString": "48:36.140",
+			"content": "j'ai l'impression que ce n'est pas conseillé tout de même pour rester en bonne santé Ah non bien évidemment, là je tiens à rester en vie pour chier un maximum parce que je suis très à l'aise avec ça et je tiens vraiment à valoriser ça tout au long de ma vie On ne pourra pas,"
+		},
+		{
+			"start": 2916,
+			"startString": "48:36.240",
+			"end": 2929,
+			"endString": "48:48.520",
+			"content": "excusez-moi j'ai l'impression qu'on ne pourra pas vous enlever ce plaisir, cette liberté On ne va pas s'arrêter de chier en fait On ne va pas s'arrêter de chier et je crois que c'est peut-être la phrase sur laquelle on peut se quitter On ne va pas s'arrêter de chier,"
+		},
+		{
+			"start": 2928,
+			"startString": "48:48.880",
+			"end": 2946,
+			"endString": "49:05.680",
+			"content": "je vous rappelle que vous avez écrit François Hollande un livre qui s'intitule Chier, Chier, Chier, Oh oui j'adore chier Que vous avez aussi fait en chanson qu'on écoutera à la fin de cet épisode Exactement ouais et je travaille sur la suite parce que le confinement,"
+		},
+		{
+			"start": 2947,
+			"startString": "49:07.180",
+			"end": 2964,
+			"endString": "49:23.620",
+			"content": "on rappelle que Shakespeare il a écrit Roméo et Juliette pendant la peste noire Donc là je travaille sur le second tome qui sera Vavie, Prie et Chie Donc je vous rappelle les quelques conseils, des burritos, de l'épargne, peut-être aussi tout ce qui est pruneau,"
+		},
+		{
+			"start": 2963,
+			"startString": "49:23.720",
+			"end": 2977,
+			"endString": "49:36.380",
+			"content": "figue, date Pruneau, figue exactement on le rappelle parce qu'il n'y aura pas de pénurie à ce niveau là Et en pharmacie alors tout en mettant évidemment les masques et les gants, du sulfate de magnésium, enfin de chien à max Ecoutez François Hollande merci beaucoup Avec plaisir,"
+		},
+		{
+			"start": 2977,
+			"startString": "49:37.820",
+			"end": 2988,
+			"endString": "49:47.540",
+			"content": "je vous remercie, allez je déconne Non mais en vérité vous l'auriez pas fait, je vous l'aurais demandé Merci beaucoup François Hollande, merci à vous"
+		},
+		{
+			"start": 3027,
+			"startString": "50:27.630",
+			"end": 3035,
+			"endString": "50:34.590",
+			"content": "Aussi, tiens-moi, tiens-moi les mains fordites, regarde-moi ici"
+		},
+		{
+			"start": 3038,
+			"startString": "50:38.620",
+			"end": 3068,
+			"endString": "51:07.140",
+			"content": "Oh juste, oh non, oh juste, j'adore chier, j'adore chier, je suis François Hollande Nous continuons ce FloodCast avec un appel téléphonique, j'ai décidé de joindre quelqu'un dont j'aime beaucoup, beaucoup, beaucoup le travail Je suis au téléphone Je termine juste votre introduction Je suis au téléphone je te dis,"
+		},
+		{
+			"start": 3067,
+			"startString": "51:07.280",
+			"end": 3072,
+			"endString": "51:11.720",
+			"content": "je suis avec Florent, l'émission Vous m'entendez Patrice ?"
+		},
+		{
+			"start": 3071,
+			"startString": "51:11.720",
+			"end": 3085,
+			"endString": "51:24.900",
+			"content": "Oui, oui allo Je faisais votre petite présentation, Patrice Bécon retraité, Patrice j'ai décidé de vous appeler parce que vous êtes la preuve vivante Qu'il est possible de s'informer sur tout ce qui se passe actuellement dans cette pandémie mondiale Sans avoir besoin des médias,"
+		},
+		{
+			"start": 3085,
+			"startString": "51:25.000",
+			"end": 3093,
+			"endString": "51:32.820",
+			"content": "sans avoir besoin de la télévision, des journaux De tous ces merdias comme on pourrait les nommer, juste avec les réseaux sociaux n'est-ce pas Patrice ?"
+		},
+		{
+			"start": 3092,
+			"startString": "51:32.820",
+			"end": 3109,
+			"endString": "51:48.380",
+			"content": "Effectivement, il suffit d'une tablette et d'une connexion internet Tout simplement C'est aussi simple que ça Moi je suis sur la tablette, je suis très bien renseigné En direct du lit Patrice, qu'est-ce que vous avez spoté sur les réseaux sociaux récemment concernant ce virus ?"
+		},
+		{
+			"start": 3108,
+			"startString": "51:48.380",
+			"end": 3127,
+			"endString": "52:06.160",
+			"content": "J'ai l'impression que vous avez l'impression que, enfin de ce qu'on s'est dit hors antenne, qu'on nous cache un peu des choses Ah bah c'est pas qu'on nous cache des choses C'est qu'il y a des gens, heureusement, qui viennent essayer un peu de révéler ces choses là Mais c'est qu'on nous cache un iceberg Il y a un monde sous nos pieds là C'est incroyable Moi,"
+		},
+		{
+			"start": 3126,
+			"startString": "52:06.620",
+			"end": 3145,
+			"endString": "52:24.980",
+			"content": "bon, avec mes renseignements, j'ai des amis qui m'envoient des choses sur les réseaux Je peux vous dire que c'est pas joli C'est pas tout ce qu'on croit à la télé Il faut arrêter, il faut arrêter Il faut arrêter, comme vous le dites Vous avez des amis peut-être au sein du gouvernement,"
+		},
+		{
+			"start": 3145,
+			"startString": "52:25.260",
+			"end": 3148,
+			"endString": "52:27.480",
+			"content": "dans les hôpitaux, comment ça se fait ?"
+		},
+		{
+			"start": 3149,
+			"startString": "52:29.060",
+			"end": 3169,
+			"endString": "52:48.980",
+			"content": "Non, mais je lis des choses C'est une mascarade Certains évoquaient, on ne sait pas pourquoi, ces gens, on les a baillonnés On évoquait une grippette, c'est clairement le cas Moi, écoutez, le confinement, j'en ai rien à foutre Je sors la Laguna, j'ai aucun endroit où aller,"
+		},
+		{
+			"start": 3169,
+			"startString": "52:49.060",
+			"end": 3187,
+			"endString": "53:06.800",
+			"content": "mais juste je roule Jusqu'à Clarinsac, je fais le play, je prends la Laguna, je roule Ils vont pas m'emmerder Peut-être que vous roulez pour une activité sportive, c'est peut-être l'équivalent d'une activité sportive Non, juste je roule Je mets Radio Camargue,"
+		},
+		{
+			"start": 3187,
+			"startString": "53:07.200",
+			"end": 3202,
+			"endString": "53:21.080",
+			"content": "je mets la musique, j'ouvre les fenêtres, je roule Alors du coup, j'ai vu passer quelques informations et j'aimerais les passer au crible de Patrice Par exemple, on a vu que Disney Plus allait repousser sa sortie pour des histoires de bandes passantes d'internet Vous en pensez quoi,"
+		},
+		{
+			"start": 3201,
+			"startString": "53:21.140",
+			"end": 3203,
+			"endString": "53:22.420",
+			"content": "vous, Patrice ?"
+		},
+		{
+			"start": 3203,
+			"startString": "53:23.840",
+			"end": 3207,
+			"endString": "53:26.420",
+			"content": "Alors, la bande passante..."
+		},
+		{
+			"start": 3208,
+			"startString": "53:28.500",
+			"end": 3211,
+			"endString": "53:30.500",
+			"content": "Ouais, mais c'est..."
+		},
+		{
+			"start": 3210,
+			"startString": "53:30.960",
+			"end": 3223,
+			"endString": "53:42.780",
+			"content": "Pour qu'on puisse regarder, c'est comme les Disney Oui, c'est ça, c'est Disney Plus, c'est une plateforme de streaming C'est bien, ça va plaire aux garments, ça va plaire aux garments, le Disney Mais justement, l'idée, c'est que ce soit repoussé Parce qu'apparemment,"
+		},
+		{
+			"start": 3222,
+			"startString": "53:42.920",
+			"end": 3230,
+			"endString": "53:49.540",
+			"content": "la bande passante, on utiliserait trop d'internet Est-ce que vous y croyez, que la France utilise trop d'internet actuellement, à l'heure du confinement ?"
+		},
+		{
+			"start": 3230,
+			"startString": "53:50.480",
+			"end": 3232,
+			"endString": "53:51.520",
+			"content": "Eh bien, heureusement !"
+		},
+		{
+			"start": 3232,
+			"startString": "53:52.620",
+			"end": 3234,
+			"endString": "53:53.340",
+			"content": "Non ?"
+		},
+		{
+			"start": 3233,
+			"startString": "53:53.340",
+			"end": 3236,
+			"endString": "53:55.100",
+			"content": "Heureusement qu'on utilise internet, vous voulez faire quoi ?"
+		},
+		{
+			"start": 3235,
+			"startString": "53:55.100",
+			"end": 3239,
+			"endString": "53:58.180",
+			"content": "On nous prive de... On nous met... On nous fenestre !"
+		},
+		{
+			"start": 3238,
+			"startString": "53:58.180",
+			"end": 3247,
+			"endString": "54:06.760",
+			"content": "On nous met en prison, dans nos prisons qui sont nos chaumiers Hein, alors c'est pas que je suis pas heureux à la maison J'ai des beaux enfants, j'ai des belles femmes Vous voulez que je fasse quoi de mes journées ?"
+		},
+		{
+			"start": 3246,
+			"startString": "54:06.760",
+			"end": 3248,
+			"endString": "54:07.880",
+			"content": "Bah, vous occupez de..."
+		},
+		{
+			"start": 3247,
+			"startString": "54:07.880",
+			"end": 3252,
+			"endString": "54:11.520",
+			"content": "À part internet Vous occupez de votre famille Pardon ?"
+		},
+		{
+			"start": 3251,
+			"startString": "54:11.520",
+			"end": 3258,
+			"endString": "54:17.660",
+			"content": "Je m'en occupe très bien, écoutez, bon Véronique en ce moment, elle a une petite troue saisonnière Je m'en occupe très bien Quoi ?"
+		},
+		{
+			"start": 3257,
+			"startString": "54:17.660",
+			"end": 3260,
+			"endString": "54:19.520",
+			"content": "Je suis là pour elle, je..."
+		},
+		{
+			"start": 3260,
+			"startString": "54:20.200",
+			"end": 3262,
+			"endString": "54:21.080",
+			"content": "Qu'est-ce que c'est à dire ?"
+		},
+		{
+			"start": 3261,
+			"startString": "54:21.460",
+			"end": 3274,
+			"endString": "54:33.680",
+			"content": "Attention, il faut surveiller quand même, Patrice Non, mais écoutez, c'est une connerie Elle tousse, elle a un peu du mal à respirer Elle a de la fièvre, mais écoutez, c'est saisonnier C'est saisonnier, vous savez C'est saisonnier, oui, d'accord, très bien C'est un petit rhume,"
+		},
+		{
+			"start": 3273,
+			"startString": "54:33.780",
+			"end": 3281,
+			"endString": "54:40.740",
+			"content": "c'est quelque chose comme ça, écoutez, bon Une allergie, ni plus ni moins qu'une allergie, bien sûr Mais c'est sur Facebook que vous trouvez toutes vos informations ?"
+		},
+		{
+			"start": 3281,
+			"startString": "54:41.580",
+			"end": 3294,
+			"endString": "54:53.140",
+			"content": "Ah oui, effectivement Facebook, j'ai plein d'amis, on s'avoue, plein de choses, bien sûr Enfin, exactement sur Messenger, la petite application Oui, j'en ai entendu parler Voilà, vous connaissez, hein ?"
+		},
+		{
+			"start": 3293,
+			"startString": "54:53.140",
+			"end": 3296,
+			"endString": "54:55.220",
+			"content": "Oui, j'en ai entendu parler Vous l'avez ?"
+		},
+		{
+			"start": 3295,
+			"startString": "54:55.220",
+			"end": 3299,
+			"endString": "54:58.740",
+			"content": "Je possède moi-même Messenger, effectivement Vous avez Gmail ?"
+		},
+		{
+			"start": 3300,
+			"startString": "55:00.400",
+			"end": 3313,
+			"endString": "55:12.300",
+			"content": "Oui, oui Parce que j'ai ça aussi sur la tablette, j'ai Gmail C'est vrai que c'est... Moi, j'ai Gmail également J'ai Gmail et c'est vrai que ça me sert pas mal Ok Oui, pour tout ce qui est mail, en fait, c'est assez utile, effectivement Avast ?"
+		},
+		{
+			"start": 3312,
+			"startString": "55:12.300",
+			"end": 3316,
+			"endString": "55:15.060",
+			"content": "Ça, j'ai pas Avast ?"
+		},
+		{
+			"start": 3315,
+			"startString": "55:15.060",
+			"end": 3320,
+			"endString": "55:19.560",
+			"content": "J'ai pas Avast Le logiciel, c'est un antivirus Mais vous êtes fan..."
+		},
+		{
+			"start": 3319,
+			"startString": "55:19.560",
+			"end": 3323,
+			"endString": "55:22.320",
+			"content": "On en aurait bien besoin Vous êtes fan de logiciel, Patrice ?"
+		},
+		{
+			"start": 3323,
+			"startString": "55:23.320",
+			"end": 3337,
+			"endString": "55:36.160",
+			"content": "Ah oui, bah écoutez, j'ai... Alors regardez, alors j'ai Avast Calendrier Oui Réveil, ça c'est pas mal le matin Oui, pour le réveil, effectivement C'est efficace Oui, assez, oui Qu'est-ce que j'ai sur la tablette ?"
+		},
+		{
+			"start": 3336,
+			"startString": "55:36.160",
+			"end": 3356,
+			"endString": "55:55.800",
+			"content": "Attendez Hop J'ai Facebook Écoutez, Patrice, on sait où vous appelez et on vous appellera Merci beaucoup On rappelle que vous êtes aussi Merci beaucoup Flo On rappelle aussi que vous êtes le committee manager du compte Twitter Conflit.fr Et on vous embrasse très très fort,"
+		},
+		{
+			"start": 3355,
+			"startString": "55:55.880",
+			"end": 3375,
+			"endString": "56:14.160",
+			"content": "merci Patrice On continue cette émission avec un nouvel invité Avec les joies de Skype et la technologie actuelle Qui peut s'enregistrer de son côté à des milliers, peut-être même des millions de kilomètres d'ici En ce moment, on a envie un peu de se rassembler,"
+		},
+		{
+			"start": 3374,
+			"startString": "56:14.280",
+			"end": 3392,
+			"endString": "56:31.840",
+			"content": "on a envie d'oublier, j'ai envie de dire, les rages, les colères, quand on en veut aux gens, tout ça J'ai envie de mettre ça derrière nous Et du coup, c'est dans cet esprit d'ouverture, cette envie d'aller vers l'autre, de tendre la main J'ai décidé d'appeler Dan Gagnon du podcast Comedy News Weekly,"
+		},
+		{
+			"start": 3392,
+			"startString": "56:32.180",
+			"end": 3410,
+			"endString": "56:49.660",
+			"content": "entre autres Vous devez sûrement le connaître, enfin bon, peut-être vous avez entendu en tout cas son émission Comedy News Weekly On échange un peu des mauvais mots depuis quelques temps, depuis 5 bonnes années Et je me dis, là peut-être c'est le moment de s'unir et de prouver qu'il ne faut pas être que dans le drame,"
+		},
+		{
+			"start": 3409,
+			"startString": "56:49.940",
+			"end": 3416,
+			"endString": "56:55.040",
+			"content": "que dans le dark et tendre la main Dan, est-ce que tu m'entends ?"
+		},
+		{
+			"start": 3415,
+			"startString": "56:55.040",
+			"end": 3422,
+			"endString": "57:01.100",
+			"content": "Oui, oui, tu m'entends Florent Je t'entends très bien, je t'entends très bien Bonjour, est-ce que ça va déjà ?"
+		},
+		{
+			"start": 3421,
+			"startString": "57:01.100",
+			"end": 3428,
+			"endString": "57:07.240",
+			"content": "Oui, oui, oui, ça va, je suis au Canada, je suis à l'abri Ça va et vous, ça va à Paris ?"
+		},
+		{
+			"start": 3427,
+			"startString": "57:07.640",
+			"end": 3446,
+			"endString": "57:25.300",
+			"content": "Ça va très bien C 'est quand même la zone Ça va, ça va, je te remercie de demander, tu vois, déjà c'est beau je trouve ce qu'on est en train de faire Mais écoute, ça va plutôt bien en tout cas Je crois que c'est au moment où la contagion explose que j'ai vraiment envie de te tendre la main pour enterrer cet âge de gueule Bien sûr Vraiment,"
+		},
+		{
+			"start": 3445,
+			"startString": "57:25.520",
+			"end": 3457,
+			"endString": "57:36.160",
+			"content": "je tousse dans mon coude, attention, c'est une vraie main propre que je te tends C'est la question que j'allais te poser, je croyais que tu, enfin non, on parle d'une main bien propre Non, non, non, non, non, non, non, non, non, non, je veux dire, oui,"
+		},
+		{
+			"start": 3456,
+			"startString": "57:36.240",
+			"end": 3471,
+			"endString": "57:50.480",
+			"content": "bon, on a eu des différents, mais c'est du passé, ça donne rien Genre moi par exemple, j'accepte ton invitation, pas uniquement parce que j'ai un nouveau podcast à proposer que les gens peuvent retrouver sur patreon.com slash dangagnon podcast Ou sur ma page Facebook,"
+		},
+		{
+			"start": 3470,
+			"startString": "57:50.820",
+			"end": 3483,
+			"endString": "58:02.440",
+			"content": "je suis pas le genre à venir faire de la promotion sur genre facebook.com slash dangagnon, ça serait, c'est pas l'esprit C'est pas l'esprit Je veux dire, en ce moment, on n'est pas dans cette chose-là, on est vraiment dans le fait de se rapprocher, ironiquement,"
+		},
+		{
+			"start": 3483,
+			"startString": "58:03.060",
+			"end": 3496,
+			"endString": "58:15.860",
+			"content": "j'ai envie de dire, se rapprocher l'âme Et on laisse faire le marketing podcast tous les jours où on discute d'un peu n'importe quoi, vous pouvez réagir aussi sur twitter, at dangagnon Voilà, donc ton nom a été répété trois fois, dangagnon, je me suis dit,"
+		},
+		{
+			"start": 3495,
+			"startString": "58:15.900",
+			"end": 3512,
+			"endString": "58:31.400",
+			"content": "est-ce qu'on pourrait pas s'échanger peut-être cinq compliments chacun, cinq compliments pour se dire qu'au final, on va de l'avant Excellente idée, déjà j'accepte les excuses, merci beaucoup, un de moi ça me fait plaisir Je les ai pas dit, pardon pour les mots des fois,"
+		},
+		{
+			"start": 3512,
+			"startString": "58:32.300",
+			"end": 3529,
+			"endString": "58:48.480",
+			"content": "après voilà, des fois il y a aussi, je pense qu'on a tous les deux nos torts, je pense que des fois il y a des trucs qui sont partis de mon côté, pas mal d'autres fois c'était peut-être plus de ton côté effectivement Mais après bon, c'est des choses, j'ai pas envie de pointer du doigt un fautif en ce moment en tout cas Non,"
+		},
+		{
+			"start": 3528,
+			"startString": "58:48.620",
+			"end": 3545,
+			"endString": "59:04.560",
+			"content": "non, non, surtout je veux dire bon, il y a des mots des fois qui étaient échangés, qui étaient durs et avec le recul des fois c'est difficile de dire genre, est-ce que cette fois-là j'avais raison, est-ce que c'était lucide, est-ce que c'était un service que j'essayais de rendre et par exemple l'autre personne était trop susceptible pour l'accepter,"
+		},
+		{
+			"start": 3544,
+			"startString": "59:04.660",
+			"end": 3561,
+			"endString": "59:20.320",
+			"content": "c'est pas le moment de tomber là-dedans du tout Et je suis d'accord avec toi, je pense que tu peux, si toi tu me fais 5 compliments c'est super, moi je fais pareil, je t'en fais 3 et c'est vraiment une belle façon je crois d'enterrer la hache de guerre Du coup je pense,"
+		},
+		{
+			"start": 3560,
+			"startString": "59:20.580",
+			"end": 3573,
+			"endString": "59:32.420",
+			"content": "encore une fois dans cette envie d'enterrer la hache de guerre, peut-être faisons autant l'un que l'autre, donc peut-être 3-3, 3-3 c'est déjà bien peut-être déjà Je voulais quand même te remercier pour tout ce que tu avais fait pour nous, les gens nous disent souvent,"
+		},
+		{
+			"start": 3572,
+			"startString": "59:32.560",
+			"end": 3577,
+			"endString": "59:36.380",
+			"content": "genre à la base j'aimais pas trop Comedy News Weekly mais maintenant je connais le FloodCast, wow!"
+		},
+		{
+			"start": 3577,
+			"startString": "59:37.980",
+			"end": 3593,
+			"endString": "59:52.800",
+			"content": "Et t'avais pas à faire ça, tu vois t'étais pas obligé et t'as quand même, t'es celui qui fait, t'es l'ami moche qui fait bien paraître les autres en soirée et on oublie souvent de le remercier celui-là Et aujourd'hui je me rends compte que j'étais un peu loin avec toi et vraiment,"
+		},
+		{
+			"start": 3593,
+			"startString": "59:53.280",
+			"end": 3607,
+			"endString": "01:00:06.480",
+			"content": "je te le dis, merci, vraiment Ben j'ai presque envie de te dire de rien après la comparaison avec l'ami moche, je l'ai peut-être pas, voilà, mais Oui mais non, mais c'est Non mais y'a pas de, après c'est peut-être de la maladresse, tu parles pas très bien français,"
+		},
+		{
+			"start": 3606,
+			"startString": "01:00:06.660",
+			"end": 3632,
+			"endString": "01:00:31.400",
+			"content": "y'a pas de problème, on peut chercher un peu les mots, mais comme on dit souvent l'ami moche du collège c'est celui qui devient beau et puis le mec qui était beau effectivement devient de la merde, enfin pas de la merde Oui, non mais Non non, tu m'as compris Non mais c'est juste des chemins différents tu vois Différents Oui voilà Un chemin avec de notre côté des palmiers qui mènent à Hollywood et vous,"
+		},
+		{
+			"start": 3631,
+			"startString": "01:00:31.520",
+			"end": 3647,
+			"endString": "01:00:46.660",
+			"content": "ben voilà un autre, un autre chemin, voilà peut-être Ben écoute je me sens vraiment prêt à te faire des compliments Alors vas-y ben je t'écoute, je t'écoute, je suis tout oui Ouais parce que je sais qu'il y en a qui ont tendance à mal prendre les choses tu vois et là en live vraiment ça évite tout ça,"
+		},
+		{
+			"start": 3646,
+			"startString": "01:00:46.800",
+			"end": 3661,
+			"endString": "01:01:00.100",
+			"content": "ça fait vraiment super plaisir de voir Parce que moi j'avais peur que derrière tes mots il y ait comme une intention machiavélique et clairement en t'entendant on fait oui il n'y a pas de projet derrière cette prise de parole, on sent que c'est spontané,"
+		},
+		{
+			"start": 3660,
+			"startString": "01:01:00.520",
+			"end": 3678,
+			"endString": "01:01:17.320",
+			"content": "je veux dire il n'y a pas de malice chez un chien par exemple tu vois il est plus dans l'instinct, dans le réflexe, dans la survie, dans l'absence de réflexion et c'est ce qui le rend sympathique et je retrouve ça chez toi C'est vrai Et je me rends compte que je t'ai beaucoup trop jugé donc je suis désolé Pour rester dans tes métaphores animales,"
+		},
+		{
+			"start": 3677,
+			"startString": "01:01:17.500",
+			"end": 3693,
+			"endString": "01:01:32.700",
+			"content": "moi tu me fais un peu penser à un canard C'était le premier compliment Non c'était juste une image comme ça, je trouvais que ça marchait plutôt pas mal mais vas-y je te laisse commencer, voilà honneur à la personne que j'invite Parfait, donc premier compliment,"
+		},
+		{
+			"start": 3692,
+			"startString": "01:01:32.980",
+			"end": 3713,
+			"endString": "01:01:52.920",
+			"content": "moi je veux vraiment et j'y tiens saluer ton, j'irais, ta capacité à faire de l'auto-dérision parce qu'au-delà de tout ce que tu racontes et de tout ce que tu as fait, on sent dans tes discours que tu trouves que tu es une grosse merde Et tu n'hésites vraiment pas à mettre ce côté là genre grosse merde,"
+		},
+		{
+			"start": 3713,
+			"startString": "01:01:53.020",
+			"end": 3748,
+			"endString": "01:02:27.020",
+			"content": "grosse merde, grosse merde, grosse merde, toujours en avant, genre nul, nul, nul, nul et il y en a qui ferait comme wow je vais être obligé de faire une pause antidépresseur et tout ça et toi tu as vraiment amené l'auto-dérision je dirais au point de t'humilier à chaque prise de parole Et je n'avais pas vu autant de courage dans une prise de parole je dirais peut-être depuis Andy Kaufman qui pour lui c'était un jeu c'est peut-être la différence mais je salue vraiment ça chez toi Waouh,"
+		},
+		{
+			"start": 3747,
+			"startString": "01:02:27.140",
+			"end": 3756,
+			"endString": "01:02:35.600",
+			"content": "c'est trop gentil mec, bah merci, t'as dit quand même 3 fois grosse merde et 4 fois nul, mais je vois l'envie derrière, je vois l'envie derrière, merci beaucoup."
+		},
+		{
+			"start": 3756,
+			"startString": "01:02:36.300",
+			"end": 3774,
+			"endString": "01:02:53.240",
+			"content": "Bah écoute, à moi je trouve, parce que les gens le savent sûrement pas, parce que je pense que là à l'heure actuelle ils ont déjà google-lisé ton nom pour vérifier si tu existes vraiment, donc oui, tu es comédien, tu es auteur, tu es humoriste, tu es podcaster,"
+		},
+		{
+			"start": 3773,
+			"startString": "01:02:53.560",
+			"end": 3789,
+			"endString": "01:03:08.020",
+			"content": "tu as fait effectivement oui de la fiction, des trucs un petit peu plus dans le réel, tu as fait je sais pas combien de podcasts, et ce que je trouve incroyable c'est effectivement la multiplicité des casquettes, c'est-à-dire que tu fais énormément de choses,"
+		},
+		{
+			"start": 3788,
+			"startString": "01:03:08.460",
+			"end": 3804,
+			"endString": "01:03:23.840",
+			"content": "et ce qui est fou c'est qu'il n'y a pas vraiment de succès dans chacune, mais malgré tout tu ne t'arrêtes pas, tu ne t'arrêtes pas et tu offres, offres, offres, offres aux gens, et en fait moi ça m'a aidé à avancer, c'est-à-dire que ce mec là il teste plein de choses,"
+		},
+		{
+			"start": 3803,
+			"startString": "01:03:23.960",
+			"end": 3812,
+			"endString": "01:03:31.960",
+			"content": "plein de métiers, et j'ai envie de faire comme lui, j'ai envie de faire comme lui parce qu'il a l'air heureux de le faire et j'ai envie d'être heureux comme lui, voilà."
+		},
+		{
+			"start": 3814,
+			"startString": "01:03:34.500",
+			"end": 3816,
+			"endString": "01:03:35.460",
+			"content": "Ok, merci."
+		},
+		{
+			"start": 3815,
+			"startString": "01:03:35.940",
+			"end": 3820,
+			"endString": "01:03:39.380",
+			"content": "De rien, de rien, de rien, c'est vraiment le cœur qui parle, c'est comme ça on donne."
+		},
+		{
+			"start": 3820,
+			"startString": "01:03:40.000",
+			"end": 3825,
+			"endString": "01:03:44.720",
+			"content": "Je te dirais que je te trouve aussi bon dans les compliments que dans les podcasts."
+		},
+		{
+			"start": 3824,
+			"startString": "01:03:44.860",
+			"end": 3826,
+			"endString": "01:03:45.540",
+			"content": "Ah merci beaucoup."
+		},
+		{
+			"start": 3825,
+			"startString": "01:03:45.780",
+			"end": 3837,
+			"endString": "01:03:56.860",
+			"content": "Vraiment, je retrouve exactement la même qualité, pas moins bien, vraiment pas mieux, juste constance."
+		},
+		{
+			"start": 3836,
+			"startString": "01:03:56.860",
+			"end": 3848,
+			"endString": "01:04:07.720",
+			"content": "Et la plupart des gens en profitent pour continuer de s'améliorer, continuer de s'améliorer et il y a un temps où on ne les retrouve plus, c'est comme les musiciens, c'était mieux avant, ils sont un peu perdus."
+		},
+		{
+			"start": 3848,
+			"startString": "01:04:08.180",
+			"end": 3859,
+			"endString": "01:04:18.720",
+			"content": "Toi, tu n'es pas perdu parce que tu es resté exactement au même endroit, tu n'es pas tombé dans le piège d'évoluer, d'apprendre, de changer en quelque sorte."
+		},
+		{
+			"start": 3858,
+			"startString": "01:04:18.720",
+			"end": 3872,
+			"endString": "01:04:31.840",
+			"content": "Donc, si les gens aimaient la première chose que tu as fait il y a 10 ans, ils vont aimer ce que tu fais aujourd'hui parce qu'au final, c'est quoi, c'est les deux, trois mêmes blagues plus ou moins et d'avoir réussi à rentabiliser ça."
+		},
+		{
+			"start": 3872,
+			"startString": "01:04:32.300",
+			"end": 3882,
+			"endString": "01:04:41.920",
+			"content": "Tu sais, dans un contexte où on parle beaucoup d'écologie, de rentabilité, de ne pas jeter nos ressources, toi, les trois blagues que tu as traduites de Kevin Smith et tu les as très bien faites d'ailleurs."
+		},
+		{
+			"start": 3881,
+			"startString": "01:04:41.920",
+			"end": 3883,
+			"endString": "01:04:43.000",
+			"content": "Ah merci beaucoup mec, c'est gentil."
+		},
+		{
+			"start": 3883,
+			"startString": "01:04:43.320",
+			"end": 3888,
+			"endString": "01:04:47.300",
+			"content": "J'ai l'impression qu'on peut aller à deux compliments chacun, on n'est peut-être pas obligé d'en faire trois."
+		},
+		{
+			"start": 3887,
+			"startString": "01:04:47.300",
+			"end": 3889,
+			"endString": "01:04:48.900",
+			"content": "Ce serait peut-être de la gourmandise."
+		},
+		{
+			"start": 3889,
+			"startString": "01:04:49.500",
+			"end": 3893,
+			"endString": "01:04:52.100",
+			"content": "Je trouve que les chemises à carreaux te vont vraiment bien."
+		},
+		{
+			"start": 3893,
+			"startString": "01:04:53.100",
+			"end": 3894,
+			"endString": "01:04:53.400",
+			"content": "Ah merci."
+		},
+		{
+			"start": 3893,
+			"startString": "01:04:53.460",
+			"end": 3903,
+			"endString": "01:05:02.340",
+			"content": "Et il y a peu de gens en fait, et même vu que tu es canadien, on pourrait même se dire c'est peut-être un peu cliché, peut-être qu'il est, enfin tu vois, c'est comme si je mettais un bérec, je mettais une baguette sous mon aisselle."
+		},
+		{
+			"start": 3902,
+			"startString": "01:05:02.780",
+			"end": 3906,
+			"endString": "01:05:05.720",
+			"content": "Mais de ton côté, je trouve que ça te va très, très, très bien."
+		},
+		{
+			"start": 3906,
+			"startString": "01:05:06.740",
+			"end": 3913,
+			"endString": "01:05:12.560",
+			"content": "Et franchement, bravo, ça va à beaucoup de gens, mais toi en particulier, ça te va vraiment très, très, très bien."
+		},
+		{
+			"start": 3913,
+			"startString": "01:05:13.820",
+			"end": 3916,
+			"endString": "01:05:15.440",
+			"content": "C'est gentil."
+		},
+		{
+			"start": 3915,
+			"startString": "01:05:15.540",
+			"end": 3919,
+			"endString": "01:05:18.700",
+			"content": "Il y a peut-être de l'idée pour le béret et la baguette."
+		},
+		{
+			"start": 3919,
+			"startString": "01:05:19.080",
+			"end": 3925,
+			"endString": "01:05:24.100",
+			"content": "À partir du moment où tu arrives à cacher les cheveux, il n'y a pas de solution que j'éliminerais d'office."
+		},
+		{
+			"start": 3924,
+			"startString": "01:05:24.320",
+			"end": 3928,
+			"endString": "01:05:27.060",
+			"content": "Vraiment juste comme ça, ça te redonnerait un petit touché."
+		},
+		{
+			"start": 3927,
+			"startString": "01:05:27.600",
+			"end": 3931,
+			"endString": "01:05:30.360",
+			"content": "Certains diront même que ça pourrait te donner un peu de personnalité."
+		},
+		{
+			"start": 3930,
+			"startString": "01:05:30.680",
+			"end": 3939,
+			"endString": "01:05:38.280",
+			"content": "On pourrait même croire que tu es un trop du cul, mais on sait que c'est juste ta volonté que les gens se rassemblent."
+		},
+		{
+			"start": 3938,
+			"startString": "01:05:38.280",
+			"end": 3947,
+			"endString": "01:05:47.000",
+			"content": "Et ça, wow, sacrifier toute forme d'éthique pour juste s'écraser comme tu le fais, c'est magnifique."
+		},
+		{
+			"start": 3947,
+			"startString": "01:05:47.700",
+			"end": 3954,
+			"endString": "01:05:53.280",
+			"content": "J'essaie de construire la maison d'un compliment, mais pour ça, il faut toujours se salir un peu, comme dans tous les grands travaux."
+		},
+		{
+			"start": 3953,
+			"startString": "01:05:53.640",
+			"end": 3958,
+			"endString": "01:05:57.520",
+			"content": "Oui, mais bon, tu as dit trop du cul quand même, mais bon, ce n'est pas grave."
+		},
+		{
+			"start": 3957,
+			"startString": "01:05:57.720",
+			"end": 3958,
+			"endString": "01:05:57.820",
+			"content": "Oui."
+		},
+		{
+			"start": 3958,
+			"startString": "01:05:58.120",
+			"end": 3960,
+			"endString": "01:05:59.660",
+			"content": "Non, non, t'inquiète, t'inquiète, t'inquiète."
+		},
+		{
+			"start": 3959,
+			"startString": "01:05:59.980",
+			"end": 3962,
+			"endString": "01:06:01.080",
+			"content": "C'est gentil."
+		},
+		{
+			"start": 3961,
+			"startString": "01:06:01.200",
+			"end": 3963,
+			"endString": "01:06:02.500",
+			"content": "Je suis content que tu le prennes pas mal."
+		},
+		{
+			"start": 3963,
+			"startString": "01:06:03.380",
+			"end": 3967,
+			"endString": "01:06:06.960",
+			"content": "Parce que c'est vraiment, c'est juste, c'est une façon, c'est coloré, c'est une façon de parler."
+		},
+		{
+			"start": 3967,
+			"startString": "01:06:07.200",
+			"end": 3972,
+			"endString": "01:06:11.080",
+			"content": "J'ai dit trop du cul comme j'aurais pu le dire, genre, connard, tu vois."
+		},
+		{
+			"start": 3971,
+			"startString": "01:06:11.300",
+			"end": 3973,
+			"endString": "01:06:12.020",
+			"content": "Ouais, ouais, ouais."
+		},
+		{
+			"start": 3972,
+			"startString": "01:06:12.100",
+			"end": 3975,
+			"endString": "01:06:14.280",
+			"content": "Non, mais après, bon, voilà, c'est les mots ont un poids."
+		},
+		{
+			"start": 3974,
+			"startString": "01:06:14.560",
+			"end": 3976,
+			"endString": "01:06:15.440",
+			"content": "Bon, t'es censé être auteur."
+		},
+		{
+			"start": 3975,
+			"startString": "01:06:15.600",
+			"end": 3982,
+			"endString": "01:06:21.400",
+			"content": "Après, c'est vrai que si t'étais un auteur avec du succès, peut-être que tu saurais que les mots ont un poids et que parfois, ça peut être un petit peu assassin, mais..."
+		},
+		{
+			"start": 3981,
+			"startString": "01:06:21.400",
+			"end": 3984,
+			"endString": "01:06:23.760",
+			"content": "À l'un de poids, ton succès commence à être visible, non ?"
+		},
+		{
+			"start": 3983,
+			"startString": "01:06:23.760",
+			"end": 3986,
+			"endString": "01:06:25.180",
+			"content": "Comment ?"
+		},
+		{
+			"start": 3986,
+			"startString": "01:06:26.320",
+			"end": 3988,
+			"endString": "01:06:27.020",
+			"content": "Non, non, rien à voir."
+		},
+		{
+			"start": 3987,
+			"startString": "01:06:27.260",
+			"end": 3989,
+			"endString": "01:06:28.280",
+			"content": "C'était juste..."
+		},
+		{
+			"start": 3988,
+			"startString": "01:06:28.280",
+			"end": 3989,
+			"endString": "01:06:28.520",
+			"content": "Ouais."
+		},
+		{
+			"start": 3988,
+			"startString": "01:06:28.840",
+			"end": 3990,
+			"endString": "01:06:29.960",
+			"content": "Merci, Dan, en tout cas."
+		},
+		{
+			"start": 3990,
+			"startString": "01:06:30.380",
+			"end": 3992,
+			"endString": "01:06:31.160",
+			"content": "Alors, bon, on peut te retrouver."
+		},
+		{
+			"start": 3991,
+			"startString": "01:06:31.280",
+			"end": 3994,
+			"endString": "01:06:33.620",
+			"content": "T'as fait ta promo au début, on va peut-être pas le répéter, on s'en bat peut-être un peu."
+		},
+		{
+			"start": 3993,
+			"startString": "01:06:33.620",
+			"end": 4001,
+			"endString": "01:06:40.160",
+			"content": "En deux mots, allez, peut-être, vas-y, parce qu'encore une fois, là, on a envie d'enterrer la hache de guerre, donc ce serait dommage de pas le faire."
+		},
+		{
+			"start": 4000,
+			"startString": "01:06:40.380",
+			"end": 4001,
+			"endString": "01:06:40.800",
+			"content": "Oui, ben oui."
+		},
+		{
+			"start": 4001,
+			"startString": "01:06:41.120",
+			"end": 4003,
+			"endString": "01:06:42.220",
+			"content": "Quel beau geste de ta part."
+		},
+		{
+			"start": 4002,
+			"startString": "01:06:42.320",
+			"end": 4009,
+			"endString": "01:06:48.620",
+			"content": "Et si un jour, vraiment, on n'a pas d'idée du tout dans le podcast, on t'invitera aussi, mais vraiment, tu sais..."
+		},
+		{
+			"start": 4008,
+			"startString": "01:06:48.620",
+			"end": 4011,
+			"endString": "01:06:50.020",
+			"content": "Ouais, bon, vous sentez pas obligé."
+		},
+		{
+			"start": 4010,
+			"startString": "01:06:50.520",
+			"end": 4013,
+			"endString": "01:06:52.140",
+			"content": "Ça me ferait chier de me faire de la pub, quand même."
+		},
+		{
+			"start": 4012,
+			"startString": "01:06:52.400",
+			"end": 4013,
+			"endString": "01:06:52.860",
+			"content": "Quand tu veux."
+		},
+		{
+			"start": 4012,
+			"startString": "01:06:52.960",
+			"end": 4014,
+			"endString": "01:06:53.100",
+			"content": "Vas-y."
+		},
+		{
+			"start": 4015,
+			"startString": "01:06:55.820",
+			"end": 4024,
+			"endString": "01:07:03.120",
+			"content": "J'avoue, j'ai pas fait que des bonnes choses, mais à part le sketch avec Justine Potier, qui, elle, est excellente, d'ailleurs, Justine Potier."
+		},
+		{
+			"start": 4023,
+			"startString": "01:07:03.580",
+			"end": 4027,
+			"endString": "01:07:06.500",
+			"content": "Le reste de ce que j'ai fait est assez excellent, je dirais."
+		},
+		{
+			"start": 4026,
+			"startString": "01:07:06.540",
+			"end": 4032,
+			"endString": "01:07:11.160",
+			"content": "Ouais, après, c'est quand même une vidéo qui a fait quelques millions de vues, qui a quand même plu aux gens."
+		},
+		{
+			"start": 4031,
+			"startString": "01:07:11.840",
+			"end": 4042,
+			"endString": "01:07:21.580",
+			"content": "L'effet Golden Moustache, où tu mets n'importe quel réel et ça fonctionne, ses acteurs sont pas mal, mais oui, oui, oui, le succès, il est mathématique, le succès, on peut pas nier ça."
+		},
+		{
+			"start": 4041,
+			"startString": "01:07:21.620",
+			"end": 4046,
+			"endString": "01:07:25.780",
+			"content": "On est quand même sur 2,7 millions de vues, voilà, donc calmos, quand même, calmos."
+		},
+		{
+			"start": 4046,
+			"startString": "01:07:26.100",
+			"end": 4048,
+			"endString": "01:07:27.980",
+			"content": "Moi, je veux bien entendre plein de choses, mais enfin, calmos."
+		},
+		{
+			"start": 4048,
+			"startString": "01:07:28.660",
+			"end": 4051,
+			"endString": "01:07:30.520",
+			"content": "Super, Dan, merci beaucoup."
+		},
+		{
+			"start": 4050,
+			"startString": "01:07:30.640",
+			"end": 4058,
+			"endString": "01:07:37.300",
+			"content": "En tout cas, sache que je ne mettrai aucune musique quand tu feras ta promo et je te souhaite une excellente journée, un bon confinement."
+		},
+		{
+			"start": 4060,
+			"startString": "01:07:40.520",
+			"end": 4065,
+			"endString": "01:07:44.760",
+			"content": "Et voilà, c'est la fin de ce FloodCast un peu chelou, forcément, un peu particulier."
+		},
+		{
+			"start": 4064,
+			"startString": "01:07:44.940",
+			"end": 4067,
+			"endString": "01:07:46.100",
+			"content": "En tout cas, moi, je me suis bien amusé à le faire."
+		},
+		{
+			"start": 4066,
+			"startString": "01:07:46.180",
+			"end": 4068,
+			"endString": "01:07:47.620",
+			"content": "J'espère qu'il vous a amusé aussi."
+		},
+		{
+			"start": 4068,
+			"startString": "01:07:48.180",
+			"end": 4079,
+			"endString": "01:07:58.840",
+			"content": "Je remercie toutes les personnes qui ont bien voulu participer, à savoir Dans le Désordre, Le Plus Total, Pierre Lavin, Clara Le Sage, Julien Pagnac, Léopold, Le Marchand, Natoo, ma mère, Maxence Laperouse, McFly et Dan Gagnon."
+		},
+		{
+			"start": 4080,
+			"startString": "01:08:00.100",
+			"end": 4082,
+			"endString": "01:08:01.160",
+			"content": "C'était très marrant à faire."
+		},
+		{
+			"start": 4081,
+			"startString": "01:08:01.280",
+			"end": 4084,
+			"endString": "01:08:03.220",
+			"content": "En tout cas, je ne sais pas s'il y en aura un autre la semaine prochaine."
+		},
+		{
+			"start": 4083,
+			"startString": "01:08:03.580",
+			"end": 4092,
+			"endString": "01:08:11.080",
+			"content": "J'espère en tout cas qu'il y en aura un autre la semaine prochaine, peut-être même avec Adrien, je l'espère de tout cœur en tout cas, de tout cœur en tout cas, c'est un truc un peu de beatbox, j'ai l'impression."
+		},
+		{
+			"start": 4092,
+			"startString": "01:08:12.320",
+			"end": 4103,
+			"endString": "01:08:22.960",
+			"content": "Prenez soin de vous, faites attention, je vais peut-être faire des lives un peu sur Twitch d'ici là, je ne sais pas ce qu'on fera pour le prochain FloodCast en confinement, est-ce qu'on ne ferait pas une FAQ, est-ce qu'on ne ferait pas, je ne sais pas."
+		},
+		{
+			"start": 4103,
+			"startString": "01:08:23.000",
+			"end": 4106,
+			"endString": "01:08:25.740",
+			"content": "Si vous avez des idées, vous n'hésitez pas à me les envoyer sur les réseaux sociaux."
+		},
+		{
+			"start": 4106,
+			"startString": "01:08:26.840",
+			"end": 4113,
+			"endString": "01:08:32.220",
+			"content": "Je vous embrasse en tout cas, prenez soin de vous, faites attention à vous et à très bientôt."
+		},
+		{
+			"start": 4112,
+			"startString": "01:08:32.480",
+			"end": 4114,
+			"endString": "01:08:33.100",
+			"content": "Bisous, tchao, bye."
+		},
+		{
+			"start": 4113,
+			"startString": "01:08:33.200",
+			"end": 4114,
+			"endString": "01:08:33.880",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4113,
+			"startString": "01:08:33.960",
+			"end": 4115,
+			"endString": "01:08:34.540",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4114,
+			"startString": "01:08:34.600",
+			"end": 4116,
+			"endString": "01:08:35.240",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4115,
+			"startString": "01:08:35.520",
+			"end": 4117,
+			"endString": "01:08:36.320",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4116,
+			"startString": "01:08:36.620",
+			"end": 4118,
+			"endString": "01:08:37.400",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4117,
+			"startString": "01:08:37.560",
+			"end": 4119,
+			"endString": "01:08:38.100",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4118,
+			"startString": "01:08:38.100",
+			"end": 4123,
+			"endString": "01:08:42.580",
+			"content": "Malgré tout, peut-être petit défaut, ça sonne aussi comme un slogan anti-immigration d'extrême droite."
+		},
+		{
+			"start": 4122,
+			"startString": "01:08:42.700",
+			"end": 4124,
+			"endString": "01:08:43.240",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4123,
+			"startString": "01:08:43.260",
+			"end": 4124,
+			"endString": "01:08:43.740",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4123,
+			"startString": "01:08:43.900",
+			"end": 4125,
+			"endString": "01:08:44.540",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4124,
+			"startString": "01:08:44.700",
+			"end": 4126,
+			"endString": "01:08:45.300",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4125,
+			"startString": "01:08:45.400",
+			"end": 4126,
+			"endString": "01:08:45.980",
+			"content": "Restez chez vous."
+		},
+		{
+			"start": 4126,
+			"startString": "01:08:46.100",
+			"end": 4127,
+			"endString": "01:08:46.420",
+			"content": "Restez chez vous."
+		}
+	]
+}
