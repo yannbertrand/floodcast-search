@@ -1,4 +1,6 @@
 ---
+import { Image } from 'astro:assets';
+import _netlifyLogo from '@assets/netlify.svg';
 import SearchBox from '@components/SearchBox.astro';
 ---
 <div id="searchbox">
@@ -14,12 +16,20 @@ import SearchBox from '@components/SearchBox.astro';
     <div id="hits" class="hits"></div>
 </div>
 
+<div class="powered-by">
+    <a href="https://www.netlify.com">
+        <Image src={_netlifyLogo} alt="Deployé par Netlify" width="114" height="51">
+    </a>
+
+    <div id="algolia"></div>
+</div>
+
 <script>
 import algolia from '@services/algolia.service.ts';
 import type { InstantSearchStatus } from 'instantsearch.js/es/types/instantsearch.d.ts';
 import connectSearchBox, { type SearchBoxRenderState } from 'instantsearch.js/es/connectors/search-box/connectSearchBox';
 import { getContainerNode } from 'instantsearch.js/es/lib/utils/getContainerNode';
-import { infiniteHits } from 'instantsearch.js/es/widgets';
+import { infiniteHits, poweredBy } from 'instantsearch.js/es/widgets';
 import type { SearchBoxWidgetParams } from 'instantsearch.js/es/widgets/search-box/search-box';
 import { refinementList } from "instantsearch.js/es/widgets";
 
@@ -72,6 +82,10 @@ algolia.addWidgets([
         }
     }),
 
+    poweredBy({
+        container: '#algolia',
+    }),
+
     infiniteHits({
         container: '#hits',
         cssClasses: {
@@ -100,6 +114,7 @@ algolia.start();
     display: flex;
     flex-wrap: wrap;
     gap: var(--pico-spacing);
+    margin-bottom: var(--pico-spacing);
 }
 .facets {
     flex-shrink: 0;
@@ -110,6 +125,13 @@ algolia.start();
 }
 .list-seasons li::marker {
     content: '';
+}
+.powered-by {
+    text-align: right;
+}
+.powered-by * {
+    max-width: 114px;
+    display: inline;
 }
 .hits {
     margin-bottom: var(--pico-spacing);

@@ -1,7 +1,5 @@
 ---
 import '@picocss/pico';
-import { Image } from 'astro:assets';
-import _netlifyLogo from '@assets/netlify.svg';
 import AppSearch from '@components/AppSearch.astro';
 ---
 <html lang="fr">
@@ -14,10 +12,6 @@ import AppSearch from '@components/AppSearch.astro';
     <main class="container">
         <h1>FloodCast > Il s'agissait du…</h1>
         <AppSearch />
-
-        <a href="https://www.netlify.com">
-            <Image src={_netlifyLogo} alt="Deployé par Netlify" width="114" height="51">
-        </a>
     </main>
   </body>
 </html>
