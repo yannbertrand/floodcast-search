@@ -1561,9 +1561,7 @@ exports[`getWikipediaInfo > should normalize all infos 1`] = `
     ],
   },
   "S10E43": {
-    "guests": [
-      "—",
-    ],
+    "guests": [],
   },
 }
 `;

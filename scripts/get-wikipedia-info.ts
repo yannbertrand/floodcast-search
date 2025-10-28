@@ -55,7 +55,7 @@ export function normalizeInfos(info: string) {
 	);
 
 	result = result.trim();
-	if (result === '-' || result === 'Aucun') {
+	if (result === '-' || result === '—' || result === 'Aucun') {
 		return [];
 	}
 

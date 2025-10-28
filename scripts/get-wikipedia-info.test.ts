@@ -548,6 +548,10 @@ describe('normalizeInfos', () => {
 			expect(normalizeInfos('-')).toEqual([]);
 		});
 
+		it('should return empty array if contains "—"', () => {
+			expect(normalizeInfos('—')).toEqual([]);
+		});
+
 		it('should return empty array if contains " - "', () => {
 			expect(normalizeInfos(' - ')).toEqual([]);
 		});
