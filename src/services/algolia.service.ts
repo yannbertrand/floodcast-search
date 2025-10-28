@@ -17,7 +17,7 @@ type GenericObject = {
 	[key: string]: any;
 };
 
-const indexName = 'floodcast-search-index';
+const indexName = 'floodcast-search-distinct-by-episodes';
 const algolia = instantsearch({
 	indexName,
 	searchClient,
