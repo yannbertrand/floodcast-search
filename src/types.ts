@@ -23,6 +23,8 @@ export type EpisodeForAlgolia = {
 	start: number;
 	content: string;
 	episode: {
+		id: string;
+		code: string[6];
 		title: string;
 		seasonNumber: number;
 		episodeNumber: number;

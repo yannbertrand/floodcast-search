@@ -50,6 +50,8 @@ export function removeEpisodeUnusedAttributes(
 		start: line.start,
 		content: line.content,
 		episode: {
+			id: episode.id,
+			code: episode.metadata.code,
 			title: episode.metadata.title,
 			seasonNumber: episode.metadata.seasonNumber,
 			episodeNumber: episode.metadata.episodeNumber,
