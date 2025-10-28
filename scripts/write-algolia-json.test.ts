@@ -29,6 +29,7 @@ describe('removeEpisodeUnusedAttributes', () => {
 					content: "Il s'agit du FloodCast",
 				},
 			],
+			guests: [],
 		};
 
 		expectTypeOf(removeEpisodeUnusedAttributes(sampleEpisode)).toEqualTypeOf<

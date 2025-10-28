@@ -21615,5 +21615,6 @@
 			"endString": "02:22:30.700",
 			"content": "Bonjour, c'est Jean-Louis Aubert."
 		}
-	]
+	],
+	"guests": ["Antoine Daniel", "Antoine Piombino", "Luciole"]
 }

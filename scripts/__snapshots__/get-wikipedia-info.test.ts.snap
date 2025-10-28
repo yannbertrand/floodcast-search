@@ -1,0 +1,1569 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`getWikipediaInfo > should normalize all infos 1`] = `
+{
+  "S01E00": {
+    "guests": [
+      "Clara Kane",
+      "Simon Mon",
+      "Lucien Maine",
+    ],
+  },
+  "S01E01": {
+    "guests": [
+      "Mcfly",
+      "Jack Parker",
+      "François Descraques",
+    ],
+  },
+  "S01E02": {
+    "guests": [
+      "Greg Romano",
+      "Nicolas Berno",
+      "Vincent Tirel",
+    ],
+  },
+  "S01E03": {
+    "guests": [
+      "Vanessa Brias",
+      "Éléonore Costes",
+      "Clara Kane",
+    ],
+  },
+  "S01E04": {
+    "guests": [
+      "Justine Le Pottier",
+      "Axel Maliverney",
+    ],
+  },
+  "S01E05": {
+    "guests": [
+      "Julien Pestel",
+      "Mcfly",
+      "Carlito",
+    ],
+  },
+  "S01E06": {
+    "guests": [
+      "Aude Gogny-Goubert",
+      "David Fontao",
+      "Patrick Baud",
+    ],
+  },
+  "S01E07": {
+    "guests": [
+      "Navie",
+      "Valentin Vincent",
+      "Justine Le Pottier",
+    ],
+  },
+  "S01E08": {
+    "guests": [
+      "Freddy Gladieux",
+      "Pierre Lapin",
+      "Aurélien Préveaux",
+    ],
+  },
+  "S01E09": {
+    "guests": [
+      "Anne-Sophie Girard",
+      "Simon Astier",
+      "Nicolas Berno",
+    ],
+  },
+  "S02E01": {
+    "guests": [
+      "Patrick Baud",
+      "Charlie Danger",
+      "Slimane-Baptiste Berhoun",
+      "Thomas Hercouet",
+      "François Descraques",
+    ],
+  },
+  "S02E02": {
+    "guests": [
+      "Maud Givert",
+      "Sophie Riche",
+      "Sophie-Marie Larrouy",
+    ],
+  },
+  "S02E03": {
+    "guests": [
+      "Teddy Férent",
+      "Audrey Pirault",
+      "Julien Pestel",
+    ],
+  },
+  "S02E04": {
+    "guests": [
+      "Dan Gagnon",
+      "Anthony Mirelli",
+    ],
+  },
+  "S03E01": {
+    "guests": [
+      "Jérôme Niel",
+      "Ornella Fleury",
+      "Gaël Mectoob",
+    ],
+  },
+  "S03E02": {
+    "guests": [
+      "Marina Rollman",
+      "Anis Rhali",
+      "Tom Evrard",
+    ],
+  },
+  "S03E03": {
+    "guests": [
+      "Antoine Daniel",
+      "Antoine Piombino",
+      "Luciole",
+    ],
+  },
+  "S03E04": {
+    "guests": [
+      "Navo",
+      "Léopold Lemarchand",
+    ],
+  },
+  "S03E05": {
+    "guests": [
+      "Kyan Khojandi",
+      "Alison Wheeler",
+      "Timothée Hochet",
+    ],
+  },
+  "S03E06": {
+    "guests": [
+      "Vesper",
+      "Lucien Maine",
+      "Joe Hume",
+    ],
+  },
+  "S03E07": {
+    "guests": [
+      "Jérémie Dethelot",
+      "Pierre Lapin",
+      "Sylvqin",
+    ],
+  },
+  "S03E08": {
+    "guests": [],
+  },
+  "S03E09": {
+    "guests": [
+      "Taous Merakchi (Jack Parker)",
+      "Julien Pestel",
+      "Valentin Vincent",
+    ],
+  },
+  "S03E10": {
+    "guests": [
+      "Ina Mihalache (Solange te Parle)",
+    ],
+  },
+  "S03E11": {
+    "guests": [
+      "Vincent Tirel",
+      "Julien Josselin",
+      "Raphaël Descraques",
+    ],
+  },
+  "S03E12": {
+    "guests": [
+      "Sébastien Chassagne",
+      "Marjorie LeNoan",
+      "Simon Astier",
+    ],
+  },
+  "S03E13": {
+    "guests": [
+      "Pénélope Bagieu",
+      "Dédo",
+      "PV Nova",
+    ],
+  },
+  "S04E01": {
+    "guests": [
+      "Davy Mourier",
+      "Jhon Rachid",
+      "François Descraques",
+      "Baptiste Lorber",
+    ],
+  },
+  "S04E02": {
+    "guests": [
+      "Céline Tran",
+      "Navie",
+      "Aurélien Préveaux",
+    ],
+  },
+  "S04E03": {
+    "guests": [],
+  },
+  "S04E04": {
+    "guests": [
+      "Natoo",
+      "Lucien Maine",
+      "Freddy Gladieux",
+    ],
+  },
+  "S04E05": {
+    "guests": [
+      "Patrick Baud",
+      "Bruno Muschio",
+      "Valentin Vincent",
+    ],
+  },
+  "S04E06": {
+    "guests": [
+      "Jérome Niel",
+      "Vincent Tirel",
+      "Axel Maliverney",
+    ],
+  },
+  "S04E07": {
+    "guests": [
+      "Jonathan Cohen",
+      "Laura Felpin",
+      "Jérémie Galan",
+    ],
+  },
+  "S04E08": {
+    "guests": [
+      "Julien Josselin",
+      "Mélody Collange",
+      "Clara Lesage",
+      "Vanessa Brias",
+    ],
+  },
+  "S04E09": {
+    "guests": [
+      "Guilhem Malissen",
+      "Pierre Lapin",
+    ],
+  },
+  "S04E10": {
+    "guests": [
+      "Amaury Magne",
+      "Kalindi Ramphul",
+      "Queen Camille",
+      "Jean-Baptiste Toussaint",
+    ],
+  },
+  "S04E11": {
+    "guests": [
+      "Baptiste Lecaplain",
+      "Robinson Latour",
+      "Aurélien Préveaux",
+    ],
+  },
+  "S04E12": {
+    "guests": [
+      "Anna Apter",
+      "Marjorie LeNoan",
+      "Lucien Maine",
+    ],
+  },
+  "S04E13": {
+    "guests": [
+      "Justine Le Pottier",
+      "Paul Scarfoglio",
+      "Valentin Vincent",
+      "Camille Claris",
+    ],
+  },
+  "S04E14": {
+    "guests": [
+      "David Marsais",
+      "Grégoire Ludig",
+    ],
+  },
+  "S04E15": {
+    "guests": [
+      "Pierre-François Martin-Laval",
+      "Maurice Barthélémy",
+      "Elise Larnicol",
+    ],
+  },
+  "S04E16": {
+    "guests": [
+      "Audrey Pirault",
+      "Gaël Mectoob",
+      "Justine Le Pottier",
+    ],
+  },
+  "S04E17": {
+    "guests": [
+      "Manon Bril",
+      "le Capitaine du Nexus VI",
+      "Jean-Baptiste Siraudin",
+    ],
+  },
+  "S04E18": {
+    "guests": [
+      "Sophie-Marie Larrouy",
+      "Jérôme Niel",
+      "Tom Evrard",
+    ],
+  },
+  "S04E19": {
+    "guests": [
+      "Vesper",
+      "Joe Hume",
+      "Ben Renaut",
+    ],
+  },
+  "S04E20": {
+    "guests": [
+      "Mister V",
+      "Thomas Gauthier",
+      "Freddy Gladieux",
+    ],
+  },
+  "S04E21": {
+    "guests": [
+      "Antoine",
+      "Sarah",
+      "Julie",
+      "Greg du podcast 2 heures de perdues",
+    ],
+  },
+  "S04E22": {
+    "guests": [
+      "Akim Omiri",
+      "Luciole",
+      "Aslak Lefebvre",
+    ],
+  },
+  "S04E23": {
+    "guests": [
+      "Babor",
+      "Mélody Collange",
+      "JB de Tales from The Click",
+    ],
+  },
+  "S04E24": {
+    "guests": [
+      "Éléonore Costes",
+      "Vanessa Brias",
+      "Clara Lesage",
+    ],
+  },
+  "S04E25": {
+    "guests": [
+      "Joe Hume",
+      "Ben Renaut",
+    ],
+  },
+  "S05E01": {
+    "guests": [
+      "Shirley Souagnon",
+      "Yacine Belhousse",
+      "Dédo",
+    ],
+  },
+  "S05E02": {
+    "guests": [
+      "Roxane Bret",
+      "Lucien Maine",
+      "Valentin Vincent",
+      "le Père Fouras",
+    ],
+  },
+  "S05E03": {
+    "guests": [
+      "Kyan Khojandi",
+      "Ludoc",
+      "Vanessa Brias",
+      "Jérémie Galan",
+      "Tom Evrard",
+    ],
+  },
+  "S05E04": {
+    "guests": [
+      "Ludovik",
+      "Caroline Anglade",
+      "Jérôme Niel",
+      "Nicolas Berno",
+    ],
+  },
+  "S05E05": {
+    "guests": [
+      "Pierre Lapin",
+      "Michel Sardou",
+    ],
+  },
+  "S05E06": {
+    "guests": [
+      "Hakim Jemili",
+      "Insaf Oo",
+    ],
+  },
+  "S05E07": {
+    "guests": [
+      "Mehdi Maïzi",
+      "Aurélien Préveaux",
+      "Sylvqin",
+    ],
+  },
+  "S05E08": {
+    "guests": [
+      "Vesper",
+      "Joe Hume",
+      "Ben Renault",
+    ],
+  },
+  "S05E09": {
+    "guests": [
+      "Monsieur Poulpe",
+      "Mister V",
+      "Éléonore Costes",
+      "Baptiste Lecaplain",
+    ],
+  },
+  "S05E10": {
+    "guests": [],
+  },
+  "S05E11": {
+    "guests": [
+      "Alison Wheeler",
+      "Anne-Sophie Girard",
+      "Léopold Lemarchand",
+    ],
+  },
+  "S05E12": {
+    "guests": [
+      "MYD",
+      "Lou Howard",
+      "Pierre Lapin",
+    ],
+  },
+  "S05E13": {
+    "guests": [
+      "Constance Labbé",
+      "Axel Maliverney",
+    ],
+  },
+  "S05E14": {
+    "guests": [
+      "Pierre Lapin",
+    ],
+  },
+  "S05E15": {
+    "guests": [
+      "Sophie Garric",
+      "Julien Josselin",
+      "Gaël Mectoob",
+    ],
+  },
+  "S05E16": {
+    "guests": [
+      "Laura Felpin",
+      "Julien Pestel",
+    ],
+  },
+  "S05E17": {
+    "guests": [
+      "Thomas VDB",
+      "Ambre Larrazet",
+      "François Descraques",
+    ],
+  },
+  "S05E18": {
+    "guests": [
+      "Fanny Ruwet",
+      "Thomas Wiesel",
+      "Ghislan Blique",
+    ],
+  },
+  "S05E19": {
+    "guests": [
+      "François Descraques",
+      "Valentin Vincent",
+      "Timothée Hochet",
+    ],
+  },
+  "S05E20": {
+    "guests": [
+      "Marina Rollman",
+      "Alison Wheeler",
+      "Hakim Jemili",
+      "Patrick Baud",
+      "Simon Astier",
+    ],
+  },
+  "S05E21": {
+    "guests": [
+      "Natoo",
+      "Léopold Lemarchand",
+      "McFly",
+      "Pierre Lapin",
+      "Julien Paniac",
+      "Maxence Lapérouse",
+      "Dan Gagnon",
+      "Clara Lesage",
+      "ma mère",
+    ],
+  },
+  "S05E22": {
+    "guests": [],
+  },
+  "S05E23": {
+    "guests": [
+      "Patrick Baud",
+      "Julien Ménielle",
+      "JB de Tales From the Click",
+      "P.A Domingo",
+      "Squeezie",
+      "BigFlo",
+      "Mehdi Maïzi",
+      "Laura Felpin",
+      "Pierre Lapin",
+    ],
+  },
+  "S05E24": {
+    "guests": [
+      "Cyprien Iov",
+      "Marjorie LeNoan",
+      "Jérémie Dethelot",
+      "Justine Le Pottier",
+    ],
+  },
+  "S05E25": {
+    "guests": [
+      "Alban Lenoir",
+      "Sébastien Lalanne",
+      "Guillaume Pierret",
+      "Robinson Latour",
+    ],
+  },
+  "S05E26": {
+    "guests": [
+      "Doully",
+      "Audrey Pirault",
+      "Guillaume Brouzes",
+    ],
+  },
+  "S05E27": {
+    "guests": [
+      "Yerim Sar",
+      "Ngiraan Fall",
+      "Mehdi Maïzi",
+      "Aslak Lefevre",
+    ],
+  },
+  "S05E28": {
+    "guests": [
+      "Maghla",
+      "Emy LTR",
+      "Taous Merakchi",
+    ],
+  },
+  "S05E29": {
+    "guests": [
+      "Panayotis Pascot",
+      "Alex Ramirès",
+      "Anis Rhali",
+    ],
+  },
+  "S06E01": {
+    "guests": [
+      "Morgane Cadignan",
+      "Freddy Gladieux",
+      "Aurélien Préveaux",
+    ],
+  },
+  "S06E02": {
+    "guests": [
+      "David Combet",
+      "Davy Mourier",
+    ],
+  },
+  "S06E03": {
+    "guests": [
+      "Mister MV",
+      "Antoine Daniel",
+      "Florence (Angle Droit)",
+    ],
+  },
+  "S06E04": {
+    "guests": [],
+  },
+  "S06E05": {
+    "guests": [
+      "Pierre Lapin",
+    ],
+  },
+  "S06E06": {
+    "guests": [
+      "Bérengère Krief",
+      "Ben Mazué",
+      "Marine Baousson",
+    ],
+  },
+  "S06E07": {
+    "guests": [
+      "Lucas Pastor",
+      "Jenny Letellier",
+      "Valentin Jean",
+    ],
+  },
+  "S06E08": {
+    "guests": [
+      "Antoine Piombino",
+      "Justine Le Pottier",
+      "Teddy Férent",
+    ],
+  },
+  "S06E09": {
+    "guests": [
+      "Julien Granel",
+      "Pi Ja Ma",
+      "Maxence",
+    ],
+  },
+  "S06E10": {
+    "guests": [
+      "Marion Creusvaux",
+      "Julien Pestel",
+      "Valentin Vincent",
+    ],
+  },
+  "S06E11": {
+    "guests": [
+      "Lison Daniel",
+      "Myd",
+      "Laura Felpin",
+    ],
+  },
+  "S06E12": {
+    "guests": [
+      "Benjamin Tranié",
+      "Morgane Cadignan",
+      "Jérôme Niel",
+    ],
+  },
+  "S06E13": {
+    "guests": [],
+  },
+  "S06E14": {
+    "guests": [
+      "Sébastien Chassagne",
+      "Sophie-Marie Larrouy",
+      "Lucien Maine",
+    ],
+  },
+  "S06E15": {
+    "guests": [],
+  },
+  "S07E01": {
+    "guests": [
+      "Squeezie",
+      "Natoo",
+      "MYD",
+    ],
+  },
+  "S07E02": {
+    "guests": [
+      "Léopold Lemarchand",
+      "Jérome Niel",
+      "Axel Maliverney",
+    ],
+  },
+  "S07E03": {
+    "guests": [
+      "Doully",
+      "Jean-Baptiste Toussaint",
+      "Ornella Fleury",
+    ],
+  },
+  "S07E04": {
+    "guests": [
+      "Horty",
+      "Pierre Lapin",
+    ],
+  },
+  "S07E05": {
+    "guests": [
+      "KronoMuzik",
+      "Manon Bril",
+      "Patrick Baud",
+    ],
+  },
+  "S07E06": {
+    "guests": [
+      "Pénélope Bagieu",
+      "Lucien Maine",
+      "Lisa Villaret",
+      "Max Mammouth",
+    ],
+  },
+  "S07E07": {
+    "guests": [
+      "Aude Gogny-Goubert",
+      "Valentin Vincent",
+    ],
+  },
+  "S07E08": {
+    "guests": [
+      "Tiphaine Daviot",
+      "Simon Astier",
+      "Jérémie Dethelot",
+    ],
+  },
+  "S07E09": {
+    "guests": [
+      "Morgane Cadignan",
+      "Julien Paniac",
+      "Patrick Baud",
+    ],
+  },
+  "S07E10": {
+    "guests": [
+      "Antoine de Caunes",
+      "Monsieur Poulpe",
+      "Vanessa Brias",
+    ],
+  },
+  "S07E11": {
+    "guests": [
+      "Ramzy Bedia",
+      "Baptiste Lorber",
+      "Nicolas Berno",
+    ],
+  },
+  "S07E12": {
+    "guests": [
+      "Thomas VDB",
+      "Éléonore Costes",
+      "Aurélien Préveaux",
+    ],
+  },
+  "S07E13": {
+    "guests": [
+      "Pierre Lapin",
+    ],
+  },
+  "S07E14": {
+    "guests": [
+      "Domingo",
+      "Maxence",
+    ],
+  },
+  "S07E15": {
+    "guests": [
+      "Baptiste Lecaplain",
+      "Doully",
+      "Jérome Niel",
+    ],
+  },
+  "S07E16": {
+    "guests": [
+      "Jenny Letellier",
+      "Natoo",
+      "Léopold Lemarchand",
+      "Aurélien Préveaux",
+    ],
+  },
+  "S07E17": {
+    "guests": [
+      "Audrey Pirault",
+      "Aurélien Préveaux",
+    ],
+  },
+  "S07E18": {
+    "guests": [
+      "Lucas Pastor",
+      "Timothée Hochet",
+      "Axel Maliverney",
+    ],
+  },
+  "S07E19": {
+    "guests": [
+      "David Marsais",
+      "Grégoire Ludig du Palmashow",
+    ],
+  },
+  "S07E20": {
+    "guests": [
+      "Ponce",
+      "Ultia",
+      "Rivenzi",
+    ],
+  },
+  "S07E21": {
+    "guests": [
+      "Djilsi",
+      "Mehdi Maïzi",
+      "Justine Le Pottier",
+    ],
+  },
+  "S07E22": {
+    "guests": [],
+  },
+  "S07E23": {
+    "guests": [
+      "Mister V",
+      "Freddy Gladieux",
+    ],
+  },
+  "S07E24": {
+    "guests": [
+      "Sophie-Marie Larrouy",
+      "Alison Chassagne",
+    ],
+  },
+  "S07E25": {
+    "guests": [
+      "Julien Ménielle",
+      "Marie de Brauer",
+      "Maxime Musqua",
+    ],
+  },
+  "S07E26": {
+    "guests": [
+      "Maxime Biaggi",
+      "Pi Ja Ma",
+      "Sylvqin",
+    ],
+  },
+  "S07E27": {
+    "guests": [],
+  },
+  "S07E28": {
+    "guests": [
+      "Jean-Baptiste Toussaint",
+      "Guigui Pop",
+    ],
+  },
+  "S07E29": {
+    "guests": [
+      "Éléonore Costes",
+      "Sébastien Chassagne",
+    ],
+  },
+  "S07E30": {
+    "guests": [
+      "Camille Lavabre",
+      "Julien Josselin",
+      "Valentin Vincent",
+    ],
+  },
+  "S07E31": {
+    "guests": [
+      "David Honnorat (Team Calmos)",
+      "Hugo Alexandre (Team Calmos)",
+      "Vesper",
+    ],
+  },
+  "S07E32": {
+    "guests": [
+      "Jonathan Lambert",
+      "Anna Apter",
+      "Kyan Khojandi",
+    ],
+  },
+  "S07E33": {
+    "guests": [
+      "Gaël Mectoob",
+      "Justine Le Pottier",
+    ],
+  },
+  "S07E34": {
+    "guests": [
+      "Camille Fievez",
+      "Babor",
+    ],
+  },
+  "S07E35": {
+    "guests": [
+      "Pierre Niney",
+      "Pi Ja Ma",
+    ],
+  },
+  "S07E36": {
+    "guests": [],
+  },
+  "S07E37": {
+    "guests": [
+      "Doully",
+      "Axel Maliverney",
+    ],
+  },
+  "S07E38": {
+    "guests": [
+      "BigFlo",
+    ],
+  },
+  "S07E39": {
+    "guests": [
+      "Camille Combal",
+      "Natoo",
+    ],
+  },
+  "S07E40": {
+    "guests": [
+      "Ben Renault",
+      "Vesper",
+      "Joe Hume",
+    ],
+  },
+  "S07E41": {
+    "guests": [
+      "Pierre Lapin",
+    ],
+  },
+  "S08E01": {
+    "guests": [
+      "Jérôme Commandeur",
+      "Malik Bentalha",
+      "Joséphine Japy",
+    ],
+  },
+  "S08E02": {
+    "guests": [
+      "Orelsan",
+      "Clément Cotentin",
+    ],
+  },
+  "S08E03": {
+    "guests": [
+      "Tokou",
+      "Leopold Lemarchand",
+    ],
+  },
+  "S08E04": {
+    "guests": [
+      "Baptiste Lecaplain",
+      "Doully",
+    ],
+  },
+  "S08E05": {
+    "guests": [
+      "Justine Le Pottier",
+      "Julien Josselin",
+      "Valentin Vincent",
+    ],
+  },
+  "S08E06": {
+    "guests": [
+      "Sophie-Marie Larrouy",
+      "Jérôme Niel",
+    ],
+  },
+  "S08E07": {
+    "guests": [
+      "Antoine Piombino",
+      "Étienne 4 U",
+    ],
+  },
+  "S08E08": {
+    "guests": [
+      "Audrey Pirault",
+      "Simon Astier",
+      "BigFlo",
+      "Lucas Pastor",
+    ],
+  },
+  "S08E09": {
+    "guests": [
+      "Morgane Cadignan",
+      "Guigui Pop",
+    ],
+  },
+  "S08E10": {
+    "guests": [
+      "BigFlo",
+      "Justine Le Pottier",
+    ],
+  },
+  "S08E11": {
+    "guests": [
+      "Géraldine Nakache",
+      "Jonathan Cohen",
+    ],
+  },
+  "S08E12": {
+    "guests": [
+      "Laura Felpin",
+      "Cédric Salaun",
+    ],
+  },
+  "S08E13": {
+    "guests": [
+      "Pierre Lapin",
+    ],
+  },
+  "S08E14": {
+    "guests": [
+      "Benjamin Tranié",
+      "Morgane Cadignan",
+    ],
+  },
+  "S08E15": {
+    "guests": [
+      "Aurélien Préveaux",
+      "Anis Rhali",
+    ],
+  },
+  "S08E16": {
+    "guests": [
+      "Pi Ja Ma",
+      "Patrick Baud",
+    ],
+  },
+  "S08E17": {
+    "guests": [],
+  },
+  "S08E18": {
+    "guests": [
+      "Natoo",
+      "Mélody Collange (Mélococo)",
+    ],
+  },
+  "S08E19": {
+    "guests": [
+      "Lele",
+      "Monsieur Poulpe",
+    ],
+  },
+  "S08E20": {
+    "guests": [
+      "Nash",
+      "Guigui Pop",
+    ],
+  },
+  "S08E21": {
+    "guests": [
+      "PiJama",
+      "Lucas Pastor",
+    ],
+  },
+  "S08E22": {
+    "guests": [
+      "Valentin Vincent",
+      "Justine Le Pottier",
+    ],
+  },
+  "S08E23": {
+    "guests": [],
+  },
+  "S08E24": {
+    "guests": [
+      "McFly",
+      "Carlito",
+    ],
+  },
+  "S08E25": {
+    "guests": [
+      "Manon Bril",
+      "Marjorie LeNoan",
+    ],
+  },
+  "S08E26": {
+    "guests": [
+      "Camille Fievez",
+      "Babor",
+    ],
+  },
+  "S08E27": {
+    "guests": [
+      "Fanny Ruwet",
+      "Antoine Piombino",
+    ],
+  },
+  "S08E28": {
+    "guests": [
+      "PiJaMa",
+      "Léopold Lemarchand",
+    ],
+  },
+  "S08E29": {
+    "guests": [
+      "David Honnorat (Team Calmos)",
+      "Hugo Alexandre (Team Calmos)",
+    ],
+  },
+  "S08E30": {
+    "guests": [
+      "Jean-Pascal Zadi",
+      "Sophie-Marie Larrouy",
+    ],
+  },
+  "S08E31": {
+    "guests": [
+      "Sébastien Chassagne",
+      "Justine Le Pottier",
+    ],
+  },
+  "S09E01": {
+    "guests": [
+      "Théo Juice",
+      "Mister V",
+    ],
+  },
+  "S09E02": {
+    "guests": [
+      "Melha Bedia",
+      "Alison Wheeler",
+    ],
+  },
+  "S09E03": {
+    "guests": [
+      "Pio Marmaï",
+      "Olivier Nakache",
+    ],
+  },
+  "S09E04": {
+    "guests": [
+      "Urbain",
+      "Morgane Cadignan",
+    ],
+  },
+  "S09E05": {
+    "guests": [
+      "Cécile Marx",
+      "Teddy Férent",
+    ],
+  },
+  "S09E06": {
+    "guests": [
+      "Doully",
+      "Baptiste Lecaplain",
+    ],
+  },
+  "S09E07": {
+    "guests": [
+      "Gaël Mectoob",
+      "Natoo",
+    ],
+  },
+  "S09E08": {
+    "guests": [
+      "Léna Situations",
+      "Bigflo",
+    ],
+  },
+  "S09E09": {
+    "guests": [
+      "Vincent Dedienne",
+      "Géraldine Nakache",
+    ],
+  },
+  "S09E10": {
+    "guests": [
+      "Neefa",
+      "Mehdi Maïzi",
+    ],
+  },
+  "S09E11": {
+    "guests": [
+      "Rosa Bursztein",
+      "Justine Le Pottier",
+    ],
+  },
+  "S09E12": {
+    "guests": [
+      "Eric Judor",
+      "Arthur Sanigou",
+    ],
+  },
+  "S09E13": {
+    "guests": [
+      "Sofia Lesaffre",
+      "Sébastien Vaniček",
+      "Jérôme Niel",
+    ],
+  },
+  "S09E14": {
+    "guests": [
+      "Pierre Lapin",
+    ],
+  },
+  "S09E15": {
+    "guests": [],
+  },
+  "S09E16": {
+    "guests": [
+      "Laurie Peret",
+      "Benjamin Tranié",
+    ],
+  },
+  "S09E17": {
+    "guests": [
+      "Justine Le Pottier",
+      "Valentin Vincent",
+    ],
+  },
+  "S09E18": {
+    "guests": [
+      "Jonathan Cohen",
+    ],
+  },
+  "S09E19": {
+    "guests": [
+      "Marie de Brauer",
+      "Lisa Villaret",
+    ],
+  },
+  "S09E20": {
+    "guests": [
+      "Jason Brokerss",
+      "Sophie-Marie Larrouy",
+    ],
+  },
+  "S09E21": {
+    "guests": [
+      "Bérengère Krief",
+      "Jérémy Ferrari",
+    ],
+  },
+  "S09E22": {
+    "guests": [
+      "William Lebghil",
+      "Sébastien Chassagne",
+    ],
+  },
+  "S09E24": {
+    "guests": [
+      "Pauline de Tarragon (PiJaMa)",
+      "Camille Fievez",
+    ],
+  },
+  "S09E25": {
+    "guests": [
+      "Jérôme Niel",
+    ],
+  },
+  "S09E26": {
+    "guests": [
+      "Fadily Camara",
+      "Pierre Lapin",
+    ],
+  },
+  "S09E27": {
+    "guests": [
+      "Charlotte Gainsbourg",
+      "José Garcia",
+    ],
+  },
+  "S09E28": {
+    "guests": [
+      "Benjamin Tranié",
+    ],
+  },
+  "S09E30": {
+    "guests": [
+      "Pierre Niney",
+      "Géraldine Nakache",
+    ],
+  },
+  "S09E31": {
+    "guests": [
+      "David Castello-Lopes",
+      "Morgane Cadignan",
+    ],
+  },
+  "S09E32": {
+    "guests": [
+      "Éléonore Costes",
+      "Nicolas Berno",
+    ],
+  },
+  "S09E33": {
+    "guests": [],
+  },
+  "S09E34": {
+    "guests": [
+      "Nathalie Odzierejko",
+      "Vanessa Brias",
+    ],
+  },
+  "S09E35": {
+    "guests": [
+      "Laura Felpin",
+      "Cédric Salaun",
+    ],
+  },
+  "S09E36": {
+    "guests": [
+      "Urbain",
+    ],
+  },
+  "S09E37": {
+    "guests": [
+      "Aymeric Lompret",
+      "Doully",
+    ],
+  },
+  "S09E38": {
+    "guests": [
+      "Kalindi Ramphul",
+      "Camille Lorente",
+    ],
+  },
+  "S09E39": {
+    "guests": [
+      "Benjamin Tranié",
+      "Zaid Sahebdin",
+    ],
+  },
+  "S10E01": {
+    "guests": [
+      "Morgane Cadignan",
+      "Jérôme Niel",
+    ],
+  },
+  "S10E02": {
+    "guests": [
+      "Shirine Boutella",
+      "Melha Bedia",
+    ],
+  },
+  "S10E03": {
+    "guests": [
+      "Marie de Brauer",
+      "Axel Maliverney",
+    ],
+  },
+  "S10E04": {
+    "guests": [
+      "Jean-Baptiste Toussaint",
+      "Mehdi Benchebana",
+    ],
+  },
+  "S10E05": {
+    "guests": [
+      "Manon Bril",
+      "Patrick Baud",
+    ],
+  },
+  "S10E06": {
+    "guests": [
+      "Alban Ivanov",
+      "Audrey Pirault",
+    ],
+  },
+  "S10E07": {
+    "guests": [
+      "Nathalie Odzierejko",
+      "Sébastien Vaniček",
+    ],
+  },
+  "S10E08": {
+    "guests": [
+      "Maxime Biaggi",
+      "Grimkujow",
+    ],
+  },
+  "S10E09": {
+    "guests": [
+      "Ana Godefroy",
+      "Fanny Ruwet",
+    ],
+  },
+  "S10E11": {
+    "guests": [
+      "Yoa",
+      "Maxence",
+    ],
+  },
+  "S10E12": {
+    "guests": [
+      "Noémie Merlant",
+      "Louis Garrel",
+    ],
+  },
+  "S10E13": {
+    "guests": [
+      "Clara Luciani",
+      "Laura Felpin",
+    ],
+  },
+  "S10E14": {
+    "guests": [
+      "Jérôme Commandeur",
+      "Benjamin Tranié",
+    ],
+  },
+  "S10E15": {
+    "guests": [
+      "Géraldine Nakache",
+      "Vincent Dedienne",
+    ],
+  },
+  "S10E16": {
+    "guests": [
+      "Louise",
+      "Chloé de Hot Girls Only",
+    ],
+  },
+  "S10E17": {
+    "guests": [
+      "Pierre Lapin",
+    ],
+  },
+  "S10E18": {
+    "guests": [
+      "PiJaMa",
+      "Sylvqin",
+    ],
+  },
+  "S10E19": {
+    "guests": [
+      "Justine Le Pottier",
+      "Urbain",
+    ],
+  },
+  "S10E20": {
+    "guests": [
+      "Fanny « LaPanny »",
+      "Léopold Lemarchand",
+    ],
+  },
+  "S10E21": {
+    "guests": [
+      "Vimala Pons",
+      "Pio Marmaï",
+    ],
+  },
+  "S10E22": {
+    "guests": [
+      "Tiphaine Daviot",
+      "Julien Pestel",
+    ],
+  },
+  "S10E23": {
+    "guests": [
+      "Kyan Khojandi",
+      "Bruno Muschio",
+    ],
+  },
+  "S10E24": {
+    "guests": [
+      "Enya Baroux",
+      "Anis Rhali",
+    ],
+  },
+  "S10E25": {
+    "guests": [
+      "Marie de Brauer",
+      "Lucien Maine",
+    ],
+  },
+  "S10E26": {
+    "guests": [],
+  },
+  "S10E27": {
+    "guests": [
+      "Chloé Jouannet",
+      "Panayotis Pascot",
+    ],
+  },
+  "S10E28": {
+    "guests": [
+      "Mehdi Maïzi",
+      "Ngiraan Fall",
+    ],
+  },
+  "S10E29": {
+    "guests": [
+      "Merwane Benlazar",
+      "Tunis Hilton",
+    ],
+  },
+  "S10E30": {
+    "guests": [
+      "Morgane Cadignan",
+      "Fanny Ruwet",
+    ],
+  },
+  "S10E31": {
+    "guests": [
+      "Mourad Winter",
+      "Benjamin Tranié",
+    ],
+  },
+  "S10E32": {
+    "guests": [
+      "Vladimir Rodionov",
+      "Justine Le Pottier",
+    ],
+  },
+  "S10E33": {
+    "guests": [
+      "Camille Fievez",
+      "Babor",
+    ],
+  },
+  "S10E34": {
+    "guests": [
+      "Adel Fugazi",
+      "Pierre Thevenoux",
+    ],
+  },
+  "S10E35": {
+    "guests": [
+      "Pauline de Tarragon",
+      "Ana Godefroy",
+    ],
+  },
+  "S10E36": {
+    "guests": [
+      "Medoc (Cosy Corner)",
+      "Moguri (Cosy Corner)",
+    ],
+  },
+  "S10E37": {
+    "guests": [
+      "Alison Wheeler",
+      "Baptiste Lecaplain",
+    ],
+  },
+  "S10E38": {
+    "guests": [
+      "Bilal Hassani",
+      "Alice Moitié",
+    ],
+  },
+  "S10E39": {
+    "guests": [
+      "Morgane Cadignan",
+      "Benjamin Tranié",
+      "Mister MV",
+    ],
+  },
+  "S10E40": {
+    "guests": [
+      "Gérard Jugnot",
+      "Maxime Gasteuil",
+    ],
+  },
+  "S10E41": {
+    "guests": [
+      "Natoo",
+      "Mister V",
+      "Terracid",
+    ],
+  },
+  "S10E42": {
+    "guests": [
+      "Géraldine Nakache",
+      "Vincent Dedienne",
+      "Pierre Niney",
+      "Benjamin Tranié",
+      "Maxence",
+      "Clara Luciani",
+      "Orelsan",
+      "Pio Marmaï",
+    ],
+  },
+  "S10E43": {
+    "guests": [
+      "—",
+    ],
+  },
+}
+`;

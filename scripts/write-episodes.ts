@@ -6,13 +6,17 @@ import {
 	writeFile,
 } from 'node:fs/promises';
 import type {
+	Episode,
 	EpisodeLine,
 	EpisodeMetadata,
+	WikipediaInfos,
 	YtDlpEpisodeInfo,
 } from '../src/types.ts';
+import { getWikipediaInfo } from './get-wikipedia-info.ts';
 
 const EPISODES_INFO_FILE_PATHS = 'data/yt-dlp/info/';
 const EPISODES_SUBTITLES_FILE_PATHS = 'data/subtitles/';
+const EPISODES_WIKIPEDIA_FILE_PATH = 'data/wikipedia/episodes.txt';
 const EPISODES_DESTINATION_FILE_PATHS = 'data/episodes/';
 
 export async function writeEpisodes(forceRewrite = false) {
@@ -26,6 +30,24 @@ export async function writeEpisodeFiles(
 	episodesYtDlpFileNames: string[],
 	forceRewrite: boolean,
 ): Promise<void> {
+	const episodesWikipediaInfosFilePath = getEpisodesWikipediaFilePath();
+	let episodesWikipediaInfos: WikipediaInfos = {};
+	try {
+		await access(episodesWikipediaInfosFilePath, constants.R_OK);
+
+		const episodesWikipediaInfoFileContent = await readFile(
+			episodesWikipediaInfosFilePath,
+			{
+				encoding: 'utf-8',
+			},
+		);
+		episodesWikipediaInfos = getWikipediaInfo(episodesWikipediaInfoFileContent);
+	} catch {
+		console.warn(
+			`Fichier extrait de wikipedia non trouvé (${episodesWikipediaInfosFilePath}).\n`,
+		);
+	}
+
 	for (const episodeYtDlpFileName of episodesYtDlpFileNames) {
 		if (episodeYtDlpFileName === 'Il_s_agissait_du_Floodcast.info.json') {
 			continue;
@@ -73,11 +95,17 @@ export async function writeEpisodeFiles(
 			},
 		);
 
-		const episodeFileContent = {
+		const episodeFileContent: Episode = {
 			id: baseFileName,
 			metadata: getEpisodeMetadataFromYtDlpEpisodeInfo(episodeInfoFileContent),
 			lines: getEpisodeLinesFromVtt(episodeSubtitlesFileContent),
+			guests: [],
 		};
+
+		const episodeCode = episodeFileContent.metadata.code;
+		if (episodesWikipediaInfos?.[episodeCode]?.guests?.length > 0) {
+			episodeFileContent.guests = episodesWikipediaInfos[episodeCode].guests;
+		}
 
 		console.debug(
 			`${baseFileName} - Génération terminée, enregistement en cours...`,
@@ -103,6 +131,10 @@ export function getEpisodeInfoFilePath(episodeFileName: string): string {
 
 export function getEpisodeSubtitleFilePath(episodeFileName: string): string {
 	return `${EPISODES_SUBTITLES_FILE_PATHS}${episodeFileName}.vtt`;
+}
+
+export function getEpisodesWikipediaFilePath(): string {
+	return `${EPISODES_WIKIPEDIA_FILE_PATH}`;
 }
 
 export async function getEpisodesFileNames() {

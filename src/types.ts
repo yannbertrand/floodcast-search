@@ -2,6 +2,7 @@ export type Episode = {
 	id: string;
 	metadata: EpisodeMetadata;
 	lines: EpisodeLine[];
+	guests: string[];
 };
 
 export type EpisodeMetadata = {
@@ -28,6 +29,7 @@ export type EpisodeForAlgolia = {
 		description: string;
 		durationString: string;
 		uploadDate: string[10];
+		guests: string[];
 	};
 };
 
@@ -37,6 +39,10 @@ export type EpisodeLine = {
 	end: number;
 	endString: string[12];
 	content: string;
+};
+
+export type WikipediaInfos = {
+	[code: string]: { guests: string[] };
 };
 
 export type YtDlpEpisodeInfo = {

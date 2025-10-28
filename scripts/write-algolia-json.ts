@@ -56,6 +56,7 @@ export function removeEpisodeUnusedAttributes(
 			description: episode.metadata.description.replace(/<[^>]*>?/gm, ''),
 			durationString: episode.metadata.durationString,
 			uploadDate: episode.metadata.uploadDate,
+			guests: episode.guests,
 		},
 	}));
 }
