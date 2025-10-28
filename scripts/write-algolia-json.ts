@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import { access, constants, writeFile } from 'node:fs/promises';
 import type { Episode, EpisodeForAlgolia } from '../src/types.ts';
 import {
@@ -45,20 +46,24 @@ await writeAlgoliaJson(process.argv.includes('--force'));
 export function removeEpisodeUnusedAttributes(
 	episode: Episode,
 ): EpisodeForAlgolia[] {
-	return episode.lines.map((line, index) => ({
-		id: `${episode.id}_${index}`,
-		start: line.start,
-		content: line.content,
-		episode: {
-			id: episode.id,
-			code: episode.metadata.code,
-			title: episode.metadata.title,
-			seasonNumber: episode.metadata.seasonNumber,
-			episodeNumber: episode.metadata.episodeNumber,
-			description: episode.metadata.description.replace(/<[^>]*>?/gm, ''),
-			durationString: episode.metadata.durationString,
-			uploadDate: episode.metadata.uploadDate,
-			guests: episode.guests,
-		},
-	}));
+	return episode.lines.map((line) => {
+		const lineHash = createHash('sha1').update(line.content).digest('hex');
+
+		return {
+			id: `${episode.id}_${line.start}-${lineHash}`,
+			start: line.start,
+			content: line.content,
+			episode: {
+				id: episode.id,
+				code: episode.metadata.code,
+				title: episode.metadata.title,
+				seasonNumber: episode.metadata.seasonNumber,
+				episodeNumber: episode.metadata.episodeNumber,
+				description: episode.metadata.description.replace(/<[^>]*>?/gm, ''),
+				durationString: episode.metadata.durationString,
+				uploadDate: episode.metadata.uploadDate,
+				guests: episode.guests,
+			},
+		};
+	});
 }
