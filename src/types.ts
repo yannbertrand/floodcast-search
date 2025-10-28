@@ -27,10 +27,8 @@ export type EpisodeForAlgolia = {
 		code: string[6];
 		title: string;
 		seasonNumber: number;
-		episodeNumber: number;
 		description: string;
 		durationString: string;
-		uploadDate: string[10];
 		guests: string[];
 	};
 };

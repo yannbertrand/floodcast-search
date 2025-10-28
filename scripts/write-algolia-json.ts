@@ -58,10 +58,8 @@ export function removeEpisodeUnusedAttributes(
 				code: episode.metadata.code,
 				title: episode.metadata.title,
 				seasonNumber: episode.metadata.seasonNumber,
-				episodeNumber: episode.metadata.episodeNumber,
 				description: episode.metadata.description.replace(/<[^>]*>?/gm, ''),
 				durationString: episode.metadata.durationString,
-				uploadDate: episode.metadata.uploadDate,
 				guests: episode.guests,
 			},
 		};
