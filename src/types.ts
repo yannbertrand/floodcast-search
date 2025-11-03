@@ -34,6 +34,7 @@ export type EpisodeForAlgolia = {
 };
 
 export type EpisodeLine = {
+	id: string;
 	start: number;
 	startString: string[12];
 	end: number;

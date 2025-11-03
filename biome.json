@@ -8,7 +8,7 @@
 	"files": {
 		"ignoreUnknown": false,
 		"includes": ["**", "!.astro", "!**/dist", "!public/algolia/episodes.json"],
-		"maxSize": 1270000
+		"maxSize": 1470000
 	},
 	"formatter": {
 		"enabled": true,

@@ -47,28 +47,47 @@ Oui !
 On part sur un jingle.`;
 
 	it('should return an array', () => {
-		expect(getEpisodeLinesFromVtt(vttContent)).toBeInstanceOf(Array);
+		expect(getEpisodeLinesFromVtt('episode', vttContent)).toBeInstanceOf(Array);
 	});
 
 	it('should return one object per lines', () => {
-		expect(getEpisodeLinesFromVtt(vttContent)).toHaveLength(4);
+		expect(getEpisodeLinesFromVtt('episode', vttContent)).toHaveLength(4);
 	});
 
 	describe('line', () => {
+		it('id', () => {
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[0]).toHaveProperty(
+				'id',
+				'episode_0-bb0f3d2baaf17560c0a539f4ec9024e3519d832b',
+			);
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[1]).toHaveProperty(
+				'id',
+				'episode_1-3c78419ca34ee585139747ba54a30fa8423953bc',
+			);
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[2]).toHaveProperty(
+				'id',
+				'episode_2-93b043e23dd79510a3248a90e7722b491ed94148',
+			);
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[3]).toHaveProperty(
+				'id',
+				'episode_3720-d69fd3ce5ace618ddc61f439fc2c534a5f11d2b7',
+			);
+		});
+
 		it('content', () => {
-			expect(getEpisodeLinesFromVtt(vttContent)[0]).toHaveProperty(
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[0]).toHaveProperty(
 				'content',
 				"Il s'agit du FloodCast",
 			);
-			expect(getEpisodeLinesFromVtt(vttContent)[1]).toHaveProperty(
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[1]).toHaveProperty(
 				'content',
 				'Ça pue la merde !',
 			);
-			expect(getEpisodeLinesFromVtt(vttContent)[2]).toHaveProperty(
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[2]).toHaveProperty(
 				'content',
 				'Oui !',
 			);
-			expect(getEpisodeLinesFromVtt(vttContent)[3]).toHaveProperty(
+			expect(getEpisodeLinesFromVtt('episode', vttContent)[3]).toHaveProperty(
 				'content',
 				'On part sur un jingle.',
 			);
@@ -76,38 +95,38 @@ On part sur un jingle.`;
 
 		describe('start', () => {
 			it('should contain startString', () => {
-				expect(getEpisodeLinesFromVtt(vttContent)[0]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[0]).toHaveProperty(
 					'startString',
 					'00:00.000',
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[1]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[1]).toHaveProperty(
 					'startString',
 					'00:01.500',
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[2]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[2]).toHaveProperty(
 					'startString',
 					'00:02.500',
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[3]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[3]).toHaveProperty(
 					'startString',
 					'01:02:00.080',
 				);
 			});
 
 			it('should contain start as down rounded number', () => {
-				expect(getEpisodeLinesFromVtt(vttContent)[0]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[0]).toHaveProperty(
 					'start',
 					0,
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[1]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[1]).toHaveProperty(
 					'start',
 					1,
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[2]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[2]).toHaveProperty(
 					'start',
 					2,
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[3]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[3]).toHaveProperty(
 					'start',
 					Math.floor(0.08 + 0 + 2 * 60 + 1 * 60 * 60),
 				);
@@ -116,29 +135,38 @@ On part sur un jingle.`;
 
 		describe('end', () => {
 			it('should contain endString', () => {
-				expect(getEpisodeLinesFromVtt(vttContent)[0]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[0]).toHaveProperty(
 					'endString',
 					'00:01.500',
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[1]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[1]).toHaveProperty(
 					'endString',
 					'00:02.500',
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[2]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[2]).toHaveProperty(
 					'endString',
 					'00:06.500',
 				);
-				expect(getEpisodeLinesFromVtt(vttContent)[3]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[3]).toHaveProperty(
 					'endString',
 					'01:02:01.080',
 				);
 			});
 
 			it('should contain end as rounded up number', () => {
-				expect(getEpisodeLinesFromVtt(vttContent)[0]).toHaveProperty('end', 2);
-				expect(getEpisodeLinesFromVtt(vttContent)[1]).toHaveProperty('end', 3);
-				expect(getEpisodeLinesFromVtt(vttContent)[2]).toHaveProperty('end', 7);
-				expect(getEpisodeLinesFromVtt(vttContent)[3]).toHaveProperty(
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[0]).toHaveProperty(
+					'end',
+					2,
+				);
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[1]).toHaveProperty(
+					'end',
+					3,
+				);
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[2]).toHaveProperty(
+					'end',
+					7,
+				);
+				expect(getEpisodeLinesFromVtt('episode', vttContent)[3]).toHaveProperty(
 					'end',
 					Math.ceil(0.08 + 1 + 2 * 60 + 1 * 60 * 60),
 				);

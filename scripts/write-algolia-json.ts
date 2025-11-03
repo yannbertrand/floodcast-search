@@ -1,4 +1,3 @@
-import { createHash } from 'node:crypto';
 import { access, constants, writeFile } from 'node:fs/promises';
 import type { Episode, EpisodeForAlgolia } from '../src/types.ts';
 import {
@@ -47,10 +46,8 @@ export function removeEpisodeUnusedAttributes(
 	episode: Episode,
 ): EpisodeForAlgolia[] {
 	return episode.lines.map((line) => {
-		const lineHash = createHash('sha1').update(line.content).digest('hex');
-
 		return {
-			id: `${episode.id}_${line.start}-${lineHash}`,
+			id: line.id,
 			start: line.start,
 			content: line.content,
 			episode: {

@@ -22,6 +22,7 @@ describe('removeEpisodeUnusedAttributes', () => {
 			},
 			lines: [
 				{
+					id: 'S10E05_-_Folkloriste_Professionnel_0-bb0f3d2baaf17560c0a539f4ec9024e3519d832b',
 					startString: '00:00:00.000',
 					start: 0,
 					endString: '00:00:01.500',

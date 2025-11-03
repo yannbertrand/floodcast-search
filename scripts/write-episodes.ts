@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import {
 	access,
 	constants,
@@ -98,7 +99,7 @@ export async function writeEpisodeFiles(
 		const episodeFileContent: Episode = {
 			id: baseFileName,
 			metadata: getEpisodeMetadataFromYtDlpEpisodeInfo(episodeInfoFileContent),
-			lines: getEpisodeLinesFromVtt(episodeSubtitlesFileContent),
+			lines: getEpisodeLinesFromVtt(baseFileName, episodeSubtitlesFileContent),
 			guests: [],
 		};
 
@@ -211,7 +212,10 @@ type EpisodeInfoFromTitle = {
 	code: string[6];
 };
 
-export function getEpisodeLinesFromVtt(vttContent: string): EpisodeLine[] {
+export function getEpisodeLinesFromVtt(
+	episodeId: string,
+	vttContent: string,
+): EpisodeLine[] {
 	const vttLines = vttContent.split('\n');
 	const lines = [];
 	for (let index = 0; index < vttLines.length; index++) {
@@ -236,7 +240,11 @@ export function getEpisodeLinesFromVtt(vttContent: string): EpisodeLine[] {
 		const start = convertVttTimecodeToNumber(lineInfo.groups.start);
 		const end = convertVttTimecodeToNumber(lineInfo.groups.end);
 
+		const lineHash = createHash('sha1')
+			.update(vttLines[index + 1])
+			.digest('hex');
 		const line = {
+			id: `${episodeId}_${Math.floor(start)}-${lineHash}`,
 			start: Math.floor(start),
 			startString: lineInfo.groups.start,
 			end: Math.ceil(end),
