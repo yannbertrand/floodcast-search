@@ -196,11 +196,16 @@ algolia.start();
     margin-bottom: var(--pico-spacing);
 }
 .facets {
-    flex-shrink: 0;
     flex-basis: 210px;
 }
 .list-seasons {
     padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.list-seasons li {
+    list-style: none;
+    padding: 0.4rem;
 }
 .list-seasons li::marker {
     content: '';
