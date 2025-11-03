@@ -10,6 +10,7 @@ const searchClient = algoliasearch(
 type HomeSearchQueryParams = {
 	saison?: string[];
 	recherche?: string;
+	guest?: string;
 };
 
 type GenericObject = {
@@ -32,6 +33,9 @@ const algolia = instantsearch({
 				if (routeState.seasons) {
 					queryParameters.saison = routeState.seasons as string[];
 				}
+				if (routeState.guests) {
+					queryParameters.guest = routeState.guests as string[];
+				}
 
 				const queryString = qsModule.stringify(queryParameters, {
 					addQueryPrefix: true,
@@ -42,15 +46,19 @@ const algolia = instantsearch({
 			},
 
 			parseURL({ qsModule, location }): GenericObject {
-				const { recherche = '', saison = [] } = qsModule.parse(
-					location.search.slice(1),
-				);
+				const {
+					recherche = '',
+					saison = [],
+					guest = [],
+				} = qsModule.parse(location.search.slice(1));
 
 				const allSeasons = Array.isArray(saison) ? saison : [saison];
+				const allGuests = Array.isArray(guest) ? guest : [guest];
 
 				return {
 					query: recherche as string,
 					seasons: allSeasons as string[],
+					guests: allGuests as string[],
 				};
 			},
 		}),
@@ -62,6 +70,7 @@ const algolia = instantsearch({
 				return {
 					query: indexUiState.query,
 					seasons: indexUiState.refinementList?.['episode.seasonNumber'],
+					guests: indexUiState.refinementList?.['episode.guests'],
 				};
 			},
 
@@ -71,6 +80,7 @@ const algolia = instantsearch({
 						query: routeState.query,
 						refinementList: {
 							'episode.seasonNumber': routeState.seasons,
+							'episode.guests': routeState.guests,
 						},
 					},
 				};

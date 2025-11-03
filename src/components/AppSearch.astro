@@ -1,6 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import _netlifyLogo from '@assets/netlify.svg';
+import SearchableRefinementList from '@components/SearchableRefinementList.astro';
 import SearchBox from '@components/SearchBox.astro';
 ---
 <div id="searchbox">
@@ -8,9 +9,12 @@ import SearchBox from '@components/SearchBox.astro';
 </div>
 
 <div class="content">
-    <div class="facets">
+    <div id="facets" class="facets">
         <h2>Saison</h2>
         <div id="season"></div>
+
+        <h2>Invitée</h2>
+        <SearchableRefinementList />
     </div>
 
     <div id="hits" class="hits"></div>
@@ -29,9 +33,10 @@ import algolia from '@services/algolia.service.ts';
 import type { InstantSearchStatus } from 'instantsearch.js/es/types/instantsearch.d.ts';
 import connectSearchBox, { type SearchBoxRenderState } from 'instantsearch.js/es/connectors/search-box/connectSearchBox';
 import { getContainerNode } from 'instantsearch.js/es/lib/utils/getContainerNode';
-import { infiniteHits, poweredBy } from 'instantsearch.js/es/widgets';
+import { configure, infiniteHits, poweredBy } from 'instantsearch.js/es/widgets';
 import type { SearchBoxWidgetParams } from 'instantsearch.js/es/widgets/search-box/search-box';
 import { refinementList } from "instantsearch.js/es/widgets";
+import getSearchableRefinementList from '@components/SearchableRefinementList.ts';
 
 function renderSearchBox  (
     renderOptions: SearchBoxRenderState & { instantSearchInstance: { status: InstantSearchStatus }} & { widgetParams: SearchBoxWidgetParams },
@@ -58,17 +63,13 @@ function renderSearchBox  (
 
 const customSearchBox = connectSearchBox(renderSearchBox);
 
-algolia.addWidgets([
-    customSearchBox({
-        container: '#searchbox'
-    }),
-
-    refinementList({
-        container: "#season",
+const seasonRefinementList = refinementList({
+        container: '#season',
         attribute: 'episode.seasonNumber',
         cssClasses: {
             list: 'list-seasons'
         },
+        operator: 'and',
         templates: {
             item(item, { html }) {
                 const { label, count, isRefined } = item;
@@ -80,7 +81,16 @@ algolia.addWidgets([
                 `
             }
         }
+    })
+algolia.addWidgets([
+    customSearchBox({
+        container: '#searchbox'
     }),
+
+    seasonRefinementList,
+
+    configure({ maxValuesPerFacet: 900 }),
+    getSearchableRefinementList(),
 
     poweredBy({
         container: '#algolia',
@@ -117,12 +127,12 @@ algolia.start();
 }
 .facets {
     flex-shrink: 0;
-    flex-basis: 210px;
+    flex-basis: 250px;
 }
-.list-seasons {
+.ais-RefinementList-list {
     padding: 0;
 }
-.list-seasons li::marker {
+.ais-RefinementList-list li::marker {
     content: '';
 }
 .powered-by {
