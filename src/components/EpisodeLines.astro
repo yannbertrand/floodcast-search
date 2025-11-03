@@ -1,0 +1,16 @@
+---
+import type { Episode } from '../types.ts';
+
+interface Props {
+	episode: Episode;
+}
+
+const { episode } = Astro.props;
+---
+{episode.lines.map((line) => <p id={line.id}><small class="timer">{line.startString.slice(0, -4)}</small> <span class="line">{line.content}</span></p>)}
+<style>
+.timer {
+    margin-right: 1rem;
+    color: var(--pico-muted-color);
+}
+</style>

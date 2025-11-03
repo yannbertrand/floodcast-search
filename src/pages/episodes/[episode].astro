@@ -1,0 +1,69 @@
+---
+import '@picocss/pico';
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import _netlifyLogo from '@assets/netlify.svg';
+import EpisodeLines from '@components/EpisodeLines.astro';
+import EpisodeSearch from '@components/EpisodeSearch.astro';
+
+export async function getStaticPaths() {
+	const episodes = await getCollection('episodes');
+	return episodes.map((episode) => {
+		return {
+			params: { episode: episode.id },
+			props: { episode },
+		};
+	});
+}
+
+const { episode } = Astro.props;
+---
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>FloodCast Search > {episode.data.metadata.code} - {episode.data.metadata.title}</title>
+  </head>
+  <body>
+    <main class="container">
+        <hgroup class="titles">
+            <a href="/"><h1>FloodCast > Il s'agissait du…</h1></a>
+            <p class="title">{episode.data.metadata.title}<span class="code">{episode.data.metadata.code}</p>
+        </hgroup>
+        <div class="description" set:html={episode.data.metadata.description} />
+        <ul class="guests">
+            <h2>Invités</h2>
+            {episode.data.guests.map((guest: string) => (
+                <li>{guest}</li>
+            ))}
+        </ul>
+        <hr>
+        <EpisodeSearch episode={episode.data} />
+        <hr>
+        <EpisodeLines episode={episode.data} />
+
+        <a href="https://www.netlify.com">
+            <Image src={_netlifyLogo} alt="Deployé par Netlify" width="114" height="51">
+        </a>
+    </main>
+  </body>
+</html>
+
+<style>
+.titles .title {
+    color: var(--pico-primary);
+    --pico-font-size: 1.2rem;
+    --pico-font-weight: 600;
+    --pico-font-family: var(--pico-font-family-sans-serif);
+    text-transform: uppercase;
+}
+.titles .code {
+    float: right;
+}
+.description {
+    --pico-typography-spacing-vertical: calc(var(--pico-typography-spacing-vertical) / 2)
+}
+.description br {
+    line-height: 0!important;
+}
+</style>

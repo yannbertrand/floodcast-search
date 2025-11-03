@@ -2,19 +2,19 @@
 import { Image } from 'astro:assets';
 import _netlifyLogo from '@assets/netlify.svg';
 import SearchBox from '@components/SearchBox.astro';
+import type { Episode } from '../types.ts';
+
+interface Props {
+	episode: Episode;
+}
+
+const { episode } = Astro.props;
 ---
-<div id="searchbox">
+<div id="searchbox" data-episode-id={episode.id}>
     <SearchBox />
 </div>
 
-<div class="content">
-    <div class="facets">
-        <h2>Saison</h2>
-        <div id="season"></div>
-    </div>
-
-    <div id="hits" class="hits"></div>
-</div>
+<div id="hits" class="hits"></div>
 
 <div class="powered-by">
     <a href="https://www.netlify.com">
@@ -28,38 +28,40 @@ import SearchBox from '@components/SearchBox.astro';
 import { indexName, searchClient } from '@services/algolia.service.ts';
 import type { InstantSearchStatus } from 'instantsearch.js/es/types/instantsearch.d.ts';
 import connectSearchBox, { type SearchBoxRenderState } from 'instantsearch.js/es/connectors/search-box/connectSearchBox';
-import { infiniteHits, poweredBy } from 'instantsearch.js/es/widgets';
+import { getContainerNode } from 'instantsearch.js/es/lib/utils/getContainerNode';
+import { configure, infiniteHits, poweredBy } from 'instantsearch.js/es/widgets';
 import type { SearchBoxWidgetParams } from 'instantsearch.js/es/widgets/search-box/search-box';
-import { refinementList } from "instantsearch.js/es/widgets";
-import instantsearch, { type UiState } from 'instantsearch.js/es';
+import instantsearch, { type UiState } from 'instantsearch.js';
 import { history } from 'instantsearch.js/es/lib/routers';
 
-const inputElement = document.querySelector('input') as HTMLInputElement;
+const episodeId = document.getElementById('searchbox')?.dataset.episodeId
+
 function renderSearchBox  (
     renderOptions: SearchBoxRenderState & { instantSearchInstance: { status: InstantSearchStatus }} & { widgetParams: SearchBoxWidgetParams },
     isFirstRender: boolean
 ) {
     const { query, refine, instantSearchInstance, widgetParams } = renderOptions;
+    const container = getContainerNode(widgetParams.container);
     const isSearchStalled = instantSearchInstance.status === 'stalled';
+    const input = container.querySelector('input') as HTMLInputElement;
 
     if (isFirstRender) {
-        inputElement.addEventListener('input', (event) => {
+        input.addEventListener('input', (event) => {
             refine((event.currentTarget as HTMLInputElement).value);
         });
     }
 
-    inputElement.value = query;
+    input.value = query;
     if (isSearchStalled) {
-        inputElement.classList.add('loading');
+        input.classList.add('loading');
     } else {
-        inputElement.classList.remove('loading');
+        input.classList.remove('loading');
     }
 };
 
 const customSearchBox = connectSearchBox(renderSearchBox);
 
-type HomeSearchQueryParams = {
-	saison?: string[];
+type EpisodeSearchQueryParams = {
 	recherche?: string;
 };
 
@@ -72,15 +74,14 @@ const algolia = instantsearch({
 	indexName,
 	searchClient,
 	routing: {
-		router: history({
+        router: history({
 			createURL({ qsModule, routeState, location }) {
 				const baseUrl = location.origin;
-				const queryParameters: HomeSearchQueryParams = {};
+				const pathname = location.pathname;
+				const hash = location.hash;
+				const queryParameters: EpisodeSearchQueryParams = {};
 				if (routeState.query) {
 					queryParameters.recherche = routeState.query as string;
-				}
-				if (routeState.seasons) {
-					queryParameters.saison = routeState.seasons as string[];
 				}
 
 				const queryString = qsModule.stringify(queryParameters, {
@@ -88,19 +89,16 @@ const algolia = instantsearch({
 					arrayFormat: 'repeat',
 				});
 
-				return `${baseUrl}${queryString}`;
+				return `${baseUrl}${pathname}${queryString}${hash}`;
 			},
 
 			parseURL({ qsModule, location }): GenericObject {
-				const { recherche = '', saison = [] } = qsModule.parse(
+				const { recherche = '' } = qsModule.parse(
 					location.search.slice(1),
 				);
 
-				const allSeasons = Array.isArray(saison) ? saison : [saison];
-
 				return {
 					query: recherche as string,
-					seasons: allSeasons as string[],
 				};
 			},
 		}),
@@ -111,7 +109,6 @@ const algolia = instantsearch({
 
 				return {
 					query: indexUiState.query,
-					seasons: indexUiState.refinementList?.['episode.seasonNumber'],
 				};
 			},
 
@@ -119,42 +116,26 @@ const algolia = instantsearch({
 				return {
 					[indexName]: {
 						query: routeState.query,
-						refinementList: {
-							'episode.seasonNumber': routeState.seasons,
-						},
 					},
 				};
 			},
 		},
-	},
-});
+    }
+})
 
 algolia.addWidgets([
     customSearchBox({
         container: '#searchbox'
     }),
 
-    refinementList({
-        container: "#season",
-        attribute: 'episode.seasonNumber',
-        cssClasses: {
-            list: 'list-seasons'
-        },
-        templates: {
-            item(item, { html }) {
-                const { label, count, isRefined } = item;
-
-                return html`
-                    <input type="checkbox" class="ais-RefinementList-checkbox" checked="${isRefined}" />
-                    <span class="ais-RefinementList-labelText">Saison ${label}</span>
-                    <span class="ais-RefinementList-count"> (${count})</span>
-                `
-            }
-        }
-    }),
-
     poweredBy({
         container: '#algolia',
+    }),
+
+    configure({
+        distinct: false,
+        filters: `episode.id: "${episodeId}"`,
+        hitsPerPage: 3,
     }),
 
     infiniteHits({
@@ -167,12 +148,9 @@ algolia.addWidgets([
             showPreviousText: () => 'Voir moins',
             empty: () => '<h2>Pas de résultats</h2>',
             item(hit, { html, components }) {
-                return html`<a href="/episodes/${hit.episode.id.toLowerCase()}?recherche=${inputElement.value}" class="link">
-                    <article>
-                        <h2 class="title">${components.Highlight({ hit, attribute: 'episode.title' })} <small>${components.Highlight({ hit, attribute: 'episode.code' })}</small></h2>
-                        <p>...${components.Highlight({ hit, attribute: 'content' })}...</p>
-                    </article>
-                </a>`;
+                return html`
+                    <p><a href="#${hit.id}">${components.Highlight({ hit, attribute: 'content' })}</a></p>
+                `;
             },
         },
     }),
@@ -215,10 +193,6 @@ algolia.start();
     gap: var(--pico-spacing);
     list-style: none;
     padding: 0;
-
-    & .link {
-        --pico-text-decoration: none;
-    }
 
     & .title {
         --pico-font-size: 1rem;
