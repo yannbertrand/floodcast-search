@@ -167,7 +167,13 @@ algolia.addWidgets([
             showPreviousText: () => 'Voir moins',
             empty: () => '<h2>Pas de résultats</h2>',
             item(hit, { html, components }) {
-                return html`<a href="/episodes/${hit.episode.id.toLowerCase()}?recherche=${inputElement.value}" class="link">
+                const episodeId = hit.episode.id.toLowerCase();
+                const recherche = inputElement.value.trim();
+                let episodeUrl = `/episodes/${episodeId}`;
+                if (recherche.length > 0) {
+                    episodeUrl += `?recherche=${recherche}`
+                }
+                return html`<a href="${episodeUrl}" class="link">
                     <article>
                         <h2 class="title">${components.Highlight({ hit, attribute: 'episode.title' })} <small>${components.Highlight({ hit, attribute: 'episode.code' })}</small></h2>
                         <p>...${components.Highlight({ hit, attribute: 'content' })}...</p>
