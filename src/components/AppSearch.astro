@@ -3,16 +3,16 @@ import { Image } from 'astro:assets';
 import _netlifyLogo from '@assets/netlify.svg';
 import SearchBox from '@components/SearchBox.astro';
 ---
-<div id="searchbox">
+<div id="searchbox" class="searchbox">
     <h2>Rechercher un épisode</h2>
     <SearchBox />
 </div>
 
 <div class="content">
-    <div class="facets">
-        <h2>Filtrer</h2>
+    <details class="facets" open>
+        <summary>Filtrer</summary>
         <div id="season"></div>
-    </div>
+    </details>
 
     <div id="hits" class="hits"></div>
 </div>
@@ -195,8 +195,11 @@ algolia.start();
     gap: var(--pico-spacing);
     margin-bottom: var(--pico-spacing);
 }
+.searchbox {
+    margin-bottom: calc(2 * var(--pico-spacing));
+}
 .facets {
-    flex-basis: 210px;
+    flex: 1 1 210px;
 }
 .list-seasons {
     padding: 0;
@@ -219,7 +222,7 @@ algolia.start();
 }
 .hits {
     margin-bottom: var(--pico-spacing);
-    flex: 1;
+    flex: 50;
 }
 .list-episodes {
     display: grid;
