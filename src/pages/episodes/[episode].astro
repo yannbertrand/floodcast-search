@@ -17,6 +17,8 @@ export async function getStaticPaths() {
 }
 
 const { episode } = Astro.props;
+
+const hasGuests = episode.data.guests.length > 0;
 ---
 <html lang="fr">
   <head>
@@ -31,15 +33,20 @@ const { episode } = Astro.props;
             <p class="title">{episode.data.metadata.title}<span class="code">{episode.data.metadata.code}</p>
         </hgroup>
         <div class="description" set:html={episode.data.metadata.description} />
-        <ul class="guests">
+        <p>Sortie le {episode.data.metadata.uploadDate}</p>
+        {hasGuests &&
             <h2>Invités</h2>
-            {episode.data.guests.map((guest: string) => (
-                <li>{guest}</li>
-            ))}
-        </ul>
+            <ul class="guests">
+                {episode.data.guests.map((guest: string) => (
+                    <li>{guest}</li>
+                ))}
+            </ul>
+        }
         <hr>
+        <h2>Rechercher dans l'épisode</h2>
         <EpisodeSearch episode={episode.data} />
         <hr>
+        <h2>Transcription de l'épisode</h2>
         <EpisodeLines episode={episode.data} />
 
         <a href="https://www.netlify.com">
@@ -51,19 +58,29 @@ const { episode } = Astro.props;
 
 <style>
 .titles .title {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
     color: var(--pico-primary);
-    --pico-font-size: 1.2rem;
+    font-size: 1.6rem;
     --pico-font-weight: 600;
     --pico-font-family: var(--pico-font-family-sans-serif);
     text-transform: uppercase;
 }
-.titles .code {
+.titles .title .code {
     float: right;
+    color: var(--pico-color);
+    font-size: 1.0rem;
 }
 .description {
     --pico-typography-spacing-vertical: calc(var(--pico-typography-spacing-vertical) / 2)
 }
 .description br {
     line-height: 0!important;
+}
+.guests {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 calc(2 * var(--pico-spacing));
 }
 </style>
