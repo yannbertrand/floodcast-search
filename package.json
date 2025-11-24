@@ -26,7 +26,7 @@
 	"dependencies": {
 		"@astrojs/check": "0.9.5",
 		"@picocss/pico": "2.1.1",
-		"algoliasearch": "5.44.0",
+		"algoliasearch": "5.45.0",
 		"astro": "5.16.0",
 		"instantsearch.js": "4.84.0",
 		"typescript": "5.9.3"
