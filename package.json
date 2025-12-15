@@ -20,7 +20,7 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"@biomejs/biome": "2.3.8",
+		"@biomejs/biome": "2.3.9",
 		"vitest": "4.0.15"
 	},
 	"dependencies": {
