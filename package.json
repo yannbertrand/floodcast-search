@@ -21,7 +21,7 @@
 	"license": "MIT",
 	"devDependencies": {
 		"@biomejs/biome": "2.4.10",
-		"vitest": "4.1.0"
+		"vitest": "4.1.2"
 	},
 	"dependencies": {
 		"@astrojs/check": "0.9.6",
