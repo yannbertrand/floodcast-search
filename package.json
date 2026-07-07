@@ -29,6 +29,6 @@
 		"algoliasearch": "5.55.1",
 		"astro": "5.16.6",
 		"instantsearch.js": "4.105.0",
-		"typescript": "5.9.3"
+		"typescript": "6.0.3"
 	}
 }
