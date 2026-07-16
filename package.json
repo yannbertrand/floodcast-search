@@ -28,7 +28,7 @@
 		"@picocss/pico": "2.1.1",
 		"algoliasearch": "5.56.0",
 		"astro": "5.16.6",
-		"instantsearch.js": "4.105.0",
+		"instantsearch.js": "4.106.0",
 		"typescript": "5.9.3"
 	}
 }
